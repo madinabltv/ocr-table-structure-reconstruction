@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "document_id": "relation_demo",
+  "image_size": {"width": 800, "height": 240},
+  "fragments": [
+    {"id": 0, "text": "Припой", "bbox": [30, 30, 130, 60], "confidence": 0.99},
+    {"id": 1, "text": "Температура", "bbox": [310, 30, 470, 60], "confidence": 0.99},
+    {"id": 2, "text": "ПОС", "bbox": [30, 110, 90, 140], "confidence": 0.98},
+    {"id": 3, "text": "61", "bbox": [100, 110, 130, 140], "confidence": 0.98},
+    {"id": 4, "text": "183", "bbox": [340, 110, 395, 140], "confidence": 0.98},
+    {"id": 5, "text": "ПОС", "bbox": [30, 170, 90, 200], "confidence": 0.98},
+    {"id": 6, "text": "40", "bbox": [100, 170, 130, 200], "confidence": 0.98},
+    {"id": 7, "text": "238", "bbox": [340, 170, 395, 200], "confidence": 0.98}
+  ],
+  "cells": [
+    {"id": "c00", "row_start": 0, "row_end": 0, "column_start": 0, "column_end": 0, "fragment_ids": [0]},
+    {"id": "c01", "row_start": 0, "row_end": 0, "column_start": 1, "column_end": 1, "fragment_ids": [1]},
+    {"id": "c10", "row_start": 1, "row_end": 1, "column_start": 0, "column_end": 0, "fragment_ids": [2, 3]},
+    {"id": "c11", "row_start": 1, "row_end": 1, "column_start": 1, "column_end": 1, "fragment_ids": [4]},
+    {"id": "c20", "row_start": 2, "row_end": 2, "column_start": 0, "column_end": 0, "fragment_ids": [5, 6]},
+    {"id": "c21", "row_start": 2, "row_end": 2, "column_start": 1, "column_end": 1, "fragment_ids": [7]}
+  ]
+}

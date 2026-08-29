@@ -1,0 +1,289 @@
+{
+  "schema_version": "0.1",
+  "created_at": "2026-08-16T16:02:14.051319+00:00",
+  "source_image": "table_06_element_tolerances.png",
+  "image_size": {
+    "width": 1900,
+    "height": 650
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 6
+  },
+  "fragment_count": 16,
+  "fragments": [
+    {
+      "id": 0,
+      "text": "Наименование",
+      "bbox": [
+        210,
+        91,
+        660,
+        140
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "элемента",
+      "bbox": [
+        687,
+        107,
+        962,
+        140
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 2,
+      "text": "Допускаемые",
+      "bbox": [
+        1284,
+        51,
+        1695,
+        136
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 3,
+      "text": "отклонения,",
+      "bbox": [
+        1265,
+        143,
+        1638,
+        187
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 4,
+      "text": "%",
+      "bbox": [
+        1670,
+        126,
+        1717,
+        180
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 5,
+      "text": "Углерод",
+      "bbox": [
+        57,
+        252,
+        333,
+        320
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 6,
+      "text": "+0,01",
+      "bbox": [
+        1403,
+        252,
+        1574,
+        320
+      ],
+      "confidence": 0.89,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 7,
+      "text": "Кремний",
+      "bbox": [
+        61,
+        342,
+        374,
+        410
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 8,
+      "text": "для",
+      "bbox": [
+        399,
+        360,
+        518,
+        406
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 2
+      }
+    },
+    {
+      "id": 9,
+      "text": "спокойной",
+      "bbox": [
+        545,
+        344,
+        919,
+        396
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 3
+      }
+    },
+    {
+      "id": 10,
+      "text": "стали",
+      "bbox": [
+        948,
+        360,
+        1133,
+        396
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 4
+      }
+    },
+    {
+      "id": 11,
+      "text": "+0,02",
+      "bbox": [
+        1403,
+        342,
+        1580,
+        410
+      ],
+      "confidence": 0.87,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 5
+      }
+    },
+    {
+      "id": 12,
+      "text": "Марганец",
+      "bbox": [
+        61,
+        435,
+        399,
+        502
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 1
+      }
+    },
+    {
+      "id": 13,
+      "text": "+0,03",
+      "bbox": [
+        1403,
+        435,
+        1576,
+        502
+      ],
+      "confidence": 0.88,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 2
+      }
+    },
+    {
+      "id": 14,
+      "text": "Фосфор",
+      "bbox": [
+        61,
+        525,
+        333,
+        594
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 1
+      }
+    },
+    {
+      "id": 15,
+      "text": "+0,005",
+      "bbox": [
+        1407,
+        527,
+        1619,
+        594
+      ],
+      "confidence": 0.72,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 2
+      }
+    }
+  ]
+}

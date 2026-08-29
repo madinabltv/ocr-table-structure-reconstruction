@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "name": "russian_ocr_table_structure_generalization_v8",
+  "description": "Independent Russian-language tables not used for model training or tuning. The primary group measures generalization; ocr_stress isolates degraded OCR.",
+  "selection_policy": "held_out_before_final_evaluation",
+  "groups": {
+    "primary": [
+      "table_1",
+      "table_2",
+      "table_4",
+      "table_9",
+      "table_12"
+    ],
+    "ocr_stress": [
+      "table_13",
+      "table_14",
+      "table_15"
+    ]
+  },
+  "documents": [
+    {
+      "id": "table_1",
+      "image": "data/images/generalization_v8/table_1.png",
+      "ocr": "data/ocr/generalization_v8/adaptive/table_1.json",
+      "ground_truth": "annotations/generalization_v8/table_1_cells_ground_truth.json",
+      "expected_rows": 18,
+      "expected_columns": 5,
+      "logical_header_rows": 1,
+      "difficulty": "web_grid_multiline_cells",
+      "evaluation_group": "primary",
+      "ocr_psm": 6
+    },
+    {
+      "id": "table_2",
+      "image": "data/images/generalization_v8/table_2.png",
+      "ocr": "data/ocr/generalization_v8/adaptive/table_2.json",
+      "ground_truth": "annotations/generalization_v8/table_2_cells_ground_truth.json",
+      "expected_rows": 6,
+      "expected_columns": 5,
+      "logical_header_rows": 2,
+      "difficulty": "two_level_header",
+      "evaluation_group": "primary",
+      "ocr_psm": 6
+    },
+    {
+      "id": "table_4",
+      "image": "data/images/generalization_v8/table_4.png",
+      "ocr": "data/ocr/generalization_v8/adaptive/table_4.json",
+      "ground_truth": "annotations/generalization_v8/table_4_cells_ground_truth.json",
+      "expected_rows": 16,
+      "expected_columns": 2,
+      "logical_header_rows": 1,
+      "difficulty": "dense_multiline_cells",
+      "evaluation_group": "primary",
+      "ocr_psm": 3
+    },
+    {
+      "id": "table_9",
+      "image": "data/images/generalization_v8/table_9.png",
+      "ocr": "data/ocr/generalization_v8/adaptive/table_9.json",
+      "ground_truth": "annotations/generalization_v8/table_9_cells_ground_truth.json",
+      "expected_rows": 15,
+      "expected_columns": 9,
+      "logical_header_rows": 2,
+      "difficulty": "wide_table_grouped_header",
+      "evaluation_group": "primary",
+      "ocr_psm": 6
+    },
+    {
+      "id": "table_12",
+      "image": "data/images/generalization_v8/table_12.png",
+      "ocr": "data/ocr/generalization_v8/adaptive/table_12.json",
+      "ground_truth": "annotations/generalization_v8/table_12_cells_ground_truth.json",
+      "expected_rows": 17,
+      "expected_columns": 3,
+      "logical_header_rows": 1,
+      "difficulty": "vertical_spans_and_ocr_omissions",
+      "evaluation_group": "primary",
+      "ocr_psm": 3
+    },
+    {
+      "id": "table_13",
+      "image": "data/images/generalization_v8/table_13.png",
+      "ocr": "data/ocr/generalization_v8/adaptive/table_13.json",
+      "ground_truth": "annotations/generalization_v8/table_13_cells_ground_truth.json",
+      "expected_rows": 19,
+      "expected_columns": 5,
+      "logical_header_rows": 3,
+      "difficulty": "degraded_scan_with_missing_fragments",
+      "evaluation_group": "ocr_stress",
+      "ocr_psm": 3
+    },
+    {
+      "id": "table_14",
+      "image": "data/images/generalization_v8/table_14.png",
+      "ocr": "data/ocr/generalization_v8/adaptive/table_14.json",
+      "ground_truth": "annotations/generalization_v8/table_14_cells_ground_truth.json",
+      "expected_rows": 11,
+      "expected_columns": 5,
+      "logical_header_rows": 0,
+      "difficulty": "continuation_page_with_missing_fragments",
+      "evaluation_group": "ocr_stress",
+      "ocr_psm": 3
+    },
+    {
+      "id": "table_15",
+      "image": "data/images/generalization_v8/table_15.png",
+      "ocr": "data/ocr/generalization_v8/adaptive/table_15.json",
+      "ground_truth": "annotations/generalization_v8/table_15_cells_ground_truth.json",
+      "expected_rows": 10,
+      "expected_columns": 6,
+      "logical_header_rows": 0,
+      "difficulty": "continuation_page_with_missing_fragments",
+      "evaluation_group": "ocr_stress",
+      "ocr_psm": 3
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+method,model,relation_accuracy,relation_macro_f1,relation_same_cell_f1,exact_cell_f1,same_cell_pair_f1,coordinate_accuracy,span_accuracy,spanning_cell_f1,spanning_cell_f1_on_span_documents,elapsed_seconds,exact_cell_rank,relation_right_f1,relation_below_f1
+rules,geometric_rules,0.586128,0.516074,0.646835,0.972159,0.991159,1.0,1.0,0.482143,0.964286,5.826,1,0.436036,0.660857
+ordered_pair_v6,outputs/models/ordered_pair_minilm_v6.joblib,0.558019,0.501504,0.724889,0.972159,0.991159,1.0,1.0,0.482143,0.964286,93.192,1,0.353628,0.427282
+geometry_text_v5,outputs/models/geometric_text_v5_tuned.joblib,0.562425,0.488951,0.701027,0.972159,0.991159,1.0,1.0,0.482143,0.964286,20.748,1,0.354568,0.437942
+geometry_only_v2,outputs/models/geometric_logreg_v2.joblib,0.457548,0.411934,0.431814,0.965094,0.945457,0.942708,1.0,0.408333,0.816667,17.486,4,0.293014,0.44298

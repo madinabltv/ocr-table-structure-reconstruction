@@ -1,0 +1,3570 @@
+{
+  "schema_version": "0.1",
+  "created_at": "2026-08-22T14:05:43.378672+00:00",
+  "source_image": "table_1.png",
+  "image_size": {
+    "width": 1898,
+    "height": 1472
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 6
+  },
+  "fragment_count": 209,
+  "fragments": [
+    {
+      "id": 0,
+      "text": "Год",
+      "bbox": [
+        47,
+        27,
+        103,
+        54
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "«",
+      "bbox": [
+        139,
+        36,
+        155,
+        44
+      ],
+      "confidence": 0.81,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 2,
+      "text": "+",
+      "bbox": [
+        215,
+        31,
+        231,
+        49
+      ],
+      "confidence": 0.61,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 3,
+      "text": "Русское",
+      "bbox": [
+        325,
+        27,
+        454,
+        57
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 4,
+      "text": "название",
+      "bbox": [
+        465,
+        32,
+        610,
+        51
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 5,
+      "text": "+",
+      "bbox": [
+        687,
+        31,
+        703,
+        49
+      ],
+      "confidence": 0.61,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 6,
+      "text": "Оригинальное",
+      "bbox": [
+        794,
+        26,
+        1024,
+        57
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 7,
+      "text": "название",
+      "bbox": [
+        1035,
+        32,
+        1180,
+        51
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 8,
+      "text": "+",
+      "bbox": [
+        1255,
+        31,
+        1271,
+        49
+      ],
+      "confidence": 0.61,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 9
+      }
+    },
+    {
+      "id": 9,
+      "text": "Ponb",
+      "bbox": [
+        1535,
+        27,
+        1613,
+        51
+      ],
+      "confidence": 0.89,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 10
+      }
+    },
+    {
+      "id": 10,
+      "text": "$",
+      "bbox": [
+        1861,
+        31,
+        1877,
+        49
+      ],
+      "confidence": 0.44,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 11
+      }
+    },
+    {
+      "id": 11,
+      "text": "2010—",
+      "bbox": [
+        23,
+        94,
+        122,
+        118
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 12,
+      "text": "2013",
+      "bbox": [
+        23,
+        146,
+        93,
+        170
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 13,
+      "text": "с",
+      "bbox": [
+        200,
+        127,
+        214,
+        151
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 14,
+      "text": "|",
+      "bbox": [
+        235,
+        116,
+        252,
+        155
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 3
+      }
+    },
+    {
+      "id": 15,
+      "text": "Танцевальная",
+      "bbox": [
+        259,
+        120,
+        471,
+        147
+      ],
+      "confidence": 0.29,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 4
+      }
+    },
+    {
+      "id": 16,
+      "text": "лихорадка!",
+      "bbox": [
+        482,
+        120,
+        651,
+        150
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 5
+      }
+    },
+    {
+      "id": 17,
+      "text": "Shake",
+      "bbox": [
+        734,
+        119,
+        823,
+        144
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 6
+      }
+    },
+    {
+      "id": 18,
+      "text": "It",
+      "bbox": [
+        833,
+        120,
+        851,
+        143
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 7
+      }
+    },
+    {
+      "id": 19,
+      "text": "Up",
+      "bbox": [
+        862,
+        120,
+        899,
+        150
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 8
+      }
+    },
+    {
+      "id": 20,
+      "text": "Ракель",
+      "bbox": [
+        1301,
+        120,
+        1407,
+        143
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 9
+      }
+    },
+    {
+      "id": 21,
+      "text": "«Рокки»",
+      "bbox": [
+        1419,
+        120,
+        1542,
+        143
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 10
+      }
+    },
+    {
+      "id": 22,
+      "text": "Блю",
+      "bbox": [
+        1556,
+        120,
+        1618,
+        143
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 11
+      }
+    },
+    {
+      "id": 23,
+      "text": "2011",
+      "bbox": [
+        23,
+        213,
+        85,
+        237
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 24,
+      "text": "с",
+      "bbox": [
+        200,
+        220,
+        214,
+        244
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 2
+      }
+    },
+    {
+      "id": 25,
+      "text": "|",
+      "bbox": [
+        235,
+        209,
+        252,
+        248
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 3
+      }
+    },
+    {
+      "id": 26,
+      "text": "Держись,",
+      "bbox": [
+        259,
+        213,
+        399,
+        243
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 4
+      }
+    },
+    {
+      "id": 27,
+      "text": "Чарли!",
+      "bbox": [
+        412,
+        213,
+        511,
+        243
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 5
+      }
+    },
+    {
+      "id": 28,
+      "text": "Good",
+      "bbox": [
+        734,
+        212,
+        812,
+        237
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 6
+      }
+    },
+    {
+      "id": 29,
+      "text": "Luck",
+      "bbox": [
+        820,
+        213,
+        888,
+        237
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 7
+      }
+    },
+    {
+      "id": 30,
+      "text": "Charlie",
+      "bbox": [
+        898,
+        212,
+        997,
+        237
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 8
+      }
+    },
+    {
+      "id": 31,
+      "text": "Ракель",
+      "bbox": [
+        1301,
+        213,
+        1407,
+        236
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 9
+      }
+    },
+    {
+      "id": 32,
+      "text": "«Рокки»",
+      "bbox": [
+        1419,
+        213,
+        1542,
+        236
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 10
+      }
+    },
+    {
+      "id": 33,
+      "text": "Блю",
+      "bbox": [
+        1556,
+        213,
+        1618,
+        236
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 11
+      }
+    },
+    {
+      "id": 34,
+      "text": "2011",
+      "bbox": [
+        23,
+        279,
+        85,
+        303
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 1
+      }
+    },
+    {
+      "id": 35,
+      "text": "с",
+      "bbox": [
+        200,
+        286,
+        214,
+        310
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 2
+      }
+    },
+    {
+      "id": 36,
+      "text": "|",
+      "bbox": [
+        236,
+        274,
+        253,
+        314
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 3
+      }
+    },
+    {
+      "id": 37,
+      "text": "Звёздные",
+      "bbox": [
+        260,
+        278,
+        409,
+        306
+      ],
+      "confidence": 0.56,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 4
+      }
+    },
+    {
+      "id": 38,
+      "text": "шалости",
+      "bbox": [
+        420,
+        284,
+        546,
+        302
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 5
+      }
+    },
+    {
+      "id": 39,
+      "text": "PrankStars",
+      "bbox": [
+        734,
+        274,
+        891,
+        314
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 6
+      }
+    },
+    {
+      "id": 40,
+      "text": "в",
+      "bbox": [
+        1300,
+        285,
+        1315,
+        302
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 7
+      }
+    },
+    {
+      "id": 41,
+      "text": "роли",
+      "bbox": [
+        1327,
+        284,
+        1396,
+        309
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 8
+      }
+    },
+    {
+      "id": 42,
+      "text": "самой",
+      "bbox": [
+        1407,
+        278,
+        1496,
+        303
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 9
+      }
+    },
+    {
+      "id": 43,
+      "text": "себя",
+      "bbox": [
+        1508,
+        278,
+        1574,
+        303
+      ],
+      "confidence": 0.89,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 10
+      }
+    },
+    {
+      "id": 44,
+      "text": "/",
+      "bbox": [
+        1585,
+        279,
+        1594,
+        302
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 11
+      }
+    },
+    {
+      "id": 45,
+      "text": "«Walk",
+      "bbox": [
+        1603,
+        279,
+        1855,
+        312
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 12
+      }
+    },
+    {
+      "id": 46,
+      "text": "the",
+      "bbox": [
+        1702,
+        274,
+        1748,
+        316
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 13
+      }
+    },
+    {
+      "id": 47,
+      "text": "Prank»",
+      "bbox": [
+        1761,
+        279,
+        1855,
+        312
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 14
+      }
+    },
+    {
+      "id": 48,
+      "text": "2011",
+      "bbox": [
+        23,
+        346,
+        85,
+        370
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 1
+      }
+    },
+    {
+      "id": 49,
+      "text": "тф",
+      "bbox": [
+        188,
+        348,
+        226,
+        377
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 2
+      }
+    },
+    {
+      "id": 50,
+      "text": "|",
+      "bbox": [
+        240,
+        341,
+        254,
+        381
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 3
+      }
+    },
+    {
+      "id": 51,
+      "text": "Турнир",
+      "bbox": [
+        259,
+        346,
+        366,
+        376
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 4
+      }
+    },
+    {
+      "id": 52,
+      "text": "Долины",
+      "bbox": [
+        376,
+        346,
+        492,
+        374
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 5
+      }
+    },
+    {
+      "id": 53,
+      "text": "Фей",
+      "bbox": [
+        503,
+        345,
+        564,
+        369
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 6
+      }
+    },
+    {
+      "id": 54,
+      "text": "Pixie",
+      "bbox": [
+        734,
+        346,
+        801,
+        370
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 7
+      }
+    },
+    {
+      "id": 55,
+      "text": "Hollow",
+      "bbox": [
+        811,
+        346,
+        908,
+        370
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 8
+      }
+    },
+    {
+      "id": 56,
+      "text": "Games",
+      "bbox": [
+        917,
+        345,
+        1019,
+        370
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 9
+      }
+    },
+    {
+      "id": 57,
+      "text": "Ферн",
+      "bbox": [
+        1299,
+        345,
+        1377,
+        376
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 10
+      }
+    },
+    {
+      "id": 58,
+      "text": "2012",
+      "bbox": [
+        23,
+        413,
+        93,
+        437
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 1
+      }
+    },
+    {
+      "id": 59,
+      "text": "с",
+      "bbox": [
+        200,
+        420,
+        214,
+        444
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 2
+      }
+    },
+    {
+      "id": 60,
+      "text": "|",
+      "bbox": [
+        236,
+        408,
+        250,
+        448
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 3
+      }
+    },
+    {
+      "id": 61,
+      "text": "Высший",
+      "bbox": [
+        261,
+        412,
+        380,
+        436
+      ],
+      "confidence": 0.66,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 4
+      }
+    },
+    {
+      "id": 62,
+      "text": "класс",
+      "bbox": [
+        392,
+        418,
+        476,
+        436
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 5
+      }
+    },
+    {
+      "id": 63,
+      "text": "A.N.T.",
+      "bbox": [
+        731,
+        413,
+        817,
+        436
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 6
+      }
+    },
+    {
+      "id": 64,
+      "text": "Farm",
+      "bbox": [
+        830,
+        413,
+        902,
+        437
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 7
+      }
+    },
+    {
+      "id": 65,
+      "text": "Зеккоя",
+      "bbox": [
+        1299,
+        412,
+        1406,
+        437
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 8
+      }
+    },
+    {
+      "id": 66,
+      "text": "Джонс",
+      "bbox": [
+        1418,
+        413,
+        1516,
+        441
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 9
+      }
+    },
+    {
+      "id": 67,
+      "text": "/",
+      "bbox": [
+        1525,
+        413,
+        1535,
+        436
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 10
+      }
+    },
+    {
+      "id": 68,
+      "text": "«Creative",
+      "bbox": [
+        1547,
+        412,
+        1680,
+        446
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 11
+      }
+    },
+    {
+      "id": 69,
+      "text": "consultANT»",
+      "bbox": [
+        1697,
+        413,
+        1872,
+        446
+      ],
+      "confidence": 0.78,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 12
+      }
+    },
+    {
+      "id": 70,
+      "text": "2012",
+      "bbox": [
+        23,
+        480,
+        93,
+        504
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 1
+      }
+    },
+    {
+      "id": 71,
+      "text": "Td",
+      "bbox": [
+        188,
+        482,
+        226,
+        511
+      ],
+      "confidence": 0.59,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 2
+      }
+    },
+    {
+      "id": 72,
+      "text": "Заклятые",
+      "bbox": [
+        260,
+        479,
+        408,
+        504
+      ],
+      "confidence": 0.76,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 3
+      }
+    },
+    {
+      "id": 73,
+      "text": "друзья",
+      "bbox": [
+        418,
+        485,
+        519,
+        510
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 4
+      }
+    },
+    {
+      "id": 74,
+      "text": "Frenemies",
+      "bbox": [
+        734,
+        480,
+        883,
+        504
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 5
+      }
+    },
+    {
+      "id": 75,
+      "text": "Хайли",
+      "bbox": [
+        1299,
+        479,
+        1392,
+        504
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 6
+      }
+    },
+    {
+      "id": 76,
+      "text": "Брэндон",
+      "bbox": [
+        1405,
+        480,
+        1528,
+        510
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 7
+      }
+    },
+    {
+      "id": 77,
+      "text": "2013",
+      "bbox": [
+        23,
+        546,
+        93,
+        570
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 1
+      }
+    },
+    {
+      "id": 78,
+      "text": "вф",
+      "bbox": [
+        187,
+        548,
+        227,
+        577
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 2
+      }
+    },
+    {
+      "id": 79,
+      "text": "|",
+      "bbox": [
+        239,
+        533,
+        255,
+        581
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 3
+      }
+    },
+    {
+      "id": 80,
+      "text": "Пятёрка",
+      "bbox": [
+        261,
+        545,
+        386,
+        576
+      ],
+      "confidence": 0.89,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 4
+      }
+    },
+    {
+      "id": 81,
+      "text": "супергероев!АН\"Л-]",
+      "bbox": [
+        397,
+        537,
+        660,
+        576
+      ],
+      "confidence": 0.09,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 5
+      }
+    },
+    {
+      "id": 82,
+      "text": "|",
+      "bbox": [
+        699,
+        533,
+        723,
+        581
+      ],
+      "confidence": 0.64,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 6
+      }
+    },
+    {
+      "id": 83,
+      "text": "Super",
+      "bbox": [
+        734,
+        545,
+        820,
+        576
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 7
+      }
+    },
+    {
+      "id": 84,
+      "text": "Buddies",
+      "bbox": [
+        828,
+        546,
+        942,
+        570
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 8
+      }
+    },
+    {
+      "id": 85,
+      "text": "Леденец",
+      "bbox": [
+        1299,
+        546,
+        1429,
+        573
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 9
+      }
+    },
+    {
+      "id": 86,
+      "text": "2013",
+      "bbox": [
+        23,
+        613,
+        93,
+        637
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 1
+      }
+    },
+    {
+      "id": 87,
+      "text": "с",
+      "bbox": [
+        200,
+        620,
+        214,
+        644
+      ],
+      "confidence": 0.7,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 2
+      }
+    },
+    {
+      "id": 88,
+      "text": "|",
+      "bbox": [
+        231,
+        608,
+        249,
+        661
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 3
+      }
+    },
+    {
+      "id": 89,
+      "text": "Танцы",
+      "bbox": [
+        259,
+        613,
+        354,
+        640
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 4
+      }
+    },
+    {
+      "id": 90,
+      "text": "со",
+      "bbox": [
+        365,
+        618,
+        397,
+        636
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 5
+      }
+    },
+    {
+      "id": 91,
+      "text": "звёздами",
+      "bbox": [
+        408,
+        613,
+        550,
+        640
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 6
+      }
+    },
+    {
+      "id": 92,
+      "text": "Dancing",
+      "bbox": [
+        733,
+        613,
+        850,
+        643
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 7
+      }
+    },
+    {
+      "id": 93,
+      "text": "with",
+      "bbox": [
+        861,
+        613,
+        915,
+        636
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 8
+      }
+    },
+    {
+      "id": 94,
+      "text": "the",
+      "bbox": [
+        926,
+        613,
+        969,
+        637
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 9
+      }
+    },
+    {
+      "id": 95,
+      "text": "Stars",
+      "bbox": [
+        979,
+        612,
+        1052,
+        637
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 10
+      }
+    },
+    {
+      "id": 96,
+      "text": "конкурсант.",
+      "bbox": [
+        1299,
+        612,
+        1853,
+        646
+      ],
+      "confidence": 0.83,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 11
+      }
+    },
+    {
+      "id": 97,
+      "text": "(в",
+      "bbox": [
+        1480,
+        608,
+        1507,
+        661
+      ],
+      "confidence": 0.83,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 12
+      }
+    },
+    {
+      "id": 98,
+      "text": "паре",
+      "bbox": [
+        1520,
+        608,
+        1583,
+        661
+      ],
+      "confidence": 0.22,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 13
+      }
+    },
+    {
+      "id": 99,
+      "text": "с",
+      "bbox": [
+        1595,
+        608,
+        1613,
+        661
+      ],
+      "confidence": 0.22,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 14
+      }
+    },
+    {
+      "id": 100,
+      "text": "Чмерковським)",
+      "bbox": [
+        1626,
+        612,
+        1853,
+        646
+      ],
+      "confidence": 0.86,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 15
+      }
+    },
+    {
+      "id": 101,
+      "text": "2013",
+      "bbox": [
+        23,
+        680,
+        93,
+        704
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 1
+      }
+    },
+    {
+      "id": 102,
+      "text": "с",
+      "bbox": [
+        200,
+        687,
+        214,
+        711
+      ],
+      "confidence": 0.75,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 2
+      }
+    },
+    {
+      "id": 103,
+      "text": "The",
+      "bbox": [
+        736,
+        680,
+        787,
+        704
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 3
+      }
+    },
+    {
+      "id": 104,
+      "text": "Story",
+      "bbox": [
+        798,
+        679,
+        873,
+        710
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 4
+      }
+    },
+    {
+      "id": 105,
+      "text": "of",
+      "bbox": [
+        881,
+        679,
+        910,
+        704
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 5
+      }
+    },
+    {
+      "id": 106,
+      "text": "Zendaya",
+      "bbox": [
+        915,
+        680,
+        1039,
+        710
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 6
+      }
+    },
+    {
+      "id": 107,
+      "text": "в",
+      "bbox": [
+        1300,
+        686,
+        1315,
+        703
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 7
+      }
+    },
+    {
+      "id": 108,
+      "text": "роли",
+      "bbox": [
+        1327,
+        685,
+        1396,
+        710
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 8
+      }
+    },
+    {
+      "id": 109,
+      "text": "самой",
+      "bbox": [
+        1407,
+        679,
+        1496,
+        704
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 9
+      }
+    },
+    {
+      "id": 110,
+      "text": "себя",
+      "bbox": [
+        1508,
+        679,
+        1574,
+        704
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 10
+      }
+    },
+    {
+      "id": 111,
+      "text": "Zapped.",
+      "bbox": [
+        259,
+        746,
+        374,
+        777
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 12,
+        "word": 1
+      }
+    },
+    {
+      "id": 112,
+      "text": "Волшебное",
+      "bbox": [
+        388,
+        746,
+        556,
+        770
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 12,
+        "word": 2
+      }
+    },
+    {
+      "id": 113,
+      "text": "2014",
+      "bbox": [
+        23,
+        773,
+        93,
+        797
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 1
+      }
+    },
+    {
+      "id": 114,
+      "text": "тф",
+      "bbox": [
+        188,
+        775,
+        226,
+        804
+      ],
+      "confidence": 0.86,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 2
+      }
+    },
+    {
+      "id": 115,
+      "text": "Zapped",
+      "bbox": [
+        732,
+        772,
+        842,
+        803
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 3
+      }
+    },
+    {
+      "id": 116,
+      "text": "Зои",
+      "bbox": [
+        1299,
+        772,
+        1355,
+        797
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 4
+      }
+    },
+    {
+      "id": 117,
+      "text": "Стивенс",
+      "bbox": [
+        1366,
+        772,
+        1491,
+        797
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 5
+      }
+    },
+    {
+      "id": 118,
+      "text": "приложение",
+      "bbox": [
+        261,
+        804,
+        445,
+        829
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 14,
+        "word": 1
+      }
+    },
+    {
+      "id": 119,
+      "text": "2014",
+      "bbox": [
+        23,
+        865,
+        93,
+        889
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 1
+      }
+    },
+    {
+      "id": 120,
+      "text": "с",
+      "bbox": [
+        200,
+        872,
+        214,
+        896
+      ],
+      "confidence": 0.75,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 2
+      }
+    },
+    {
+      "id": 121,
+      "text": "Under",
+      "bbox": [
+        735,
+        865,
+        822,
+        889
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 3
+      }
+    },
+    {
+      "id": 122,
+      "text": "the",
+      "bbox": [
+        830,
+        865,
+        872,
+        889
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 4
+      }
+    },
+    {
+      "id": 123,
+      "text": "Gunn",
+      "bbox": [
+        884,
+        864,
+        960,
+        889
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 5
+      }
+    },
+    {
+      "id": 124,
+      "text": "в",
+      "bbox": [
+        1300,
+        871,
+        1315,
+        888
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 6
+      }
+    },
+    {
+      "id": 125,
+      "text": "роли",
+      "bbox": [
+        1327,
+        870,
+        1396,
+        895
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 7
+      }
+    },
+    {
+      "id": 126,
+      "text": "самой",
+      "bbox": [
+        1407,
+        864,
+        1496,
+        889
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 8
+      }
+    },
+    {
+      "id": 127,
+      "text": "себя",
+      "bbox": [
+        1508,
+        864,
+        1574,
+        889
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 9
+      }
+    },
+    {
+      "id": 128,
+      "text": "/",
+      "bbox": [
+        1579,
+        860,
+        1590,
+        902
+      ],
+      "confidence": 0.85,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 10
+      }
+    },
+    {
+      "id": 129,
+      "text": "«Hit",
+      "bbox": [
+        1585,
+        864,
+        1824,
+        898
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 11
+      }
+    },
+    {
+      "id": 130,
+      "text": "the",
+      "bbox": [
+        1674,
+        860,
+        1716,
+        902
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 12
+      }
+    },
+    {
+      "id": 131,
+      "text": "Stage»",
+      "bbox": [
+        1730,
+        864,
+        1824,
+        898
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 13
+      }
+    },
+    {
+      "id": 132,
+      "text": "2014",
+      "bbox": [
+        23,
+        932,
+        93,
+        956
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 1
+      }
+    },
+    {
+      "id": 133,
+      "text": "с",
+      "bbox": [
+        200,
+        939,
+        214,
+        963
+      ],
+      "confidence": 0.88,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 2
+      }
+    },
+    {
+      "id": 134,
+      "text": "The",
+      "bbox": [
+        736,
+        932,
+        787,
+        956
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 3
+      }
+    },
+    {
+      "id": 135,
+      "text": "Making",
+      "bbox": [
+        797,
+        932,
+        900,
+        962
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 4
+      }
+    },
+    {
+      "id": 136,
+      "text": "of",
+      "bbox": [
+        909,
+        931,
+        938,
+        956
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 5
+      }
+    },
+    {
+      "id": 137,
+      "text": "SWAY",
+      "bbox": [
+        945,
+        931,
+        1038,
+        956
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 6
+      }
+    },
+    {
+      "id": 138,
+      "text": "B",
+      "bbox": [
+        1299,
+        932,
+        1315,
+        965
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 7
+      }
+    },
+    {
+      "id": 139,
+      "text": "pony",
+      "bbox": [
+        1331,
+        937,
+        1399,
+        965
+      ],
+      "confidence": 0.43,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 8
+      }
+    },
+    {
+      "id": 140,
+      "text": "себя",
+      "bbox": [
+        1411,
+        931,
+        1480,
+        965
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 9
+      }
+    },
+    {
+      "id": 141,
+      "text": "2014",
+      "bbox": [
+        23,
+        999,
+        93,
+        1023
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 1
+      }
+    },
+    {
+      "id": 142,
+      "text": "с",
+      "bbox": [
+        200,
+        1006,
+        214,
+        1030
+      ],
+      "confidence": 0.74,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 2
+      }
+    },
+    {
+      "id": 143,
+      "text": "SWAY:",
+      "bbox": [
+        734,
+        998,
+        830,
+        1023
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 3
+      }
+    },
+    {
+      "id": 144,
+      "text": "А",
+      "bbox": [
+        838,
+        999,
+        859,
+        1022
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 4
+      }
+    },
+    {
+      "id": 145,
+      "text": "Dance",
+      "bbox": [
+        868,
+        999,
+        960,
+        1023
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 5
+      }
+    },
+    {
+      "id": 146,
+      "text": "Trilogy",
+      "bbox": [
+        972,
+        999,
+        1066,
+        1029
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 6
+      }
+    },
+    {
+      "id": 147,
+      "text": "В",
+      "bbox": [
+        1301,
+        999,
+        1319,
+        1022
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 7
+      }
+    },
+    {
+      "id": 148,
+      "text": "роли",
+      "bbox": [
+        1331,
+        1004,
+        1400,
+        1029
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 8
+      }
+    },
+    {
+      "id": 149,
+      "text": "себя",
+      "bbox": [
+        1411,
+        998,
+        1478,
+        1023
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 9
+      }
+    },
+    {
+      "id": 150,
+      "text": "2015",
+      "bbox": [
+        23,
+        1066,
+        93,
+        1090
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 1
+      }
+    },
+    {
+      "id": 151,
+      "text": "с",
+      "bbox": [
+        200,
+        1073,
+        214,
+        1097
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 2
+      }
+    },
+    {
+      "id": 152,
+      "text": "|",
+      "bbox": [
+        236,
+        1061,
+        253,
+        1101
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 3
+      }
+    },
+    {
+      "id": 153,
+      "text": "Черноватый",
+      "bbox": [
+        260,
+        1065,
+        442,
+        1096
+      ],
+      "confidence": 0.2,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 4
+      }
+    },
+    {
+      "id": 154,
+      "text": "Black-ish",
+      "bbox": [
+        733,
+        1066,
+        861,
+        1090
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 5
+      }
+    },
+    {
+      "id": 155,
+      "text": "Решейда",
+      "bbox": [
+        1301,
+        1065,
+        1436,
+        1093
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 6
+      }
+    },
+    {
+      "id": 156,
+      "text": "/",
+      "bbox": [
+        1445,
+        1066,
+        1455,
+        1089
+      ],
+      "confidence": 0.83,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 7
+      }
+    },
+    {
+      "id": 157,
+      "text": "«Daddy’s",
+      "bbox": [
+        1472,
+        1066,
+        1595,
+        1099
+      ],
+      "confidence": 0.81,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 8
+      }
+    },
+    {
+      "id": 158,
+      "text": "Day»",
+      "bbox": [
+        1612,
+        1066,
+        1680,
+        1099
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 9
+      }
+    },
+    {
+      "id": 159,
+      "text": "2015—",
+      "bbox": [
+        23,
+        1132,
+        122,
+        1156
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 1
+      }
+    },
+    {
+      "id": 160,
+      "text": "7",
+      "bbox": [
+        302,
+        1157,
+        313,
+        1162
+      ],
+      "confidence": 0.34,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 2
+      }
+    },
+    {
+      "id": 161,
+      "text": "Кей",
+      "bbox": [
+        1301,
+        1131,
+        1355,
+        1156
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 3
+      }
+    },
+    {
+      "id": 162,
+      "text": "Си",
+      "bbox": [
+        1366,
+        1131,
+        1405,
+        1156
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 4
+      }
+    },
+    {
+      "id": 163,
+      "text": "Купер",
+      "bbox": [
+        1418,
+        1132,
+        1506,
+        1162
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 5
+      }
+    },
+    {
+      "id": 164,
+      "text": "/",
+      "bbox": [
+        1515,
+        1132,
+        1525,
+        1155
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 6
+      }
+    },
+    {
+      "id": 165,
+      "text": "76",
+      "bbox": [
+        1534,
+        1132,
+        1568,
+        1156
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 7
+      }
+    },
+    {
+      "id": 166,
+      "text": "эпизодов;",
+      "bbox": [
+        1579,
+        1137,
+        1726,
+        1160
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 8
+      }
+    },
+    {
+      "id": 167,
+      "text": "также",
+      "bbox": [
+        1738,
+        1137,
+        1830,
+        1156
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 9
+      }
+    },
+    {
+      "id": 168,
+      "text": "с",
+      "bbox": [
+        200,
+        1165,
+        214,
+        1185
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 20,
+        "word": 1
+      }
+    },
+    {
+      "id": 169,
+      "text": "|",
+      "bbox": [
+        236,
+        1153,
+        250,
+        1193
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 20,
+        "word": 2
+      }
+    },
+    {
+      "id": 170,
+      "text": "Кей",
+      "bbox": [
+        261,
+        1158,
+        315,
+        1181
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 20,
+        "word": 3
+      }
+    },
+    {
+      "id": 171,
+      "text": "Си.",
+      "bbox": [
+        327,
+        1157,
+        374,
+        1182
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 20,
+        "word": 4
+      }
+    },
+    {
+      "id": 172,
+      "text": "Под",
+      "bbox": [
+        387,
+        1158,
+        445,
+        1185
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 20,
+        "word": 5
+      }
+    },
+    {
+      "id": 173,
+      "text": "прикрытием",
+      "bbox": [
+        456,
+        1163,
+        639,
+        1188
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 20,
+        "word": 6
+      }
+    },
+    {
+      "id": 174,
+      "text": "К.С.",
+      "bbox": [
+        733,
+        1157,
+        791,
+        1182
+      ],
+      "confidence": 0.72,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 20,
+        "word": 7
+      }
+    },
+    {
+      "id": 175,
+      "text": "Undercover",
+      "bbox": [
+        806,
+        1158,
+        971,
+        1182
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 20,
+        "word": 8
+      }
+    },
+    {
+      "id": 176,
+      "text": "2018",
+      "bbox": [
+        23,
+        1184,
+        93,
+        1208
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 21,
+        "word": 1
+      }
+    },
+    {
+      "id": 177,
+      "text": "_",
+      "bbox": [
+        200,
+        1187,
+        214,
+        1189
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 21,
+        "word": 2
+      }
+    },
+    {
+      "id": 178,
+      "text": "продюсер",
+      "bbox": [
+        1300,
+        1189,
+        1447,
+        1214
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 21,
+        "word": 3
+      }
+    },
+    {
+      "id": 179,
+      "text": "в",
+      "bbox": [
+        1300,
+        1257,
+        1315,
+        1274
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 22,
+        "word": 1
+      }
+    },
+    {
+      "id": 180,
+      "text": "роли",
+      "bbox": [
+        1327,
+        1256,
+        1396,
+        1281
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 22,
+        "word": 2
+      }
+    },
+    {
+      "id": 181,
+      "text": "самой",
+      "bbox": [
+        1407,
+        1250,
+        1496,
+        1275
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 22,
+        "word": 3
+      }
+    },
+    {
+      "id": 182,
+      "text": "себя",
+      "bbox": [
+        1508,
+        1250,
+        1574,
+        1275
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 22,
+        "word": 4
+      }
+    },
+    {
+      "id": 183,
+      "text": "/",
+      "bbox": [
+        1585,
+        1251,
+        1594,
+        1274
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 22,
+        "word": 5
+      }
+    },
+    {
+      "id": 184,
+      "text": "«Lights,",
+      "bbox": [
+        1609,
+        1251,
+        1721,
+        1281
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 22,
+        "word": 6
+      }
+    },
+    {
+      "id": 185,
+      "text": "Camera,",
+      "bbox": [
+        1738,
+        1246,
+        1844,
+        1293
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 22,
+        "word": 7
+      }
+    },
+    {
+      "id": 186,
+      "text": "2016",
+      "bbox": [
+        23,
+        1277,
+        93,
+        1301
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 1
+      }
+    },
+    {
+      "id": 187,
+      "text": "с",
+      "bbox": [
+        200,
+        1284,
+        214,
+        1304
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 2
+      }
+    },
+    {
+      "id": 188,
+      "text": "Топ-модель",
+      "bbox": [
+        259,
+        1277,
+        435,
+        1304
+      ],
+      "confidence": 0.8,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 3
+      }
+    },
+    {
+      "id": 189,
+      "text": "по-американски",
+      "bbox": [
+        446,
+        1282,
+        687,
+        1307
+      ],
+      "confidence": 0.87,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 4
+      }
+    },
+    {
+      "id": 190,
+      "text": "America’s",
+      "bbox": [
+        731,
+        1277,
+        872,
+        1301
+      ],
+      "confidence": 0.45,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 5
+      }
+    },
+    {
+      "id": 191,
+      "text": "Next",
+      "bbox": [
+        882,
+        1277,
+        948,
+        1301
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 6
+      }
+    },
+    {
+      "id": 192,
+      "text": "Top",
+      "bbox": [
+        959,
+        1277,
+        1007,
+        1307
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 7
+      }
+    },
+    {
+      "id": 193,
+      "text": "Model",
+      "bbox": [
+        1017,
+        1277,
+        1105,
+        1301
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 8
+      }
+    },
+    {
+      "id": 194,
+      "text": "SEIN.",
+      "bbox": [
+        1603,
+        1282,
+        1847,
+        1284
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 9
+      }
+    },
+    {
+      "id": 195,
+      "text": "ANGI",
+      "bbox": [
+        1759,
+        1255,
+        1818,
+        1296
+      ],
+      "confidence": 0.03,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 10
+      }
+    },
+    {
+      "id": 196,
+      "text": "A,",
+      "bbox": [
+        1824,
+        1255,
+        1849,
+        1296
+      ],
+      "confidence": 0.03,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 23,
+        "word": 11
+      }
+    },
+    {
+      "id": 197,
+      "text": "Человек-паук:",
+      "bbox": [
+        260,
+        1370,
+        474,
+        1400
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 24,
+        "word": 1
+      }
+    },
+    {
+      "id": 198,
+      "text": "Возвращение",
+      "bbox": [
+        486,
+        1370,
+        689,
+        1400
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 24,
+        "word": 2
+      }
+    },
+    {
+      "id": 199,
+      "text": "}",
+      "bbox": [
+        776,
+        1396,
+        780,
+        1399
+      ],
+      "confidence": 0.49,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 24,
+        "word": 3
+      }
+    },
+    {
+      "id": 200,
+      "text": ",",
+      "bbox": [
+        1066,
+        1396,
+        1070,
+        1399
+      ],
+      "confidence": 0.32,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 24,
+        "word": 4
+      }
+    },
+    {
+      "id": 201,
+      "text": "7",
+      "bbox": [
+        1423,
+        1395,
+        1434,
+        1400
+      ],
+      "confidence": 0.24,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 24,
+        "word": 5
+      }
+    },
+    {
+      "id": 202,
+      "text": "2017",
+      "bbox": [
+        23,
+        1396,
+        93,
+        1420
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 25,
+        "word": 1
+      }
+    },
+    {
+      "id": 203,
+      "text": "ф",
+      "bbox": [
+        195,
+        1398,
+        219,
+        1427
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 25,
+        "word": 2
+      }
+    },
+    {
+      "id": 204,
+      "text": "_",
+      "bbox": [
+        339,
+        1421,
+        350,
+        1426
+      ],
+      "confidence": 0.14,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 25,
+        "word": 3
+      }
+    },
+    {
+      "id": 205,
+      "text": "Spider-Man:",
+      "bbox": [
+        734,
+        1395,
+        907,
+        1426
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 25,
+        "word": 4
+      }
+    },
+    {
+      "id": 206,
+      "text": "Homecoming",
+      "bbox": [
+        916,
+        1396,
+        1104,
+        1426
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 25,
+        "word": 5
+      }
+    },
+    {
+      "id": 207,
+      "text": "Эм-Джей",
+      "bbox": [
+        1300,
+        1395,
+        1436,
+        1424
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 25,
+        "word": 6
+      }
+    },
+    {
+      "id": 208,
+      "text": "домой",
+      "bbox": [
+        259,
+        1427,
+        352,
+        1449
+      ],
+      "confidence": 0.87,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 26,
+        "word": 1
+      }
+    }
+  ]
+}

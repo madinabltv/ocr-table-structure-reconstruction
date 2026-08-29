@@ -1,0 +1,578 @@
+{
+  "schema_version": "0.1",
+  "created_at": "2026-08-16T17:07:06.257325+00:00",
+  "source_image": "table_07_heat_treatment.png",
+  "image_size": {
+    "width": 1830,
+    "height": 634
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 6
+  },
+  "fragment_count": 33,
+  "fragments": [
+    {
+      "id": 0,
+      "text": "__",
+      "bbox": [
+        1466,
+        42,
+        1565,
+        69
+      ],
+      "confidence": 0.04,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "Марка",
+      "bbox": [
+        53,
+        82,
+        141,
+        110
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 2,
+      "text": "стали",
+      "bbox": [
+        153,
+        88,
+        226,
+        104
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 3,
+      "text": "——",
+      "bbox": [
+        1343,
+        143,
+        1439,
+        171
+      ],
+      "confidence": 0.27,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 4,
+      "text": "aoe",
+      "bbox": [
+        1530,
+        150,
+        1641,
+        171
+      ],
+      "confidence": 0.2,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 5,
+      "text": "=",
+      "bbox": [
+        1656,
+        143,
+        1686,
+        165
+      ],
+      "confidence": 0.55,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 3
+      }
+    },
+    {
+      "id": 6,
+      "text": "25",
+      "bbox": [
+        122,
+        236,
+        154,
+        260
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 7,
+      "text": "860—900",
+      "bbox": [
+        449,
+        234,
+        581,
+        262
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 2
+      }
+    },
+    {
+      "id": 8,
+      "text": "Вода",
+      "bbox": [
+        810,
+        236,
+        883,
+        264
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 3
+      }
+    },
+    {
+      "id": 9,
+      "text": "30",
+      "bbox": [
+        123,
+        272,
+        155,
+        297
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 1
+      }
+    },
+    {
+      "id": 10,
+      "text": "850—890",
+      "bbox": [
+        449,
+        272,
+        581,
+        298
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 2
+      }
+    },
+    {
+      "id": 11,
+      "text": "35",
+      "bbox": [
+        124,
+        346,
+        154,
+        371
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 1
+      }
+    },
+    {
+      "id": 12,
+      "text": "840—880",
+      "bbox": [
+        449,
+        346,
+        581,
+        371
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 2
+      }
+    },
+    {
+      "id": 13,
+      "text": "Вода",
+      "bbox": [
+        810,
+        346,
+        883,
+        375
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 3
+      }
+    },
+    {
+      "id": 14,
+      "text": "или",
+      "bbox": [
+        895,
+        354,
+        952,
+        371
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 4
+      }
+    },
+    {
+      "id": 15,
+      "text": "масло",
+      "bbox": [
+        965,
+        354,
+        1056,
+        371
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 5
+      }
+    },
+    {
+      "id": 16,
+      "text": "550—600",
+      "bbox": [
+        1449,
+        344,
+        1580,
+        369
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 6
+      }
+    },
+    {
+      "id": 17,
+      "text": "40",
+      "bbox": [
+        122,
+        382,
+        155,
+        407
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 1
+      }
+    },
+    {
+      "id": 18,
+      "text": "830—870",
+      "bbox": [
+        449,
+        382,
+        581,
+        407
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 2
+      }
+    },
+    {
+      "id": 19,
+      "text": "Охлаждение",
+      "bbox": [
+        1333,
+        381,
+        1522,
+        409
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 3
+      }
+    },
+    {
+      "id": 20,
+      "text": "на",
+      "bbox": [
+        1535,
+        388,
+        1570,
+        405
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 4
+      }
+    },
+    {
+      "id": 21,
+      "text": "воздухе",
+      "bbox": [
+        1583,
+        388,
+        1697,
+        411
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 5
+      }
+    },
+    {
+      "id": 22,
+      "text": "45",
+      "bbox": [
+        122,
+        418,
+        154,
+        443
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 1
+      }
+    },
+    {
+      "id": 23,
+      "text": "820—860",
+      "bbox": [
+        449,
+        418,
+        581,
+        443
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 2
+      }
+    },
+    {
+      "id": 24,
+      "text": "50",
+      "bbox": [
+        123,
+        492,
+        155,
+        517
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 1
+      }
+    },
+    {
+      "id": 25,
+      "text": "810—850",
+      "bbox": [
+        449,
+        492,
+        581,
+        517
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 2
+      }
+    },
+    {
+      "id": 26,
+      "text": "Масло",
+      "bbox": [
+        810,
+        492,
+        909,
+        517
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 3
+      }
+    },
+    {
+      "id": 27,
+      "text": "или",
+      "bbox": [
+        922,
+        500,
+        979,
+        517
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 4
+      }
+    },
+    {
+      "id": 28,
+      "text": "вода",
+      "bbox": [
+        992,
+        500,
+        1060,
+        521
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 5
+      }
+    },
+    {
+      "id": 29,
+      "text": "55",
+      "bbox": [
+        123,
+        528,
+        154,
+        553
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 1
+      }
+    },
+    {
+      "id": 30,
+      "text": "805—850",
+      "bbox": [
+        449,
+        528,
+        581,
+        553
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 2
+      }
+    },
+    {
+      "id": 31,
+      "text": "60",
+      "bbox": [
+        123,
+        563,
+        155,
+        589
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 1
+      }
+    },
+    {
+      "id": 32,
+      "text": "800—840",
+      "bbox": [
+        449,
+        565,
+        581,
+        589
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 2
+      }
+    }
+  ]
+}

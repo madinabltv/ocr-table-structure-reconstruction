@@ -1,0 +1,680 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_03_payment_schedule",
+  "description": "Reviewed logical cell annotations for independent evaluation",
+  "annotation_method": "manual grid transcription from OCR preview and source image",
+  "source_ocr": "table_03_payment_schedule.png",
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "h00",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        0
+      ],
+      "text": "Период"
+    },
+    {
+      "id": "h01",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        1,
+        2
+      ],
+      "text": "Срок уплаты"
+    },
+    {
+      "id": "h02",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        3
+      ],
+      "text": "Период"
+    },
+    {
+      "id": "h03",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        4,
+        5
+      ],
+      "text": "Срок уплаты"
+    },
+    {
+      "id": "c10",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "text": "За период 1-22 января"
+    },
+    {
+      "id": "c11",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        10,
+        11
+      ],
+      "text": "28 января"
+    },
+    {
+      "id": "c12",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "text": "За период 1-22 июля"
+    },
+    {
+      "id": "c13",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        16,
+        17
+      ],
+      "text": "28 июля"
+    },
+    {
+      "id": "c20",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "text": "За период 23-31 января"
+    },
+    {
+      "id": "c21",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        22,
+        23
+      ],
+      "text": "5 февраля"
+    },
+    {
+      "id": "c22",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "text": "За период 23-31 июля"
+    },
+    {
+      "id": "c23",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        28,
+        29
+      ],
+      "text": "5 августа"
+    },
+    {
+      "id": "c30",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "text": "За период 1-22 февраля"
+    },
+    {
+      "id": "c31",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        34,
+        35
+      ],
+      "text": "28 февраля"
+    },
+    {
+      "id": "c32",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "text": "За период 1-22 августа"
+    },
+    {
+      "id": "c33",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        40,
+        41
+      ],
+      "text": "28 августа"
+    },
+    {
+      "id": "c40",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "text": "За период 23-29 февраля"
+    },
+    {
+      "id": "c41",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        46,
+        47
+      ],
+      "text": "5 марта"
+    },
+    {
+      "id": "c42",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "text": "За период 23-31 августа"
+    },
+    {
+      "id": "c43",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        52,
+        53
+      ],
+      "text": "5 сентября"
+    },
+    {
+      "id": "c50",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "text": "За период 1-22 марта"
+    },
+    {
+      "id": "c51",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        58,
+        59
+      ],
+      "text": "28 марта"
+    },
+    {
+      "id": "c52",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "text": "За период 1-22 сентября"
+    },
+    {
+      "id": "c53",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        64,
+        65
+      ],
+      "text": "29 сентября"
+    },
+    {
+      "id": "c60",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        66,
+        67,
+        68,
+        69
+      ],
+      "text": "За период 23-31 марта"
+    },
+    {
+      "id": "c61",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        70,
+        71
+      ],
+      "text": "7 апреля"
+    },
+    {
+      "id": "c62",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "text": "За период 23-30 сентября"
+    },
+    {
+      "id": "c63",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        76,
+        77
+      ],
+      "text": "6 октября"
+    },
+    {
+      "id": "c70",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        78,
+        79,
+        80,
+        81
+      ],
+      "text": "За период 1-22 апреля"
+    },
+    {
+      "id": "c71",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        82,
+        83
+      ],
+      "text": "28 апреля"
+    },
+    {
+      "id": "c72",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "text": "За период 1-22 октября"
+    },
+    {
+      "id": "c73",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        88,
+        89
+      ],
+      "text": "28 октября"
+    },
+    {
+      "id": "c80",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "text": "За период 23-30 апреля"
+    },
+    {
+      "id": "c81",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        94,
+        95
+      ],
+      "text": "5 мая"
+    },
+    {
+      "id": "c82",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        96,
+        97,
+        98,
+        99
+      ],
+      "text": "За период 23-31 октября"
+    },
+    {
+      "id": "c83",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        100,
+        101
+      ],
+      "text": "5 ноября"
+    },
+    {
+      "id": "c90",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        102,
+        103,
+        104,
+        105
+      ],
+      "text": "За период 1-22 мая"
+    },
+    {
+      "id": "c91",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        106,
+        107
+      ],
+      "text": "28 мая"
+    },
+    {
+      "id": "c92",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        108,
+        109,
+        110,
+        111
+      ],
+      "text": "За период 1-22 ноября"
+    },
+    {
+      "id": "c93",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        112,
+        113
+      ],
+      "text": "28 ноября"
+    },
+    {
+      "id": "c100",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        114,
+        115,
+        116,
+        117
+      ],
+      "text": "За период 23-31 мая"
+    },
+    {
+      "id": "c101",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        118,
+        119
+      ],
+      "text": "5 июня"
+    },
+    {
+      "id": "c102",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "text": "За период 23-30 ноября"
+    },
+    {
+      "id": "c103",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        124,
+        125
+      ],
+      "text": "5 декабря"
+    },
+    {
+      "id": "c110",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        126,
+        127,
+        128,
+        129
+      ],
+      "text": "За период 1-22 июня"
+    },
+    {
+      "id": "c111",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        130,
+        131
+      ],
+      "text": "30 июня"
+    },
+    {
+      "id": "c112",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        132,
+        133,
+        134,
+        135
+      ],
+      "text": "За период 1-22 декабря"
+    },
+    {
+      "id": "c113",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        136,
+        137
+      ],
+      "text": "29 декабря"
+    },
+    {
+      "id": "c120",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        138,
+        139,
+        140,
+        141
+      ],
+      "text": "За период 23-30 июня"
+    },
+    {
+      "id": "c121",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        142,
+        143
+      ],
+      "text": "7 июля"
+    },
+    {
+      "id": "c122",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        144,
+        145,
+        146,
+        147
+      ],
+      "text": "За период 23-31 декабря"
+    },
+    {
+      "id": "c123",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        148,
+        149
+      ],
+      "text": "30 декабря"
+    }
+  ]
+}

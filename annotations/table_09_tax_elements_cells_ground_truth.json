@@ -1,0 +1,510 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_09_tax_elements",
+  "description": "Reviewed logical cell annotations for independent evaluation",
+  "annotation_method": "manual grid transcription from OCR preview and source image",
+  "source_ocr": "table_09_tax_elements.png",
+  "ignored_fragment_ids": [
+    2,
+    4,
+    6,
+    14,
+    18,
+    82,
+    105
+  ],
+  "cells": [
+    {
+      "id": "c00",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        0,
+        10
+      ],
+      "text": "Наименование элемента"
+    },
+    {
+      "id": "c01",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        1,
+        11,
+        16,
+        17
+      ],
+      "text": "Сокращенное наименование (код) элемента"
+    },
+    {
+      "id": "c02",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        3,
+        12,
+        19
+      ],
+      "text": "Признак типа элемента"
+    },
+    {
+      "id": "c03",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        5,
+        13
+      ],
+      "text": "Формат элемента"
+    },
+    {
+      "id": "c04",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        7,
+        15,
+        20,
+        21
+      ],
+      "text": "Признак обязательн ости элемента"
+    },
+    {
+      "id": "c05",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        8,
+        9
+      ],
+      "text": "Дополнительная информация"
+    },
+    {
+      "id": "c10",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        22,
+        23,
+        24,
+        33,
+        34,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "text": "Сведения о суммах налога, подлежащих уплате (доплате) в бюджет/возврату из бюджета"
+    },
+    {
+      "id": "c11",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        25
+      ],
+      "text": "СумНалПу"
+    },
+    {
+      "id": "c12",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        26
+      ],
+      "text": "С"
+    },
+    {
+      "id": "c13",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c14",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        27
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "c15",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        35
+      ],
+      "text": "Состав элемента представлен в таблице 4.10"
+    },
+    {
+      "id": "c20",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        42,
+        43,
+        44,
+        53,
+        54,
+        55,
+        56,
+        58,
+        59,
+        60,
+        61
+      ],
+      "text": "Расчет налоговой базы и суммы налога по доходам, облагаемым по ставке"
+    },
+    {
+      "id": "c21",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        45
+      ],
+      "text": "НалБаза"
+    },
+    {
+      "id": "c22",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        46
+      ],
+      "text": "С"
+    },
+    {
+      "id": "c23",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c24",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        47
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "c25",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        57
+      ],
+      "text": "Состав элемента представлен в таблице 4.11"
+    },
+    {
+      "id": "c30",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        62,
+        63,
+        64,
+        65,
+        74,
+        75,
+        77,
+        78
+      ],
+      "text": "Доходы от источников B| Российской Федерации (Приложение 1)"
+    },
+    {
+      "id": "c31",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        66
+      ],
+      "text": "ДоходИстРФ"
+    },
+    {
+      "id": "c32",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        67
+      ],
+      "text": "С"
+    },
+    {
+      "id": "c33",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c34",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        68
+      ],
+      "text": "НМ"
+    },
+    {
+      "id": "c35",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        76
+      ],
+      "text": "Состав элемента представлен в таблице 4.14"
+    },
+    {
+      "id": "c40",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        79,
+        80,
+        81,
+        91,
+        92,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ],
+      "text": "Доходы от источников за пределами Российской Федерации, облагаемые налогом по ставке (Приложение 2)"
+    },
+    {
+      "id": "c41",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        83
+      ],
+      "text": "ДоходИстИно"
+    },
+    {
+      "id": "c42",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        84
+      ],
+      "text": "[©"
+    },
+    {
+      "id": "c43",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c44",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        85
+      ],
+      "text": "НМ"
+    },
+    {
+      "id": "c45",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        86,
+        87,
+        88,
+        89,
+        90,
+        93
+      ],
+      "text": "Состав элемента представлен в таблице 4.15"
+    },
+    {
+      "id": "c50",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        102,
+        103,
+        104,
+        114,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138
+      ],
+      "text": "Доходы, полученные от предпринимательской, адвокатской деятельности и частной практики, а также расчет профессиональных налоговых вычетов, установленных пунктами 2,3 статьи 221 Налогового кодекса Российской Федерации (Приложение 3)"
+    },
+    {
+      "id": "c51",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        106
+      ],
+      "text": "ДоходПредпр"
+    },
+    {
+      "id": "c52",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        107
+      ],
+      "text": "[©"
+    },
+    {
+      "id": "c53",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c54",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        108
+      ],
+      "text": "Н"
+    },
+    {
+      "id": "c55",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        115
+      ],
+      "text": "Состав элемента представлен в таблице 4.17"
+    }
+  ]
+}

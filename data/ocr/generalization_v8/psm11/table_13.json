@@ -1,0 +1,2873 @@
+{
+  "schema_version": "0.1",
+  "created_at": "2026-08-22T14:12:30.889851+00:00",
+  "source_image": "table_13.png",
+  "image_size": {
+    "width": 1662,
+    "height": 1050
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 11
+  },
+  "fragment_count": 168,
+  "fragments": [
+    {
+      "id": 0,
+      "text": "Данные",
+      "bbox": [
+        1014,
+        13,
+        1106,
+        37
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "за",
+      "bbox": [
+        1115,
+        19,
+        1138,
+        32
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 2,
+      "text": "отчетный",
+      "bbox": [
+        1146,
+        19,
+        1257,
+        32
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 3,
+      "text": "Данные",
+      "bbox": [
+        1330,
+        13,
+        1422,
+        37
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 2,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 4,
+      "text": "за",
+      "bbox": [
+        1431,
+        19,
+        1454,
+        32
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 2,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 5,
+      "text": "предыдущий",
+      "bbox": [
+        1462,
+        19,
+        1613,
+        38
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 2,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 6,
+      "text": "Номер",
+      "bbox": [
+        19,
+        31,
+        94,
+        56
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 3,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 7,
+      "text": "Номер",
+      "bbox": [
+        857,
+        31,
+        933,
+        56
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 4,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 8,
+      "text": "Наименование",
+      "bbox": [
+        331,
+        48,
+        504,
+        67
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 5,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 9,
+      "text": "статьи",
+      "bbox": [
+        513,
+        54,
+        588,
+        67
+      ],
+      "confidence": 0.83,
+      "tesseract": {
+        "block": 5,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 10,
+      "text": "период,",
+      "bbox": [
+        1091,
+        54,
+        1181,
+        73
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 6,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 11,
+      "text": "отчетный",
+      "bbox": [
+        1390,
+        54,
+        1501,
+        67
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 7,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 12,
+      "text": "год,",
+      "bbox": [
+        1510,
+        54,
+        1555,
+        72
+      ],
+      "confidence": 0.86,
+      "tesseract": {
+        "block": 7,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 13,
+      "text": "строки",
+      "bbox": [
+        17,
+        72,
+        96,
+        91
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 8,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 14,
+      "text": "пояснения",
+      "bbox": [
+        833,
+        72,
+        956,
+        85
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 9,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 15,
+      "text": "тыс.",
+      "bbox": [
+        1083,
+        90,
+        1125,
+        103
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 10,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 16,
+      "text": "руб.",
+      "bbox": [
+        1146,
+        84,
+        1182,
+        103
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 10,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 17,
+      "text": "тыс.",
+      "bbox": [
+        1419,
+        90,
+        1461,
+        103
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 11,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 18,
+      "text": "руб.",
+      "bbox": [
+        1482,
+        84,
+        1518,
+        103
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 11,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 19,
+      "text": "О",
+      "bbox": [
+        7,
+        111,
+        63,
+        143
+      ],
+      "confidence": 0.54,
+      "tesseract": {
+        "block": 12,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 20,
+      "text": "ЗО",
+      "bbox": [
+        287,
+        107,
+        645,
+        158
+      ],
+      "confidence": 0.42,
+      "tesseract": {
+        "block": 12,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 21,
+      "text": "ПО",
+      "bbox": [
+        819,
+        107,
+        866,
+        158
+      ],
+      "confidence": 0.35,
+      "tesseract": {
+        "block": 12,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 22,
+      "text": "ОО",
+      "bbox": [
+        912,
+        107,
+        960,
+        158
+      ],
+      "confidence": 0.46,
+      "tesseract": {
+        "block": 12,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 23,
+      "text": "ОЕ",
+      "bbox": [
+        980,
+        107,
+        1138,
+        158
+      ],
+      "confidence": 0.4,
+      "tesseract": {
+        "block": 12,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 24,
+      "text": "ООО",
+      "bbox": [
+        1142,
+        107,
+        1253,
+        158
+      ],
+      "confidence": 0.5,
+      "tesseract": {
+        "block": 12,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 25,
+      "text": "ООО",
+      "bbox": [
+        1299,
+        107,
+        1444,
+        158
+      ],
+      "confidence": 0.48,
+      "tesseract": {
+        "block": 12,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 26,
+      "text": "ООО",
+      "bbox": [
+        1482,
+        107,
+        1652,
+        158
+      ],
+      "confidence": 0.47,
+      "tesseract": {
+        "block": 12,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 27,
+      "text": "1.",
+      "bbox": [
+        752,
+        152,
+        761,
+        171
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 13,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 28,
+      "text": "АКТИВЫ",
+      "bbox": [
+        776,
+        152,
+        902,
+        171
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 13,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 29,
+      "text": "|_1",
+      "bbox": [
+        3,
+        176,
+        76,
+        227
+      ],
+      "confidence": 0.41,
+      "tesseract": {
+        "block": 14,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 30,
+      "text": "Денежные",
+      "bbox": [
+        109,
+        176,
+        233,
+        227
+      ],
+      "confidence": 0.71,
+      "tesseract": {
+        "block": 14,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 31,
+      "text": "средетва",
+      "bbox": [
+        245,
+        176,
+        348,
+        227
+      ],
+      "confidence": 0.83,
+      "tesseract": {
+        "block": 14,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 32,
+      "text": "р",
+      "bbox": [
+        666,
+        180,
+        976,
+        212
+      ],
+      "confidence": 0.4,
+      "tesseract": {
+        "block": 14,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 33,
+      "text": "1690",
+      "bbox": [
+        1142,
+        176,
+        1312,
+        227
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 14,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 34,
+      "text": "183.",
+      "bbox": [
+        1418,
+        176,
+        1550,
+        227
+      ],
+      "confidence": 0.37,
+      "tesseract": {
+        "block": 14,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 35,
+      "text": "294",
+      "bbox": [
+        1554,
+        176,
+        1593,
+        227
+      ],
+      "confidence": 0.79,
+      "tesseract": {
+        "block": 14,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 36,
+      "text": "687]",
+      "bbox": [
+        1605,
+        176,
+        1652,
+        227
+      ],
+      "confidence": 0.88,
+      "tesseract": {
+        "block": 14,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 37,
+      "text": "Г",
+      "bbox": [
+        7,
+        215,
+        106,
+        282
+      ],
+      "confidence": 0.13,
+      "tesseract": {
+        "block": 15,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 38,
+      "text": "Инне",
+      "bbox": [
+        517,
+        211,
+        755,
+        309
+      ],
+      "confidence": 0.14,
+      "tesseract": {
+        "block": 15,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 39,
+      "text": "|",
+      "bbox": [
+        803,
+        211,
+        845,
+        309
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 15,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 40,
+      "text": "х",
+      "bbox": [
+        876,
+        215,
+        918,
+        282
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 15,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 41,
+      "text": "|",
+      "bbox": [
+        958,
+        211,
+        992,
+        309
+      ],
+      "confidence": 0.77,
+      "tesseract": {
+        "block": 15,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 42,
+      "text": "мя]",
+      "bbox": [
+        1072,
+        211,
+        1310,
+        309
+      ],
+      "confidence": 0.07,
+      "tesseract": {
+        "block": 15,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 43,
+      "text": "ча",
+      "bbox": [
+        1424,
+        211,
+        1653,
+        309
+      ],
+      "confidence": 0.3,
+      "tesseract": {
+        "block": 15,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 44,
+      "text": "|_",
+      "bbox": [
+        3,
+        281,
+        33,
+        331
+      ],
+      "confidence": 0.78,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 45,
+      "text": "2.1",
+      "bbox": [
+        40,
+        281,
+        83,
+        331
+      ],
+      "confidence": 0.82,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 46,
+      "text": "[Обязательные",
+      "bbox": [
+        98,
+        281,
+        278,
+        331
+      ],
+      "confidence": 0.59,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 47,
+      "text": "резервы",
+      "bbox": [
+        290,
+        281,
+        391,
+        331
+      ],
+      "confidence": 0.84,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 48,
+      "text": "р",
+      "bbox": [
+        607,
+        285,
+        812,
+        316
+      ],
+      "confidence": 0.49,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 49,
+      "text": "|",
+      "bbox": [
+        957,
+        285,
+        976,
+        316
+      ],
+      "confidence": 0.49,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 50,
+      "text": "3790144]",
+      "bbox": [
+        1153,
+        281,
+        1387,
+        331
+      ],
+      "confidence": 0.13,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 51,
+      "text": "33355557",
+      "bbox": [
+        1503,
+        281,
+        1649,
+        331
+      ],
+      "confidence": 0.63,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 52,
+      "text": "[_3",
+      "bbox": [
+        3,
+        315,
+        63,
+        366
+      ],
+      "confidence": 0.66,
+      "tesseract": {
+        "block": 17,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 53,
+      "text": "[Средства",
+      "bbox": [
+        100,
+        315,
+        224,
+        366
+      ],
+      "confidence": 0.52,
+      "tesseract": {
+        "block": 17,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 54,
+      "text": "в",
+      "bbox": [
+        236,
+        315,
+        250,
+        366
+      ],
+      "confidence": 0.52,
+      "tesseract": {
+        "block": 17,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 55,
+      "text": "кредитных",
+      "bbox": [
+        262,
+        315,
+        382,
+        366
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 17,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 56,
+      "text": "организациях",
+      "bbox": [
+        394,
+        315,
+        556,
+        366
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 17,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 57,
+      "text": "ох",
+      "bbox": [
+        670,
+        315,
+        913,
+        366
+      ],
+      "confidence": 0.18,
+      "tesseract": {
+        "block": 17,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 58,
+      "text": "|",
+      "bbox": [
+        959,
+        315,
+        1053,
+        366
+      ],
+      "confidence": 0.69,
+      "tesseract": {
+        "block": 17,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 59,
+      "text": "6115282]",
+      "bbox": [
+        1150,
+        315,
+        1393,
+        366
+      ],
+      "confidence": 0.33,
+      "tesseract": {
+        "block": 17,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 60,
+      "text": "52284347",
+      "bbox": [
+        1503,
+        315,
+        1652,
+        366
+      ],
+      "confidence": 0.73,
+      "tesseract": {
+        "block": 17,
+        "paragraph": 1,
+        "line": 1,
+        "word": 9
+      }
+    },
+    {
+      "id": 61,
+      "text": "И",
+      "bbox": [
+        7,
+        354,
+        1648,
+        421
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 18,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 62,
+      "text": "ВОО",
+      "bbox": [
+        827,
+        350,
+        926,
+        448
+      ],
+      "confidence": 0.1,
+      "tesseract": {
+        "block": 18,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 63,
+      "text": "ПОЕТ",
+      "bbox": [
+        991,
+        350,
+        1269,
+        448
+      ],
+      "confidence": 0.31,
+      "tesseract": {
+        "block": 18,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 64,
+      "text": "ЕСА",
+      "bbox": [
+        1399,
+        350,
+        1653,
+        448
+      ],
+      "confidence": 0.28,
+      "tesseract": {
+        "block": 18,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 65,
+      "text": "И",
+      "bbox": [
+        7,
+        424,
+        1648,
+        490
+      ],
+      "confidence": 0.18,
+      "tesseract": {
+        "block": 19,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 66,
+      "text": "ПОС",
+      "bbox": [
+        827,
+        420,
+        933,
+        517
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 19,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 67,
+      "text": "ПОЗ",
+      "bbox": [
+        989,
+        420,
+        1224,
+        517
+      ],
+      "confidence": 0.36,
+      "tesseract": {
+        "block": 19,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 68,
+      "text": "ПОЗ",
+      "bbox": [
+        1304,
+        420,
+        1653,
+        517
+      ],
+      "confidence": 0.45,
+      "tesseract": {
+        "block": 19,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 69,
+      "text": "[ти",
+      "bbox": [
+        7,
+        489,
+        346,
+        587
+      ],
+      "confidence": 0.21,
+      "tesseract": {
+        "block": 20,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 70,
+      "text": "И",
+      "bbox": [
+        558,
+        493,
+        681,
+        560
+      ],
+      "confidence": 0.31,
+      "tesseract": {
+        "block": 20,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 71,
+      "text": "ох",
+      "bbox": [
+        787,
+        489,
+        918,
+        587
+      ],
+      "confidence": 0.25,
+      "tesseract": {
+        "block": 20,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 72,
+      "text": "|",
+      "bbox": [
+        958,
+        489,
+        1000,
+        587
+      ],
+      "confidence": 0.68,
+      "tesseract": {
+        "block": 20,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 73,
+      "text": "ож",
+      "bbox": [
+        1072,
+        489,
+        1294,
+        587
+      ],
+      "confidence": 0.21,
+      "tesseract": {
+        "block": 20,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 74,
+      "text": "925631410",
+      "bbox": [
+        1415,
+        489,
+        1653,
+        587
+      ],
+      "confidence": 0.55,
+      "tesseract": {
+        "block": 20,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 75,
+      "text": "Чистые",
+      "bbox": [
+        113,
+        586,
+        200,
+        605
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 76,
+      "text": "вложения",
+      "bbox": [
+        209,
+        592,
+        323,
+        605
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 77,
+      "text": "в",
+      "bbox": [
+        332,
+        592,
+        344,
+        605
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 78,
+      "text": "финансовые",
+      "bbox": [
+        352,
+        585,
+        497,
+        611
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 79,
+      "text": "активы,",
+      "bbox": [
+        506,
+        592,
+        589,
+        605
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 80,
+      "text": "оцениваемые",
+      "bbox": [
+        605,
+        592,
+        762,
+        608
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 81,
+      "text": "по",
+      "bbox": [
+        770,
+        592,
+        797,
+        605
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 82,
+      "text": "справедливой",
+      "bbox": [
+        113,
+        628,
+        276,
+        647
+      ],
+      "confidence": 0.43,
+      "tesseract": {
+        "block": 22,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 83,
+      "text": "стоимости",
+      "bbox": [
+        285,
+        628,
+        407,
+        641
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 22,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 84,
+      "text": "через",
+      "bbox": [
+        416,
+        628,
+        478,
+        647
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 22,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 85,
+      "text": "прочии",
+      "bbox": [
+        487,
+        628,
+        572,
+        647
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 22,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 86,
+      "text": "совокупный",
+      "bbox": [
+        581,
+        628,
+        722,
+        647
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 22,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 87,
+      "text": "доход",
+      "bbox": [
+        731,
+        628,
+        800,
+        644
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 22,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 88,
+      "text": "Е:",
+      "bbox": [
+        815,
+        563,
+        1283,
+        664
+      ],
+      "confidence": 0.38,
+      "tesseract": {
+        "block": 23,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 89,
+      "text": "ПС",
+      "bbox": [
+        1332,
+        508,
+        1648,
+        710
+      ],
+      "confidence": 0.23,
+      "tesseract": {
+        "block": 23,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 90,
+      "text": "Чистые",
+      "bbox": [
+        113,
+        673,
+        200,
+        692
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 24,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 91,
+      "text": "вложения",
+      "bbox": [
+        209,
+        679,
+        323,
+        692
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 24,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 92,
+      "text": "в",
+      "bbox": [
+        332,
+        679,
+        344,
+        692
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 24,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 93,
+      "text": "ценные",
+      "bbox": [
+        352,
+        679,
+        439,
+        695
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 24,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 94,
+      "text": "бумаги",
+      "bbox": [
+        448,
+        669,
+        530,
+        702
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 24,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 95,
+      "text": "и",
+      "bbox": [
+        539,
+        679,
+        552,
+        692
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 24,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 96,
+      "text": "иные",
+      "bbox": [
+        561,
+        679,
+        621,
+        692
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 24,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 97,
+      "text": "финансовые",
+      "bbox": [
+        629,
+        668,
+        774,
+        702
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 24,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 98,
+      "text": "активы,",
+      "bbox": [
+        113,
+        715,
+        196,
+        728
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 25,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 99,
+      "text": "оцениваемые",
+      "bbox": [
+        212,
+        715,
+        369,
+        731
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 25,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 100,
+      "text": "по",
+      "bbox": [
+        378,
+        715,
+        405,
+        728
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 25,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 101,
+      "text": "амортизированной",
+      "bbox": [
+        413,
+        715,
+        634,
+        734
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 25,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 102,
+      "text": "стоимости",
+      "bbox": [
+        643,
+        715,
+        766,
+        728
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 25,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 103,
+      "text": "кроме",
+      "bbox": [
+        122,
+        751,
+        192,
+        764
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 26,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 104,
+      "text": "ссудной",
+      "bbox": [
+        201,
+        751,
+        294,
+        767
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 26,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 105,
+      "text": "задолженности",
+      "bbox": [
+        304,
+        751,
+        482,
+        767
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 26,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 106,
+      "text": "P|",
+      "bbox": [
+        815,
+        611,
+        1000,
+        817
+      ],
+      "confidence": 0.25,
+      "tesseract": {
+        "block": 27,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 107,
+      "text": "==",
+      "bbox": [
+        1120,
+        611,
+        1292,
+        817
+      ],
+      "confidence": 0.34,
+      "tesseract": {
+        "block": 27,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 108,
+      "text": "==",
+      "bbox": [
+        1446,
+        611,
+        1653,
+        817
+      ],
+      "confidence": 0.5,
+      "tesseract": {
+        "block": 27,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 109,
+      "text": "[8",
+      "bbox": [
+        3,
+        769,
+        62,
+        819
+      ],
+      "confidence": 0.53,
+      "tesseract": {
+        "block": 28,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 110,
+      "text": "[Инвестиции",
+      "bbox": [
+        98,
+        769,
+        249,
+        819
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 28,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 111,
+      "text": "в",
+      "bbox": [
+        261,
+        769,
+        274,
+        819
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 28,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 112,
+      "text": "дочерние",
+      "bbox": [
+        286,
+        769,
+        391,
+        819
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 28,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 113,
+      "text": "и",
+      "bbox": [
+        403,
+        769,
+        416,
+        819
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 28,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 114,
+      "text": "зависимые",
+      "bbox": [
+        427,
+        769,
+        549,
+        819
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 28,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 115,
+      "text": "организации",
+      "bbox": [
+        561,
+        769,
+        716,
+        819
+      ],
+      "confidence": 0.51,
+      "tesseract": {
+        "block": 28,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 116,
+      "text": "СХ",
+      "bbox": [
+        786,
+        769,
+        912,
+        819
+      ],
+      "confidence": 0.29,
+      "tesseract": {
+        "block": 28,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 117,
+      "text": "хх",
+      "bbox": [
+        979,
+        773,
+        1648,
+        804
+      ],
+      "confidence": 0.61,
+      "tesseract": {
+        "block": 28,
+        "paragraph": 1,
+        "line": 1,
+        "word": 9
+      }
+    },
+    {
+      "id": 118,
+      "text": "|",
+      "bbox": [
+        3,
+        803,
+        27,
+        843
+      ],
+      "confidence": 0.26,
+      "tesseract": {
+        "block": 29,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 119,
+      "text": "9",
+      "bbox": [
+        43,
+        807,
+        70,
+        839
+      ],
+      "confidence": 0.7,
+      "tesseract": {
+        "block": 29,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 120,
+      "text": "|",
+      "bbox": [
+        83,
+        803,
+        110,
+        843
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 29,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 121,
+      "text": "Требования",
+      "bbox": [
+        113,
+        814,
+        251,
+        833
+      ],
+      "confidence": 0.84,
+      "tesseract": {
+        "block": 29,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 122,
+      "text": "по",
+      "bbox": [
+        260,
+        820,
+        287,
+        833
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 29,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 123,
+      "text": "текуще",
+      "bbox": [
+        295,
+        820,
+        379,
+        836
+      ],
+      "confidence": 0.89,
+      "tesseract": {
+        "block": 29,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 124,
+      "text": "нало",
+      "bbox": [
+        418,
+        820,
+        472,
+        833
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 30,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 125,
+      "text": "на",
+      "bbox": [
+        505,
+        820,
+        532,
+        833
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 31,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 126,
+      "text": "прибыль",
+      "bbox": [
+        540,
+        814,
+        642,
+        833
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 31,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 127,
+      "text": "хр",
+      "bbox": [
+        815,
+        807,
+        1648,
+        839
+      ],
+      "confidence": 0.24,
+      "tesseract": {
+        "block": 32,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 128,
+      "text": "22",
+      "bbox": [
+        1214,
+        803,
+        1241,
+        854
+      ],
+      "confidence": 0.3,
+      "tesseract": {
+        "block": 32,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 129,
+      "text": "Sf",
+      "bbox": [
+        1257,
+        803,
+        1428,
+        854
+      ],
+      "confidence": 0.29,
+      "tesseract": {
+        "block": 32,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 130,
+      "text": "170204",
+      "bbox": [
+        1563,
+        803,
+        1653,
+        854
+      ],
+      "confidence": 0.37,
+      "tesseract": {
+        "block": 32,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 131,
+      "text": "|_",
+      "bbox": [
+        3,
+        838,
+        33,
+        889
+      ],
+      "confidence": 0.1,
+      "tesseract": {
+        "block": 33,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 132,
+      "text": "10",
+      "bbox": [
+        41,
+        838,
+        80,
+        889
+      ],
+      "confidence": 0.1,
+      "tesseract": {
+        "block": 33,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 133,
+      "text": "Отложенный",
+      "bbox": [
+        109,
+        838,
+        263,
+        889
+      ],
+      "confidence": 0.86,
+      "tesseract": {
+        "block": 33,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 134,
+      "text": "налоговый",
+      "bbox": [
+        275,
+        838,
+        394,
+        889
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 33,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 135,
+      "text": "актив",
+      "bbox": [
+        411,
+        838,
+        479,
+        889
+      ],
+      "confidence": 0.44,
+      "tesseract": {
+        "block": 33,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 136,
+      "text": "TX",
+      "bbox": [
+        657,
+        838,
+        976,
+        889
+      ],
+      "confidence": 0.37,
+      "tesseract": {
+        "block": 33,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 137,
+      "text": "46",
+      "bbox": [
+        1167,
+        838,
+        1193,
+        889
+      ],
+      "confidence": 0.36,
+      "tesseract": {
+        "block": 33,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 138,
+      "text": "338.49P",
+      "bbox": [
+        1201,
+        838,
+        1308,
+        889
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 33,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 139,
+      "text": "5048104]",
+      "bbox": [
+        1507,
+        838,
+        1652,
+        889
+      ],
+      "confidence": 0.72,
+      "tesseract": {
+        "block": 33,
+        "paragraph": 1,
+        "line": 1,
+        "word": 9
+      }
+    },
+    {
+      "id": 140,
+      "text": "Gein",
+      "bbox": [
+        7,
+        873,
+        327,
+        981
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 34,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 141,
+      "text": "|",
+      "bbox": [
+        642,
+        877,
+        812,
+        943
+      ],
+      "confidence": 0.33,
+      "tesseract": {
+        "block": 34,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 142,
+      "text": "ВИНЕ",
+      "bbox": [
+        993,
+        873,
+        1227,
+        981
+      ],
+      "confidence": 0.21,
+      "tesseract": {
+        "block": 34,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 143,
+      "text": "ПЕНЫ",
+      "bbox": [
+        1308,
+        873,
+        1650,
+        981
+      ],
+      "confidence": 0.3,
+      "tesseract": {
+        "block": 34,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 144,
+      "text": "|_12",
+      "bbox": [
+        3,
+        942,
+        80,
+        993
+      ],
+      "confidence": 0.41,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 145,
+      "text": "[Долгосрочные",
+      "bbox": [
+        96,
+        942,
+        280,
+        993
+      ],
+      "confidence": 0.81,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 146,
+      "text": "активы,",
+      "bbox": [
+        292,
+        942,
+        382,
+        993
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 147,
+      "text": "предназначенные",
+      "bbox": [
+        394,
+        942,
+        594,
+        993
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 148,
+      "text": "для",
+      "bbox": [
+        606,
+        942,
+        649,
+        993
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 149,
+      "text": "продажи",
+      "bbox": [
+        661,
+        942,
+        798,
+        993
+      ],
+      "confidence": 0.17,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 150,
+      "text": "Хх",
+      "bbox": [
+        865,
+        942,
+        917,
+        993
+      ],
+      "confidence": 0.34,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 151,
+      "text": "|",
+      "bbox": [
+        955,
+        942,
+        1062,
+        993
+      ],
+      "confidence": 0.58,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 152,
+      "text": "596232]",
+      "bbox": [
+        1201,
+        942,
+        1308,
+        993
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 9
+      }
+    },
+    {
+      "id": 153,
+      "text": "861164]",
+      "bbox": [
+        1545,
+        942,
+        1652,
+        993
+      ],
+      "confidence": 0.65,
+      "tesseract": {
+        "block": 35,
+        "paragraph": 1,
+        "line": 1,
+        "word": 10
+      }
+    },
+    {
+      "id": 154,
+      "text": "т",
+      "bbox": [
+        112,
+        953,
+        131,
+        1007
+      ],
+      "confidence": 0.41,
+      "tesseract": {
+        "block": 36,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 155,
+      "text": "рочие",
+      "bbox": [
+        137,
+        994,
+        200,
+        1007
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 36,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 156,
+      "text": "активы",
+      "bbox": [
+        209,
+        994,
+        293,
+        1007
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 36,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 157,
+      "text": "SL",
+      "bbox": [
+        815,
+        953,
+        1648,
+        1042
+      ],
+      "confidence": 0.22,
+      "tesseract": {
+        "block": 37,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 158,
+      "text": "Всего",
+      "bbox": [
+        113,
+        1023,
+        181,
+        1042
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 38,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 159,
+      "text": "активов",
+      "bbox": [
+        190,
+        1029,
+        293,
+        1042
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 38,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 160,
+      "text": "14",
+      "bbox": [
+        1118,
+        1023,
+        1142,
+        1042
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 39,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 161,
+      "text": "222",
+      "bbox": [
+        1150,
+        1023,
+        1191,
+        1042
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 39,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 162,
+      "text": "274",
+      "bbox": [
+        1199,
+        1023,
+        1240,
+        1042
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 39,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 163,
+      "text": "419",
+      "bbox": [
+        1249,
+        1023,
+        1289,
+        1042
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 39,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 164,
+      "text": "13",
+      "bbox": [
+        1472,
+        1023,
+        1496,
+        1042
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 40,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 165,
+      "text": "045",
+      "bbox": [
+        1505,
+        1023,
+        1545,
+        1042
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 40,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 166,
+      "text": "288",
+      "bbox": [
+        1553,
+        1023,
+        1594,
+        1042
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 40,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 167,
+      "text": "453",
+      "bbox": [
+        1603,
+        1023,
+        1643,
+        1042
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 40,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    }
+  ]
+}

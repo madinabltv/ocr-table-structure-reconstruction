@@ -1,0 +1,2567 @@
+{
+  "schema_version": "0.1",
+  "created_at": "2026-08-16T16:02:12.218705+00:00",
+  "source_image": "table_03_payment_schedule.png",
+  "image_size": {
+    "width": 1332,
+    "height": 1104
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 6
+  },
+  "fragment_count": 150,
+  "fragments": [
+    {
+      "id": 0,
+      "text": "Период",
+      "bbox": [
+        19,
+        57,
+        121,
+        82
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "Срок",
+      "bbox": [
+        419,
+        57,
+        486,
+        82
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 2,
+      "text": "уплаты",
+      "bbox": [
+        493,
+        62,
+        594,
+        82
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 3,
+      "text": "Период",
+      "bbox": [
+        686,
+        37,
+        788,
+        63
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 4,
+      "text": "Срок",
+      "bbox": [
+        1089,
+        57,
+        1156,
+        82
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 5,
+      "text": "уплаты",
+      "bbox": [
+        1163,
+        62,
+        1264,
+        82
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 6,
+      "text": "За",
+      "bbox": [
+        19,
+        157,
+        49,
+        177
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 7,
+      "text": "период",
+      "bbox": [
+        59,
+        162,
+        150,
+        182
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 8,
+      "text": "1-22",
+      "bbox": [
+        160,
+        157,
+        212,
+        177
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 3
+      }
+    },
+    {
+      "id": 9,
+      "text": "января",
+      "bbox": [
+        221,
+        162,
+        309,
+        183
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 4
+      }
+    },
+    {
+      "id": 10,
+      "text": "28",
+      "bbox": [
+        418,
+        157,
+        448,
+        177
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 5
+      }
+    },
+    {
+      "id": 11,
+      "text": "января",
+      "bbox": [
+        457,
+        162,
+        545,
+        183
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 6
+      }
+    },
+    {
+      "id": 12,
+      "text": "За",
+      "bbox": [
+        685,
+        157,
+        716,
+        177
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 7
+      }
+    },
+    {
+      "id": 13,
+      "text": "период",
+      "bbox": [
+        726,
+        162,
+        816,
+        182
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 8
+      }
+    },
+    {
+      "id": 14,
+      "text": "1-22",
+      "bbox": [
+        827,
+        157,
+        879,
+        177
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 9
+      }
+    },
+    {
+      "id": 15,
+      "text": "июля",
+      "bbox": [
+        889,
+        162,
+        953,
+        177
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 10
+      }
+    },
+    {
+      "id": 16,
+      "text": "28",
+      "bbox": [
+        1088,
+        157,
+        1118,
+        177
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 11
+      }
+    },
+    {
+      "id": 17,
+      "text": "июля",
+      "bbox": [
+        1128,
+        162,
+        1192,
+        177
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 12
+      }
+    },
+    {
+      "id": 18,
+      "text": "За",
+      "bbox": [
+        19,
+        238,
+        49,
+        258
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 19,
+      "text": "период",
+      "bbox": [
+        59,
+        243,
+        150,
+        263
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 20,
+      "text": "23-31",
+      "bbox": [
+        158,
+        238,
+        224,
+        258
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 21,
+      "text": "января",
+      "bbox": [
+        236,
+        243,
+        325,
+        263
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 22,
+      "text": "5",
+      "bbox": [
+        419,
+        238,
+        433,
+        258
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 23,
+      "text": "февраля",
+      "bbox": [
+        442,
+        238,
+        555,
+        263
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 24,
+      "text": "За",
+      "bbox": [
+        685,
+        238,
+        716,
+        258
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 25,
+      "text": "период",
+      "bbox": [
+        726,
+        243,
+        816,
+        263
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 26,
+      "text": "23-31",
+      "bbox": [
+        825,
+        238,
+        890,
+        258
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 9
+      }
+    },
+    {
+      "id": 27,
+      "text": "июля",
+      "bbox": [
+        904,
+        243,
+        968,
+        258
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 10
+      }
+    },
+    {
+      "id": 28,
+      "text": "5",
+      "bbox": [
+        1089,
+        238,
+        1103,
+        258
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 11
+      }
+    },
+    {
+      "id": 29,
+      "text": "августа",
+      "bbox": [
+        1112,
+        243,
+        1206,
+        263
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 1,
+        "word": 12
+      }
+    },
+    {
+      "id": 30,
+      "text": "За",
+      "bbox": [
+        19,
+        318,
+        49,
+        338
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 31,
+      "text": "период",
+      "bbox": [
+        59,
+        323,
+        150,
+        343
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 32,
+      "text": "1-22",
+      "bbox": [
+        160,
+        318,
+        212,
+        338
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 3
+      }
+    },
+    {
+      "id": 33,
+      "text": "февраля",
+      "bbox": [
+        221,
+        318,
+        334,
+        343
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 4
+      }
+    },
+    {
+      "id": 34,
+      "text": "28",
+      "bbox": [
+        418,
+        318,
+        448,
+        338
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 5
+      }
+    },
+    {
+      "id": 35,
+      "text": "февраля",
+      "bbox": [
+        457,
+        318,
+        570,
+        343
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 6
+      }
+    },
+    {
+      "id": 36,
+      "text": "За",
+      "bbox": [
+        685,
+        318,
+        715,
+        338
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 7
+      }
+    },
+    {
+      "id": 37,
+      "text": "период",
+      "bbox": [
+        726,
+        323,
+        816,
+        343
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 8
+      }
+    },
+    {
+      "id": 38,
+      "text": "1-22",
+      "bbox": [
+        827,
+        318,
+        879,
+        338
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 9
+      }
+    },
+    {
+      "id": 39,
+      "text": "августа",
+      "bbox": [
+        888,
+        323,
+        982,
+        343
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 10
+      }
+    },
+    {
+      "id": 40,
+      "text": "28",
+      "bbox": [
+        1089,
+        318,
+        1118,
+        338
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 11
+      }
+    },
+    {
+      "id": 41,
+      "text": "августа",
+      "bbox": [
+        1127,
+        323,
+        1221,
+        343
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 2,
+        "word": 12
+      }
+    },
+    {
+      "id": 42,
+      "text": "За",
+      "bbox": [
+        19,
+        398,
+        49,
+        419
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 43,
+      "text": "период",
+      "bbox": [
+        59,
+        404,
+        150,
+        424
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 44,
+      "text": "23-29",
+      "bbox": [
+        158,
+        398,
+        228,
+        419
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 3
+      }
+    },
+    {
+      "id": 45,
+      "text": "февраля",
+      "bbox": [
+        236,
+        398,
+        350,
+        424
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 4
+      }
+    },
+    {
+      "id": 46,
+      "text": "5",
+      "bbox": [
+        419,
+        398,
+        433,
+        419
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 5
+      }
+    },
+    {
+      "id": 47,
+      "text": "марта",
+      "bbox": [
+        442,
+        404,
+        517,
+        424
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 6
+      }
+    },
+    {
+      "id": 48,
+      "text": "За",
+      "bbox": [
+        685,
+        398,
+        716,
+        419
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 7
+      }
+    },
+    {
+      "id": 49,
+      "text": "период",
+      "bbox": [
+        726,
+        404,
+        816,
+        424
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 8
+      }
+    },
+    {
+      "id": 50,
+      "text": "23-31",
+      "bbox": [
+        824,
+        398,
+        890,
+        419
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 9
+      }
+    },
+    {
+      "id": 51,
+      "text": "августа",
+      "bbox": [
+        903,
+        404,
+        997,
+        424
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 10
+      }
+    },
+    {
+      "id": 52,
+      "text": "5",
+      "bbox": [
+        1089,
+        398,
+        1103,
+        419
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 11
+      }
+    },
+    {
+      "id": 53,
+      "text": "сентября",
+      "bbox": [
+        1112,
+        398,
+        1228,
+        424
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 3,
+        "word": 12
+      }
+    },
+    {
+      "id": 54,
+      "text": "За",
+      "bbox": [
+        19,
+        479,
+        49,
+        499
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 55,
+      "text": "период",
+      "bbox": [
+        59,
+        484,
+        150,
+        504
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 2
+      }
+    },
+    {
+      "id": 56,
+      "text": "1-22",
+      "bbox": [
+        160,
+        479,
+        212,
+        499
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 3
+      }
+    },
+    {
+      "id": 57,
+      "text": "марта",
+      "bbox": [
+        222,
+        484,
+        296,
+        504
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 4
+      }
+    },
+    {
+      "id": 58,
+      "text": "28",
+      "bbox": [
+        418,
+        479,
+        448,
+        499
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 5
+      }
+    },
+    {
+      "id": 59,
+      "text": "марта",
+      "bbox": [
+        458,
+        484,
+        532,
+        504
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 6
+      }
+    },
+    {
+      "id": 60,
+      "text": "За",
+      "bbox": [
+        685,
+        479,
+        716,
+        499
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 7
+      }
+    },
+    {
+      "id": 61,
+      "text": "период",
+      "bbox": [
+        726,
+        484,
+        816,
+        504
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 8
+      }
+    },
+    {
+      "id": 62,
+      "text": "1-22",
+      "bbox": [
+        827,
+        479,
+        879,
+        499
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 9
+      }
+    },
+    {
+      "id": 63,
+      "text": "сентября",
+      "bbox": [
+        888,
+        479,
+        1004,
+        504
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 10
+      }
+    },
+    {
+      "id": 64,
+      "text": "29",
+      "bbox": [
+        1089,
+        479,
+        1118,
+        499
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 11
+      }
+    },
+    {
+      "id": 65,
+      "text": "сентября",
+      "bbox": [
+        1127,
+        479,
+        1243,
+        504
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 4,
+        "word": 12
+      }
+    },
+    {
+      "id": 66,
+      "text": "За",
+      "bbox": [
+        19,
+        559,
+        49,
+        579
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 1
+      }
+    },
+    {
+      "id": 67,
+      "text": "период",
+      "bbox": [
+        59,
+        565,
+        150,
+        585
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 2
+      }
+    },
+    {
+      "id": 68,
+      "text": "23-31",
+      "bbox": [
+        158,
+        559,
+        224,
+        579
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 3
+      }
+    },
+    {
+      "id": 69,
+      "text": "марта",
+      "bbox": [
+        237,
+        565,
+        312,
+        585
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 4
+      }
+    },
+    {
+      "id": 70,
+      "text": "7",
+      "bbox": [
+        419,
+        559,
+        432,
+        579
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 5
+      }
+    },
+    {
+      "id": 71,
+      "text": "апреля",
+      "bbox": [
+        442,
+        565,
+        531,
+        585
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 6
+      }
+    },
+    {
+      "id": 72,
+      "text": "За",
+      "bbox": [
+        685,
+        559,
+        716,
+        579
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 7
+      }
+    },
+    {
+      "id": 73,
+      "text": "период",
+      "bbox": [
+        726,
+        565,
+        816,
+        585
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 8
+      }
+    },
+    {
+      "id": 74,
+      "text": "23-30",
+      "bbox": [
+        824,
+        559,
+        894,
+        579
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 9
+      }
+    },
+    {
+      "id": 75,
+      "text": "сентября",
+      "bbox": [
+        903,
+        559,
+        1020,
+        585
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 10
+      }
+    },
+    {
+      "id": 76,
+      "text": "6",
+      "bbox": [
+        1089,
+        559,
+        1103,
+        579
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 11
+      }
+    },
+    {
+      "id": 77,
+      "text": "октября",
+      "bbox": [
+        1112,
+        559,
+        1211,
+        585
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 5,
+        "word": 12
+      }
+    },
+    {
+      "id": 78,
+      "text": "За",
+      "bbox": [
+        19,
+        640,
+        49,
+        660
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 1
+      }
+    },
+    {
+      "id": 79,
+      "text": "период",
+      "bbox": [
+        59,
+        645,
+        150,
+        665
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 2
+      }
+    },
+    {
+      "id": 80,
+      "text": "1-22",
+      "bbox": [
+        160,
+        640,
+        212,
+        660
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 3
+      }
+    },
+    {
+      "id": 81,
+      "text": "апреля",
+      "bbox": [
+        221,
+        645,
+        311,
+        665
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 4
+      }
+    },
+    {
+      "id": 82,
+      "text": "28",
+      "bbox": [
+        418,
+        640,
+        448,
+        660
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 5
+      }
+    },
+    {
+      "id": 83,
+      "text": "апреля",
+      "bbox": [
+        457,
+        645,
+        546,
+        665
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 6
+      }
+    },
+    {
+      "id": 84,
+      "text": "За",
+      "bbox": [
+        685,
+        640,
+        716,
+        660
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 7
+      }
+    },
+    {
+      "id": 85,
+      "text": "период",
+      "bbox": [
+        726,
+        645,
+        816,
+        665
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 8
+      }
+    },
+    {
+      "id": 86,
+      "text": "1-22",
+      "bbox": [
+        827,
+        640,
+        879,
+        660
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 9
+      }
+    },
+    {
+      "id": 87,
+      "text": "октября",
+      "bbox": [
+        888,
+        639,
+        987,
+        665
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 10
+      }
+    },
+    {
+      "id": 88,
+      "text": "28",
+      "bbox": [
+        1089,
+        640,
+        1118,
+        660
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 11
+      }
+    },
+    {
+      "id": 89,
+      "text": "октября",
+      "bbox": [
+        1127,
+        639,
+        1227,
+        665
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 6,
+        "word": 12
+      }
+    },
+    {
+      "id": 90,
+      "text": "За",
+      "bbox": [
+        19,
+        720,
+        49,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 1
+      }
+    },
+    {
+      "id": 91,
+      "text": "период",
+      "bbox": [
+        59,
+        725,
+        150,
+        745
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 2
+      }
+    },
+    {
+      "id": 92,
+      "text": "23-30",
+      "bbox": [
+        158,
+        720,
+        228,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 3
+      }
+    },
+    {
+      "id": 93,
+      "text": "апреля",
+      "bbox": [
+        236,
+        725,
+        326,
+        745
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 4
+      }
+    },
+    {
+      "id": 94,
+      "text": "5",
+      "bbox": [
+        419,
+        720,
+        433,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 5
+      }
+    },
+    {
+      "id": 95,
+      "text": "мая",
+      "bbox": [
+        442,
+        725,
+        489,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 6
+      }
+    },
+    {
+      "id": 96,
+      "text": "За",
+      "bbox": [
+        685,
+        720,
+        716,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 7
+      }
+    },
+    {
+      "id": 97,
+      "text": "период",
+      "bbox": [
+        726,
+        725,
+        816,
+        745
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 8
+      }
+    },
+    {
+      "id": 98,
+      "text": "23-31",
+      "bbox": [
+        825,
+        720,
+        890,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 9
+      }
+    },
+    {
+      "id": 99,
+      "text": "октября",
+      "bbox": [
+        903,
+        720,
+        1003,
+        745
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 10
+      }
+    },
+    {
+      "id": 100,
+      "text": "5",
+      "bbox": [
+        1089,
+        720,
+        1103,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 11
+      }
+    },
+    {
+      "id": 101,
+      "text": "ноября",
+      "bbox": [
+        1112,
+        720,
+        1202,
+        745
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 2,
+        "line": 7,
+        "word": 12
+      }
+    },
+    {
+      "id": 102,
+      "text": "За",
+      "bbox": [
+        19,
+        801,
+        49,
+        821
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 103,
+      "text": "период",
+      "bbox": [
+        59,
+        806,
+        150,
+        826
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 104,
+      "text": "1-22",
+      "bbox": [
+        160,
+        801,
+        212,
+        821
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 105,
+      "text": "мая",
+      "bbox": [
+        222,
+        806,
+        269,
+        821
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 106,
+      "text": "28",
+      "bbox": [
+        418,
+        801,
+        448,
+        821
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 107,
+      "text": "мая",
+      "bbox": [
+        458,
+        806,
+        505,
+        821
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 108,
+      "text": "За",
+      "bbox": [
+        685,
+        801,
+        716,
+        821
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 109,
+      "text": "период",
+      "bbox": [
+        726,
+        806,
+        816,
+        826
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 110,
+      "text": "1-22",
+      "bbox": [
+        827,
+        801,
+        879,
+        821
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 9
+      }
+    },
+    {
+      "id": 111,
+      "text": "ноября",
+      "bbox": [
+        889,
+        800,
+        978,
+        826
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 10
+      }
+    },
+    {
+      "id": 112,
+      "text": "28",
+      "bbox": [
+        1089,
+        801,
+        1118,
+        821
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 11
+      }
+    },
+    {
+      "id": 113,
+      "text": "ноября",
+      "bbox": [
+        1128,
+        800,
+        1217,
+        826
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 1,
+        "word": 12
+      }
+    },
+    {
+      "id": 114,
+      "text": "За",
+      "bbox": [
+        19,
+        881,
+        49,
+        901
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 115,
+      "text": "период",
+      "bbox": [
+        59,
+        886,
+        150,
+        906
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 116,
+      "text": "23-31",
+      "bbox": [
+        158,
+        881,
+        224,
+        901
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 3
+      }
+    },
+    {
+      "id": 117,
+      "text": "мая",
+      "bbox": [
+        237,
+        886,
+        284,
+        901
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 4
+      }
+    },
+    {
+      "id": 118,
+      "text": "5",
+      "bbox": [
+        419,
+        881,
+        433,
+        901
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 5
+      }
+    },
+    {
+      "id": 119,
+      "text": "июня",
+      "bbox": [
+        442,
+        886,
+        506,
+        901
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 6
+      }
+    },
+    {
+      "id": 120,
+      "text": "За",
+      "bbox": [
+        685,
+        881,
+        715,
+        901
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 7
+      }
+    },
+    {
+      "id": 121,
+      "text": "период",
+      "bbox": [
+        726,
+        886,
+        816,
+        906
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 8
+      }
+    },
+    {
+      "id": 122,
+      "text": "23-30",
+      "bbox": [
+        825,
+        881,
+        894,
+        901
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 9
+      }
+    },
+    {
+      "id": 123,
+      "text": "ноября",
+      "bbox": [
+        904,
+        881,
+        993,
+        906
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 10
+      }
+    },
+    {
+      "id": 124,
+      "text": "5",
+      "bbox": [
+        1089,
+        881,
+        1103,
+        901
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 11
+      }
+    },
+    {
+      "id": 125,
+      "text": "декабря",
+      "bbox": [
+        1111,
+        881,
+        1215,
+        906
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 2,
+        "word": 12
+      }
+    },
+    {
+      "id": 126,
+      "text": "За",
+      "bbox": [
+        19,
+        961,
+        49,
+        982
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 127,
+      "text": "период",
+      "bbox": [
+        59,
+        967,
+        150,
+        987
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 128,
+      "text": "1-22",
+      "bbox": [
+        160,
+        961,
+        218,
+        982
+      ],
+      "confidence": 0.88,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 3
+      }
+    },
+    {
+      "id": 129,
+      "text": "июня",
+      "bbox": [
+        228,
+        967,
+        292,
+        982
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 4
+      }
+    },
+    {
+      "id": 130,
+      "text": "30",
+      "bbox": [
+        419,
+        961,
+        448,
+        982
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 5
+      }
+    },
+    {
+      "id": 131,
+      "text": "июня",
+      "bbox": [
+        457,
+        967,
+        522,
+        982
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 6
+      }
+    },
+    {
+      "id": 132,
+      "text": "За",
+      "bbox": [
+        685,
+        961,
+        716,
+        982
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 7
+      }
+    },
+    {
+      "id": 133,
+      "text": "период",
+      "bbox": [
+        726,
+        967,
+        816,
+        987
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 8
+      }
+    },
+    {
+      "id": 134,
+      "text": "1-22",
+      "bbox": [
+        827,
+        961,
+        879,
+        982
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 9
+      }
+    },
+    {
+      "id": 135,
+      "text": "декабря",
+      "bbox": [
+        887,
+        961,
+        991,
+        987
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 10
+      }
+    },
+    {
+      "id": 136,
+      "text": "29",
+      "bbox": [
+        1088,
+        961,
+        1118,
+        982
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 11
+      }
+    },
+    {
+      "id": 137,
+      "text": "декабря",
+      "bbox": [
+        1126,
+        961,
+        1231,
+        987
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 3,
+        "word": 12
+      }
+    },
+    {
+      "id": 138,
+      "text": "За",
+      "bbox": [
+        19,
+        1042,
+        49,
+        1062
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 139,
+      "text": "период",
+      "bbox": [
+        59,
+        1047,
+        150,
+        1067
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 2
+      }
+    },
+    {
+      "id": 140,
+      "text": "23-30",
+      "bbox": [
+        158,
+        1042,
+        228,
+        1062
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 3
+      }
+    },
+    {
+      "id": 141,
+      "text": "июня",
+      "bbox": [
+        237,
+        1047,
+        301,
+        1062
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 4
+      }
+    },
+    {
+      "id": 142,
+      "text": "7",
+      "bbox": [
+        419,
+        1042,
+        432,
+        1062
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 5
+      }
+    },
+    {
+      "id": 143,
+      "text": "июля",
+      "bbox": [
+        442,
+        1047,
+        507,
+        1062
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 6
+      }
+    },
+    {
+      "id": 144,
+      "text": "За",
+      "bbox": [
+        685,
+        1042,
+        716,
+        1062
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 7
+      }
+    },
+    {
+      "id": 145,
+      "text": "период",
+      "bbox": [
+        726,
+        1047,
+        816,
+        1067
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 8
+      }
+    },
+    {
+      "id": 146,
+      "text": "23-31",
+      "bbox": [
+        825,
+        1042,
+        890,
+        1062
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 9
+      }
+    },
+    {
+      "id": 147,
+      "text": "декабря",
+      "bbox": [
+        902,
+        1041,
+        1007,
+        1067
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 10
+      }
+    },
+    {
+      "id": 148,
+      "text": "30",
+      "bbox": [
+        1089,
+        1042,
+        1118,
+        1062
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 11
+      }
+    },
+    {
+      "id": 149,
+      "text": "декабря",
+      "bbox": [
+        1126,
+        1041,
+        1231,
+        1067
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 3,
+        "line": 4,
+        "word": 12
+      }
+    }
+  ]
+}

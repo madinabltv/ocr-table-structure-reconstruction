@@ -1,0 +1,719 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_15",
+  "description": "Continuation page of a six-column bank capital table",
+  "annotation_method": "manual_grid_boundaries_with_fragment_center_assignment",
+  "source_ocr": "data/ocr/generalization_v8/adaptive/table_15.json",
+  "grid": {
+    "rows": 10,
+    "columns": 6
+  },
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "cell_0",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        18
+      ],
+      "text": "1"
+    },
+    {
+      "id": "cell_1",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "text": "Уставный капитал и эмиссионный доход, всего, в том числе сформированный:"
+    },
+    {
+      "id": "cell_2",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_3",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        64,
+        65,
+        66
+      ],
+      "text": "61 398 584"
+    },
+    {
+      "id": "cell_4",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        84,
+        85,
+        86
+      ],
+      "text": "61 398 584"
+    },
+    {
+      "id": "cell_5",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_6",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        19
+      ],
+      "text": "l"
+    },
+    {
+      "id": "cell_7",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        10,
+        11,
+        12
+      ],
+      "text": "обыкновенными акциями (долями)"
+    },
+    {
+      "id": "cell_8",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_9",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        67,
+        68,
+        69
+      ],
+      "text": "61 398 584"
+    },
+    {
+      "id": "cell_10",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        87,
+        88,
+        89
+      ],
+      "text": "61 398 584"
+    },
+    {
+      "id": "cell_11",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_12",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        20
+      ],
+      "text": "2"
+    },
+    {
+      "id": "cell_13",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        13,
+        14
+      ],
+      "text": "привилегированными акциями"
+    },
+    {
+      "id": "cell_14",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_15",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_16",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_17",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_18",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_19",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        15,
+        16,
+        17
+      ],
+      "text": "Нераспределенная прибыль (убыток):"
+    },
+    {
+      "id": "cell_20",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_21",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        70,
+        71,
+        72
+      ],
+      "text": "1112 005 994"
+    },
+    {
+      "id": "cell_22",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        90,
+        91,
+        92
+      ],
+      "text": "952 110 917"
+    },
+    {
+      "id": "cell_23",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_24",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_25",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_26",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_27",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        73,
+        74,
+        75
+      ],
+      "text": "1001 791 192"
+    },
+    {
+      "id": "cell_28",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        93,
+        94,
+        95
+      ],
+      "text": "791 141 749"
+    },
+    {
+      "id": "cell_29",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_30",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        21
+      ],
+      "text": ".2"
+    },
+    {
+      "id": "cell_31",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        22,
+        23
+      ],
+      "text": "|отчетного года"
+    },
+    {
+      "id": "cell_32",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_33",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        76,
+        77
+      ],
+      "text": "110214 802"
+    },
+    {
+      "id": "cell_34",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        96,
+        97,
+        98
+      ],
+      "text": "160 969 168"
+    },
+    {
+      "id": "cell_35",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_36",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        24
+      ],
+      "text": "3"
+    },
+    {
+      "id": "cell_37",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        25,
+        26
+      ],
+      "text": "Резервный фонд"
+    },
+    {
+      "id": "cell_38",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_39",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        78,
+        79
+      ],
+      "text": "2979 381"
+    },
+    {
+      "id": "cell_40",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        99,
+        100
+      ],
+      "text": "2979 381"
+    },
+    {
+      "id": "cell_41",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_42",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        31
+      ],
+      "text": "4"
+    },
+    {
+      "id": "cell_43",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        27,
+        28,
+        29,
+        30,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "text": "Доли уставного капитала, подлежащие |поэтапному исключению из расчета собственных средств (капитала"
+    },
+    {
+      "id": "cell_44",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_45",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        80
+      ],
+      "text": "неприменимо"
+    },
+    {
+      "id": "cell_46",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        101
+      ],
+      "text": "неприменимо"
+    },
+    {
+      "id": "cell_47",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_48",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        39,
+        44
+      ],
+      "text": "ps 5"
+    },
+    {
+      "id": "cell_49",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        40,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47,
+        48
+      ],
+      "text": "Инструменты базового капитала дочерних организаций, принадлежащие третьим сторонам"
+    },
+    {
+      "id": "cell_50",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_51",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_52",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_53",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_54",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_55",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "text": "Источники базового капитала, итого (строка 1 +/- строка 2 + строка 3 - строка 4"
+    },
+    {
+      "id": "cell_56",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_57",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        81,
+        82,
+        83
+      ],
+      "text": "1176 383 959"
+    },
+    {
+      "id": "cell_58",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        102,
+        103,
+        104
+      ],
+      "text": "1016 488 882"
+    },
+    {
+      "id": "cell_59",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    }
+  ]
+}

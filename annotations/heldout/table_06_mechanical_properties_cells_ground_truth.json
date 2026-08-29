@@ -1,0 +1,1548 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_06_mechanical_properties",
+  "description": "Reviewed logical cell annotations for independent evaluation",
+  "annotation_method": "manual grid transcription from OCR preview and source image",
+  "source_ocr": "table_06_mechanical_properties.png",
+  "ignored_fragment_ids": [
+    11,
+    41,
+    48,
+    57,
+    61,
+    64,
+    66,
+    84,
+    92,
+    105,
+    108,
+    110,
+    115,
+    128,
+    131,
+    133,
+    136,
+    138,
+    143,
+    148,
+    157,
+    160,
+    162,
+    165,
+    167,
+    172,
+    177,
+    186,
+    189,
+    191,
+    194,
+    196,
+    201,
+    206,
+    215,
+    218,
+    220,
+    223,
+    225,
+    230,
+    243,
+    246,
+    249,
+    253,
+    266,
+    269,
+    272,
+    280,
+    289,
+    292,
+    295
+  ],
+  "cells": [
+    {
+      "id": "h00",
+      "row_start": 0,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        13,
+        29,
+        35,
+        55,
+        78,
+        83
+      ],
+      "text": "_ = 8 2} № &"
+    },
+    {
+      "id": "h01",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 12,
+      "fragment_ids": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "text": "Механические свойства проката размером"
+    },
+    {
+      "id": "h11",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h15",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 5,
+      "column_end": 8,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h19",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 9,
+      "column_end": 12,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h2_1",
+      "row_start": 2,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        14,
+        36,
+        56,
+        79,
+        85,
+        86
+      ],
+      "text": "Предел = Н/мм? (кгс/мм?) не менее"
+    },
+    {
+      "id": "h2_2",
+      "row_start": 2,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        4,
+        15,
+        16,
+        30,
+        37,
+        58,
+        80,
+        87
+      ],
+      "text": "Времен os co против а. разрыву Op, Н/мм”,"
+    },
+    {
+      "id": "h2_3",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        5,
+        17,
+        38,
+        59,
+        60
+      ],
+      "text": "Относи тельное о 85, %"
+    },
+    {
+      "id": "h2_5",
+      "row_start": 2,
+      "row_end": 3,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        6,
+        19,
+        31,
+        42,
+        43,
+        65
+      ],
+      "text": "Предел О т, H/ мм”, (кгс/ММ”)"
+    },
+    {
+      "id": "h2_6",
+      "row_start": 2,
+      "row_end": 3,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        7,
+        20,
+        21,
+        32,
+        44,
+        67,
+        81,
+        88
+      ],
+      "text": "Времен = со Gee OTHB разрыву Op, Н/мм”,"
+    },
+    {
+      "id": "h2_7",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        8,
+        22,
+        45,
+        68,
+        69
+      ],
+      "text": "Относи тельное a 85, %"
+    },
+    {
+      "id": "h2_9",
+      "row_start": 2,
+      "row_end": 3,
+      "column_start": 9,
+      "column_end": 9,
+      "fragment_ids": [
+        9,
+        24,
+        33,
+        49,
+        50,
+        72
+      ],
+      "text": "Предел а. Ts H/ MM”, |(кгс/мм”)|"
+    },
+    {
+      "id": "h2_10",
+      "row_start": 2,
+      "row_end": 3,
+      "column_start": 10,
+      "column_end": 10,
+      "fragment_ids": [
+        10,
+        25,
+        26,
+        34,
+        51,
+        73,
+        82,
+        89
+      ],
+      "text": "Времен sh co против Gene разрыву Op, Н/ммг,"
+    },
+    {
+      "id": "h2_11",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 11,
+      "column_end": 11,
+      "fragment_ids": [
+        12,
+        27,
+        52,
+        74,
+        75
+      ],
+      "text": "Относи тельное a 55, %"
+    },
+    {
+      "id": "h2_4",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        18,
+        39,
+        40,
+        62,
+        63
+      ],
+      "text": "о КО, Дж 61°. М)"
+    },
+    {
+      "id": "h3_3",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h2_8",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        23,
+        46,
+        47,
+        70,
+        71
+      ],
+      "text": "pe KU, Hx (кгс. м)"
+    },
+    {
+      "id": "h3_7",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 7,
+      "column_end": 8,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h2_12",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 12,
+      "column_end": 12,
+      "fragment_ids": [
+        28,
+        53,
+        54,
+        76,
+        77
+      ],
+      "text": "pas KU, Дж (кгс. м)"
+    },
+    {
+      "id": "h3_11",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 11,
+      "column_end": 12,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c4_0",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        90
+      ],
+      "text": "25|"
+    },
+    {
+      "id": "c4_1",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        91,
+        104
+      ],
+      "text": "375 (38)"
+    },
+    {
+      "id": "c4_2",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        93,
+        106
+      ],
+      "text": "550—700 (56—71)"
+    },
+    {
+      "id": "c4_3",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        94
+      ],
+      "text": "19"
+    },
+    {
+      "id": "c4_4",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        95,
+        107
+      ],
+      "text": "35 (3,5)"
+    },
+    {
+      "id": "c4_5",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        96,
+        109
+      ],
+      "text": "315 (32)"
+    },
+    {
+      "id": "c4_6",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        97,
+        111
+      ],
+      "text": "|500—650 (61—66)"
+    },
+    {
+      "id": "c4_7",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        98
+      ],
+      "text": "21"
+    },
+    {
+      "id": "c4_8",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        99,
+        112
+      ],
+      "text": "35 (3,5)"
+    },
+    {
+      "id": "c4_9",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 9,
+      "column_end": 9,
+      "fragment_ids": [
+        100
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c4_10",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 10,
+      "column_end": 10,
+      "fragment_ids": [
+        101
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c4_11",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 11,
+      "column_end": 11,
+      "fragment_ids": [
+        102
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c4_12",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 12,
+      "column_end": 12,
+      "fragment_ids": [
+        103
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c5_0",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        113
+      ],
+      "text": "30|"
+    },
+    {
+      "id": "c5_1",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        114,
+        127
+      ],
+      "text": "400 (11)"
+    },
+    {
+      "id": "c5_2",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        116,
+        129
+      ],
+      "text": "600—750 (61-76)"
+    },
+    {
+      "id": "c5_3",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        117
+      ],
+      "text": "18"
+    },
+    {
+      "id": "c5_4",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        118,
+        130
+      ],
+      "text": "30 (3,0)"
+    },
+    {
+      "id": "c5_5",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        119,
+        132
+      ],
+      "text": "355 (36)"
+    },
+    {
+      "id": "c5_6",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        120,
+        134
+      ],
+      "text": "|550—700 (56—71)"
+    },
+    {
+      "id": "c5_7",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        121
+      ],
+      "text": "20"
+    },
+    {
+      "id": "c5_8",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        122,
+        135
+      ],
+      "text": "30 (3,0)"
+    },
+    {
+      "id": "c5_9",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 9,
+      "column_end": 9,
+      "fragment_ids": [
+        123,
+        137
+      ],
+      "text": "295 (30)"
+    },
+    {
+      "id": "c5_10",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 10,
+      "column_end": 10,
+      "fragment_ids": [
+        124,
+        139
+      ],
+      "text": "|500—650| (51—66)"
+    },
+    {
+      "id": "c5_11",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 11,
+      "column_end": 11,
+      "fragment_ids": [
+        125
+      ],
+      "text": "21"
+    },
+    {
+      "id": "c5_12",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 12,
+      "column_end": 12,
+      "fragment_ids": [
+        126,
+        140
+      ],
+      "text": "30 (3,5)"
+    },
+    {
+      "id": "c6_0",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        141
+      ],
+      "text": "35|"
+    },
+    {
+      "id": "c6_1",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        142,
+        156
+      ],
+      "text": "430 (44)"
+    },
+    {
+      "id": "c6_2",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        144,
+        158
+      ],
+      "text": "630—780 (64—80)"
+    },
+    {
+      "id": "c6_3",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        145
+      ],
+      "text": "17"
+    },
+    {
+      "id": "c6_4",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        146,
+        159
+      ],
+      "text": "25 (2,5)"
+    },
+    {
+      "id": "c6_5",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        147,
+        161
+      ],
+      "text": "380 (39)"
+    },
+    {
+      "id": "c6_6",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        149,
+        163
+      ],
+      "text": "600—750 (61—76)"
+    },
+    {
+      "id": "c6_7",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        150
+      ],
+      "text": "19"
+    },
+    {
+      "id": "c6_8",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        151,
+        164
+      ],
+      "text": "25 (2,5)"
+    },
+    {
+      "id": "c6_9",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 9,
+      "column_end": 9,
+      "fragment_ids": [
+        152,
+        166
+      ],
+      "text": "315 (32)"
+    },
+    {
+      "id": "c6_10",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 10,
+      "column_end": 10,
+      "fragment_ids": [
+        153,
+        168
+      ],
+      "text": "|550—700 (56—71)"
+    },
+    {
+      "id": "c6_11",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 11,
+      "column_end": 11,
+      "fragment_ids": [
+        154
+      ],
+      "text": "20"
+    },
+    {
+      "id": "c6_12",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 12,
+      "column_end": 12,
+      "fragment_ids": [
+        155,
+        169
+      ],
+      "text": "25 (2,5)"
+    },
+    {
+      "id": "c7_0",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        170
+      ],
+      "text": "40|"
+    },
+    {
+      "id": "c7_1",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        171,
+        185
+      ],
+      "text": "460 (47)"
+    },
+    {
+      "id": "c7_2",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        173,
+        187
+      ],
+      "text": "650—800 (66—82)"
+    },
+    {
+      "id": "c7_3",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        174
+      ],
+      "text": "16"
+    },
+    {
+      "id": "c7_4",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        175,
+        188
+      ],
+      "text": "20 (2,0)"
+    },
+    {
+      "id": "c7_5",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        176,
+        190
+      ],
+      "text": "400 (41)"
+    },
+    {
+      "id": "c7_6",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        178,
+        192
+      ],
+      "text": "630—780 (64—80)"
+    },
+    {
+      "id": "c7_7",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        179
+      ],
+      "text": "18"
+    },
+    {
+      "id": "c7_8",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        180,
+        193
+      ],
+      "text": "20 (2,0)"
+    },
+    {
+      "id": "c7_9",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 9,
+      "column_end": 9,
+      "fragment_ids": [
+        181,
+        195
+      ],
+      "text": "355 (36)"
+    },
+    {
+      "id": "c7_10",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 10,
+      "column_end": 10,
+      "fragment_ids": [
+        182,
+        197
+      ],
+      "text": "|600—750 (61—76)"
+    },
+    {
+      "id": "c7_11",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 11,
+      "column_end": 11,
+      "fragment_ids": [
+        183
+      ],
+      "text": "19"
+    },
+    {
+      "id": "c7_12",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 12,
+      "column_end": 12,
+      "fragment_ids": [
+        184,
+        198
+      ],
+      "text": "20 (2,0)"
+    },
+    {
+      "id": "c8_0",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        199
+      ],
+      "text": "45|"
+    },
+    {
+      "id": "c8_1",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        200,
+        214
+      ],
+      "text": "490 (50)"
+    },
+    {
+      "id": "c8_2",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        202,
+        216
+      ],
+      "text": "700—850 (71—87)"
+    },
+    {
+      "id": "c8_3",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        203
+      ],
+      "text": "14"
+    },
+    {
+      "id": "c8_4",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        204,
+        217
+      ],
+      "text": "15 (1,5)"
+    },
+    {
+      "id": "c8_5",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        205,
+        219
+      ],
+      "text": "430 (44)"
+    },
+    {
+      "id": "c8_6",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        207,
+        221
+      ],
+      "text": "650—800 (66—82)"
+    },
+    {
+      "id": "c8_7",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        208
+      ],
+      "text": "16"
+    },
+    {
+      "id": "c8_8",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        209,
+        222
+      ],
+      "text": "15 (1,5)"
+    },
+    {
+      "id": "c8_9",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 9,
+      "column_end": 9,
+      "fragment_ids": [
+        210,
+        224
+      ],
+      "text": "375 (38)"
+    },
+    {
+      "id": "c8_10",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 10,
+      "column_end": 10,
+      "fragment_ids": [
+        211,
+        226
+      ],
+      "text": "|630—780 (64—80)"
+    },
+    {
+      "id": "c8_11",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 11,
+      "column_end": 11,
+      "fragment_ids": [
+        212
+      ],
+      "text": "17"
+    },
+    {
+      "id": "c8_12",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 12,
+      "column_end": 12,
+      "fragment_ids": [
+        213,
+        227
+      ],
+      "text": "15 (1,5)"
+    },
+    {
+      "id": "c9_0",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        228
+      ],
+      "text": "50|"
+    },
+    {
+      "id": "c9_1",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        229,
+        242
+      ],
+      "text": "520 (53)"
+    },
+    {
+      "id": "c9_2",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        231,
+        244
+      ],
+      "text": "750—900 (16—92)"
+    },
+    {
+      "id": "c9_3",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        232
+      ],
+      "text": "13"
+    },
+    {
+      "id": "c9_4",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        233
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c9_5",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        234,
+        245
+      ],
+      "text": "460 (47)"
+    },
+    {
+      "id": "c9_6",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        235,
+        247
+      ],
+      "text": "|700—850 (71-87)"
+    },
+    {
+      "id": "c9_7",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        236
+      ],
+      "text": "15"
+    },
+    {
+      "id": "c9_8",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        237
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c9_9",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 9,
+      "column_end": 9,
+      "fragment_ids": [
+        238,
+        248
+      ],
+      "text": "400 (41)"
+    },
+    {
+      "id": "c9_10",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 10,
+      "column_end": 10,
+      "fragment_ids": [
+        239,
+        250
+      ],
+      "text": "|650—800 (66—82)"
+    },
+    {
+      "id": "c9_11",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 11,
+      "column_end": 11,
+      "fragment_ids": [
+        240
+      ],
+      "text": "16"
+    },
+    {
+      "id": "c9_12",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 12,
+      "column_end": 12,
+      "fragment_ids": [
+        241
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c10_0",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        251
+      ],
+      "text": "55|"
+    },
+    {
+      "id": "c10_1",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        252,
+        265
+      ],
+      "text": "550 (56)"
+    },
+    {
+      "id": "c10_2",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        254,
+        267
+      ],
+      "text": "800—950 (82—97)"
+    },
+    {
+      "id": "c10_3",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        255
+      ],
+      "text": "12"
+    },
+    {
+      "id": "c10_4",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        256
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c10_5",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        257,
+        268
+      ],
+      "text": "490 (50)"
+    },
+    {
+      "id": "c10_6",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        258,
+        270
+      ],
+      "text": "|750—900 (76—92)"
+    },
+    {
+      "id": "c10_7",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        259
+      ],
+      "text": "14"
+    },
+    {
+      "id": "c10_8",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        260
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c10_9",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 9,
+      "column_end": 9,
+      "fragment_ids": [
+        261,
+        271
+      ],
+      "text": "420 (43)"
+    },
+    {
+      "id": "c10_10",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 10,
+      "column_end": 10,
+      "fragment_ids": [
+        262,
+        273
+      ],
+      "text": "|700—850 (71-87)"
+    },
+    {
+      "id": "c10_11",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 11,
+      "column_end": 11,
+      "fragment_ids": [
+        263
+      ],
+      "text": "15"
+    },
+    {
+      "id": "c10_12",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 12,
+      "column_end": 12,
+      "fragment_ids": [
+        264
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c11_0",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        274
+      ],
+      "text": "60|"
+    },
+    {
+      "id": "c11_1",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        275,
+        288
+      ],
+      "text": "580 (59)"
+    },
+    {
+      "id": "c11_2",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        276,
+        290
+      ],
+      "text": "1850—1000 (87—102)"
+    },
+    {
+      "id": "c11_3",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        277
+      ],
+      "text": "И"
+    },
+    {
+      "id": "c11_4",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        278
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c11_5",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        279,
+        291
+      ],
+      "text": "520 (53)"
+    },
+    {
+      "id": "c11_6",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        281,
+        293
+      ],
+      "text": "800—950 (82—97)"
+    },
+    {
+      "id": "c11_7",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        282
+      ],
+      "text": "13"
+    },
+    {
+      "id": "c11_8",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        283
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c11_9",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 9,
+      "column_end": 9,
+      "fragment_ids": [
+        284,
+        294
+      ],
+      "text": "450 (46)"
+    },
+    {
+      "id": "c11_10",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 10,
+      "column_end": 10,
+      "fragment_ids": [
+        285,
+        296
+      ],
+      "text": "|750—900 (76—92)"
+    },
+    {
+      "id": "c11_11",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 11,
+      "column_end": 11,
+      "fragment_ids": [
+        286
+      ],
+      "text": "14"
+    },
+    {
+      "id": "c11_12",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 12,
+      "column_end": 12,
+      "fragment_ids": [
+        287
+      ],
+      "text": "="
+    }
+  ]
+}

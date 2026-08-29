@@ -1,0 +1,1309 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_08_composition_long",
+  "description": "Reviewed logical cell annotations for independent evaluation",
+  "annotation_method": "manual grid transcription from OCR preview and source image",
+  "source_ocr": "table_08_composition_long.png",
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "h00",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        4,
+        5
+      ],
+      "text": "Марка стали"
+    },
+    {
+      "id": "h01",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 4,
+      "fragment_ids": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "text": "Массовая доля элементов, %"
+    },
+    {
+      "id": "h11",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h12",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h13",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h14",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c20",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        6
+      ],
+      "text": "05кп"
+    },
+    {
+      "id": "c21",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        7,
+        8,
+        9
+      ],
+      "text": "Не более 0,06"
+    },
+    {
+      "id": "c22",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        10,
+        11,
+        12
+      ],
+      "text": "Не более 0,03"
+    },
+    {
+      "id": "c23",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        13,
+        14,
+        15
+      ],
+      "text": "Не более 0,40"
+    },
+    {
+      "id": "c24",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        16
+      ],
+      "text": "0,10"
+    },
+    {
+      "id": "c30",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        17
+      ],
+      "text": "08кп"
+    },
+    {
+      "id": "c31",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        18
+      ],
+      "text": "0,05—0,12"
+    },
+    {
+      "id": "c32",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        19,
+        20,
+        21
+      ],
+      "text": "Не более 0,03"
+    },
+    {
+      "id": "c33",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        22
+      ],
+      "text": "0,25—0,50"
+    },
+    {
+      "id": "c34",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        23
+      ],
+      "text": "0,10"
+    },
+    {
+      "id": "c40",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        24,
+        25
+      ],
+      "text": "08 пс"
+    },
+    {
+      "id": "c41",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        26
+      ],
+      "text": "0,05—0,11"
+    },
+    {
+      "id": "c42",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        27
+      ],
+      "text": "0,05—0,17"
+    },
+    {
+      "id": "c43",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        28
+      ],
+      "text": "0,35—0,65"
+    },
+    {
+      "id": "c44",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        29
+      ],
+      "text": "0,10"
+    },
+    {
+      "id": "c50",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        30
+      ],
+      "text": "08"
+    },
+    {
+      "id": "c51",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        31
+      ],
+      "text": "0,05—0,12"
+    },
+    {
+      "id": "c52",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        32
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c53",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        33
+      ],
+      "text": "0,35—0,65"
+    },
+    {
+      "id": "c54",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        34
+      ],
+      "text": "0,10"
+    },
+    {
+      "id": "c60",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        35,
+        36
+      ],
+      "text": "10 кп"
+    },
+    {
+      "id": "c61",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        37
+      ],
+      "text": "0,07—0,14"
+    },
+    {
+      "id": "c62",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        38,
+        39,
+        40
+      ],
+      "text": "Не более 0,07"
+    },
+    {
+      "id": "c63",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        41
+      ],
+      "text": "0,25—0,50"
+    },
+    {
+      "id": "c64",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        42
+      ],
+      "text": "0,15"
+    },
+    {
+      "id": "c70",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        43,
+        44
+      ],
+      "text": "10 пс"
+    },
+    {
+      "id": "c71",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        45
+      ],
+      "text": "0,07—0,14"
+    },
+    {
+      "id": "c72",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        46
+      ],
+      "text": "0,05—0,17"
+    },
+    {
+      "id": "c73",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        47
+      ],
+      "text": "0,35—0,65"
+    },
+    {
+      "id": "c74",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        48
+      ],
+      "text": "0,15"
+    },
+    {
+      "id": "c80",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        49
+      ],
+      "text": "10"
+    },
+    {
+      "id": "c81",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        50
+      ],
+      "text": "0,07—0,14"
+    },
+    {
+      "id": "c82",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        51
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c83",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        52
+      ],
+      "text": "0,35—0,65"
+    },
+    {
+      "id": "c84",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        53
+      ],
+      "text": "0,15"
+    },
+    {
+      "id": "c90",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        54
+      ],
+      "text": "Икп"
+    },
+    {
+      "id": "c91",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        55
+      ],
+      "text": "0,05—0,12"
+    },
+    {
+      "id": "c92",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        56,
+        57,
+        58
+      ],
+      "text": "Не более 0,06"
+    },
+    {
+      "id": "c93",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        59
+      ],
+      "text": "0,30—0,50"
+    },
+    {
+      "id": "c94",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        60
+      ],
+      "text": "0,15"
+    },
+    {
+      "id": "c100",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        61
+      ],
+      "text": "15кп"
+    },
+    {
+      "id": "c101",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        62
+      ],
+      "text": "0,12—0,19"
+    },
+    {
+      "id": "c102",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        63,
+        64,
+        65
+      ],
+      "text": "Не более 0,07"
+    },
+    {
+      "id": "c103",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        66
+      ],
+      "text": "0,25—0,50"
+    },
+    {
+      "id": "c104",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        67
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c110",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        68
+      ],
+      "text": "15пс"
+    },
+    {
+      "id": "c111",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        69
+      ],
+      "text": "0,12—0,19"
+    },
+    {
+      "id": "c112",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        70
+      ],
+      "text": "0,05—0,17"
+    },
+    {
+      "id": "c113",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        71
+      ],
+      "text": "0,35—0,65"
+    },
+    {
+      "id": "c114",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        72
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c120",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        73
+      ],
+      "text": "15"
+    },
+    {
+      "id": "c121",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        74
+      ],
+      "text": "0,12—0,19"
+    },
+    {
+      "id": "c122",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        75
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c123",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        76
+      ],
+      "text": "0,35—0,65"
+    },
+    {
+      "id": "c124",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        77
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c130",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        78
+      ],
+      "text": "18кп"
+    },
+    {
+      "id": "c131",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        79
+      ],
+      "text": "0,12—0,20"
+    },
+    {
+      "id": "c132",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        80,
+        81,
+        82
+      ],
+      "text": "Не более 0,06"
+    },
+    {
+      "id": "c133",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        83
+      ],
+      "text": "0,30—0,50"
+    },
+    {
+      "id": "c134",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        84
+      ],
+      "text": "0,15"
+    },
+    {
+      "id": "c140",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        85,
+        86
+      ],
+      "text": "20 кп"
+    },
+    {
+      "id": "c141",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        87
+      ],
+      "text": "0,17—0,24"
+    },
+    {
+      "id": "c142",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        88,
+        89,
+        90
+      ],
+      "text": "Не более 0,07"
+    },
+    {
+      "id": "c143",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        91
+      ],
+      "text": "0,25—0,50"
+    },
+    {
+      "id": "c144",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        92
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c150",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        93,
+        94
+      ],
+      "text": "20 пс"
+    },
+    {
+      "id": "c151",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        95
+      ],
+      "text": "0,17—0,24"
+    },
+    {
+      "id": "c152",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        96
+      ],
+      "text": "0,05—0,17"
+    },
+    {
+      "id": "c153",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        97
+      ],
+      "text": "0,35—0,65"
+    },
+    {
+      "id": "c154",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        98
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c160",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        99
+      ],
+      "text": "20"
+    },
+    {
+      "id": "c161",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        100
+      ],
+      "text": "0,17—0,24"
+    },
+    {
+      "id": "c162",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        101
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c163",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        102
+      ],
+      "text": "0,35—0,65"
+    },
+    {
+      "id": "c164",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        103
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c170",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        104
+      ],
+      "text": "25"
+    },
+    {
+      "id": "c171",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        105
+      ],
+      "text": "0,22—0,30"
+    },
+    {
+      "id": "c172",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        106
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c173",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        107
+      ],
+      "text": "0,50—0,80"
+    },
+    {
+      "id": "c174",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        108
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c180",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        109
+      ],
+      "text": "30"
+    },
+    {
+      "id": "c181",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        110
+      ],
+      "text": "0,27—0,35"
+    },
+    {
+      "id": "c182",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        111
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c183",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        112
+      ],
+      "text": "0,50—0,80"
+    },
+    {
+      "id": "c184",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        113
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c190",
+      "row_start": 19,
+      "row_end": 19,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        114
+      ],
+      "text": "35"
+    },
+    {
+      "id": "c191",
+      "row_start": 19,
+      "row_end": 19,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        115
+      ],
+      "text": "0,32—0,40"
+    },
+    {
+      "id": "c192",
+      "row_start": 19,
+      "row_end": 19,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        116
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c193",
+      "row_start": 19,
+      "row_end": 19,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        117
+      ],
+      "text": "0,50—0,80"
+    },
+    {
+      "id": "c194",
+      "row_start": 19,
+      "row_end": 19,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        118
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c200",
+      "row_start": 20,
+      "row_end": 20,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        119
+      ],
+      "text": "40"
+    },
+    {
+      "id": "c201",
+      "row_start": 20,
+      "row_end": 20,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        120
+      ],
+      "text": "0,37—0,45"
+    },
+    {
+      "id": "c202",
+      "row_start": 20,
+      "row_end": 20,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        121
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c203",
+      "row_start": 20,
+      "row_end": 20,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        122
+      ],
+      "text": "0,50—0,80"
+    },
+    {
+      "id": "c204",
+      "row_start": 20,
+      "row_end": 20,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        123
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c210",
+      "row_start": 21,
+      "row_end": 21,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        124
+      ],
+      "text": "45"
+    },
+    {
+      "id": "c211",
+      "row_start": 21,
+      "row_end": 21,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        125
+      ],
+      "text": "0,42—0,50"
+    },
+    {
+      "id": "c212",
+      "row_start": 21,
+      "row_end": 21,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        126
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c213",
+      "row_start": 21,
+      "row_end": 21,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        127
+      ],
+      "text": "0,50—0,80"
+    },
+    {
+      "id": "c214",
+      "row_start": 21,
+      "row_end": 21,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        128
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c220",
+      "row_start": 22,
+      "row_end": 22,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        129
+      ],
+      "text": "50"
+    },
+    {
+      "id": "c221",
+      "row_start": 22,
+      "row_end": 22,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        130
+      ],
+      "text": "0,47—0,55"
+    },
+    {
+      "id": "c222",
+      "row_start": 22,
+      "row_end": 22,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        131
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c223",
+      "row_start": 22,
+      "row_end": 22,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        132
+      ],
+      "text": "0,50—0,80"
+    },
+    {
+      "id": "c224",
+      "row_start": 22,
+      "row_end": 22,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        133
+      ],
+      "text": "0,25"
+    },
+    {
+      "id": "c230",
+      "row_start": 23,
+      "row_end": 23,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        134
+      ],
+      "text": "55"
+    },
+    {
+      "id": "c231",
+      "row_start": 23,
+      "row_end": 23,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        135
+      ],
+      "text": "0,52—0,60"
+    },
+    {
+      "id": "c232",
+      "row_start": 23,
+      "row_end": 23,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        136
+      ],
+      "text": "0,17—0,37"
+    },
+    {
+      "id": "c233",
+      "row_start": 23,
+      "row_end": 23,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        137
+      ],
+      "text": "0,50—0,80"
+    },
+    {
+      "id": "c234",
+      "row_start": 23,
+      "row_end": 23,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        138
+      ],
+      "text": "0,25"
+    }
+  ]
+}

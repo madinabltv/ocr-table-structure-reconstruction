@@ -1,0 +1,1141 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_13",
+  "description": "Bank report page with a full-width section heading",
+  "annotation_method": "manual_grid_boundaries_with_fragment_center_assignment",
+  "source_ocr": "data/ocr/generalization_v8/adaptive/table_13.json",
+  "grid": {
+    "rows": 19,
+    "columns": 5
+  },
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "cell_0",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        12,
+        14,
+        20
+      ],
+      "text": "Home} р строки"
+    },
+    {
+      "id": "cell_1",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        15,
+        16
+      ],
+      "text": "Наименование статьи"
+    },
+    {
+      "id": "cell_2",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        7,
+        21
+      ],
+      "text": "Номер пояснения"
+    },
+    {
+      "id": "cell_3",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        0,
+        1,
+        2,
+        8,
+        17,
+        22,
+        23
+      ],
+      "text": "д анные за отчетный период, тыс. руб."
+    },
+    {
+      "id": "cell_4",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        13,
+        18,
+        19,
+        24,
+        25
+      ],
+      "text": "д анные 3a предыд` р (yu ИЙ отчетный м год, тыс. руб."
+    },
+    {
+      "id": "cell_5",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        26
+      ],
+      "text": "О"
+    },
+    {
+      "id": "cell_6",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        27
+      ],
+      "text": "ЗО"
+    },
+    {
+      "id": "cell_7",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        28,
+        29
+      ],
+      "text": "ПО ОО"
+    },
+    {
+      "id": "cell_8",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        30,
+        31
+      ],
+      "text": "ОЕ ООО"
+    },
+    {
+      "id": "cell_9",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        32,
+        33
+      ],
+      "text": "ООО ООО"
+    },
+    {
+      "id": "cell_10",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 4,
+      "fragment_ids": [
+        34,
+        35
+      ],
+      "text": "1. АКТИВЫ"
+    },
+    {
+      "id": "cell_11",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        36
+      ],
+      "text": "Гот"
+    },
+    {
+      "id": "cell_12",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        37,
+        38,
+        39
+      ],
+      "text": "Денежные средетва сх"
+    },
+    {
+      "id": "cell_13",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        40
+      ],
+      "text": "|"
+    },
+    {
+      "id": "cell_14",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        41,
+        42
+      ],
+      "text": "166 111980"
+    },
+    {
+      "id": "cell_15",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        43,
+        44,
+        45
+      ],
+      "text": "183 294 687"
+    },
+    {
+      "id": "cell_16",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        46
+      ],
+      "text": "2"
+    },
+    {
+      "id": "cell_17",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        57,
+        58
+      ],
+      "text": "Средства кредитной организации в Центральном банке Российской Федерации"
+    },
+    {
+      "id": "cell_18",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_19",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        53
+      ],
+      "text": "1161129214"
+    },
+    {
+      "id": "cell_20",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        54,
+        55,
+        56
+      ],
+      "text": "405 817 892"
+    },
+    {
+      "id": "cell_21",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        59
+      ],
+      "text": "2.1"
+    },
+    {
+      "id": "cell_22",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        60,
+        61,
+        62
+      ],
+      "text": "Юбязательные резервы р"
+    },
+    {
+      "id": "cell_23",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_24",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        63,
+        64
+      ],
+      "text": "37901 424"
+    },
+    {
+      "id": "cell_25",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        65
+      ],
+      "text": "33355557"
+    },
+    {
+      "id": "cell_26",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        66
+      ],
+      "text": "|_3"
+    },
+    {
+      "id": "cell_27",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "text": "[Средства в кредитных организациях ох"
+    },
+    {
+      "id": "cell_28",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        72
+      ],
+      "text": "|"
+    },
+    {
+      "id": "cell_29",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        73,
+        74,
+        75
+      ],
+      "text": "61 155 282"
+    },
+    {
+      "id": "cell_30",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        76,
+        77,
+        78
+      ],
+      "text": "52 284 347"
+    },
+    {
+      "id": "cell_31",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_32",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        92,
+        93,
+        94,
+        95,
+        96
+      ],
+      "text": "Финансовые активы, On оцениваемые по справедливой равел стоимости через прибыль или убыток"
+    },
+    {
+      "id": "cell_33",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_34",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        86,
+        87,
+        88
+      ],
+      "text": "232 266 136"
+    },
+    {
+      "id": "cell_35",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        89,
+        90,
+        91
+      ],
+      "text": "275 757 283"
+    },
+    {
+      "id": "cell_36",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_37",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        97,
+        98,
+        99,
+        100,
+        101,
+        105
+      ],
+      "text": "Производные финансовые инструменты для целей хеджирования"
+    },
+    {
+      "id": "cell_38",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        102
+      ],
+      "text": "x"
+    },
+    {
+      "id": "cell_39",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        103
+      ],
+      "text": "x"
+    },
+    {
+      "id": "cell_40",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        104
+      ],
+      "text": "x"
+    },
+    {
+      "id": "cell_41",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_42",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        123,
+        124
+      ],
+      "text": "Чистая ссудная удная задолженность, ont оцениваемая по зал амортизированной стоимости"
+    },
+    {
+      "id": "cell_43",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        114
+      ],
+      "text": "x"
+    },
+    {
+      "id": "cell_44",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        115,
+        116,
+        117,
+        118
+      ],
+      "text": "9 330 808 580"
+    },
+    {
+      "id": "cell_45",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        119,
+        120,
+        121,
+        122
+      ],
+      "text": "9 256 314 060"
+    },
+    {
+      "id": "cell_46",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        125
+      ],
+      "text": "|."
+    },
+    {
+      "id": "cell_47",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145
+      ],
+      "text": "Чистые B финансовые по вложения активы, оцениваемые справедливой стоимости через прочии совокупный доход"
+    },
+    {
+      "id": "cell_48",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        133
+      ],
+      "text": "x"
+    },
+    {
+      "id": "cell_49",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        134,
+        135,
+        136,
+        137
+      ],
+      "text": "1 390 573 505"
+    },
+    {
+      "id": "cell_50",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        138,
+        139
+      ],
+      "text": "1391958 367"
+    },
+    {
+      "id": "cell_51",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_52",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        168,
+        169,
+        170
+      ],
+      "text": "Чистые вложения в ценные бумаги и иные финансовые активы, оцениваемые по амортизированной стоимости кроме ссудной задолженности"
+    },
+    {
+      "id": "cell_53",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        160
+      ],
+      "text": "xX"
+    },
+    {
+      "id": "cell_54",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        161,
+        162,
+        163,
+        164
+      ],
+      "text": "1 340 477 373"
+    },
+    {
+      "id": "cell_55",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        165,
+        166,
+        167
+      ],
+      "text": "930 608 430"
+    },
+    {
+      "id": "cell_56",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_57",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_58",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_59",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_60",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_61",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_62",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_63",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_64",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        171
+      ],
+      "text": "22059"
+    },
+    {
+      "id": "cell_65",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        172,
+        173
+      ],
+      "text": "17 02"
+    },
+    {
+      "id": "cell_66",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_67",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_68",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_69",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        174,
+        175,
+        176
+      ],
+      "text": "46 338 491"
+    },
+    {
+      "id": "cell_70",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        177,
+        178
+      ],
+      "text": "50481 01"
+    },
+    {
+      "id": "cell_71",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_72",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        193,
+        194
+      ],
+      "text": "Основные средства, активы в форме права пользования и нематериальные активы"
+    },
+    {
+      "id": "cell_73",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_74",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        187,
+        188,
+        189
+      ],
+      "text": "239 662 614"
+    },
+    {
+      "id": "cell_75",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        190,
+        191,
+        192
+      ],
+      "text": "232 757 439"
+    },
+    {
+      "id": "cell_76",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        146
+      ],
+      "text": "1"
+    },
+    {
+      "id": "cell_77",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        195,
+        196,
+        197,
+        198,
+        199
+      ],
+      "text": "Долгосрочные активы, предназначенные для продажи"
+    },
+    {
+      "id": "cell_78",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_79",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        200,
+        201,
+        202
+      ],
+      "text": "1 596 232"
+    },
+    {
+      "id": "cell_80",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        203,
+        204
+      ],
+      "text": "861 16"
+    },
+    {
+      "id": "cell_81",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_82",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_83",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_84",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_85",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_86",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        205
+      ],
+      "text": "14"
+    },
+    {
+      "id": "cell_87",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        206,
+        207
+      ],
+      "text": "|Всего активов"
+    },
+    {
+      "id": "cell_88",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        216
+      ],
+      "text": "я"
+    },
+    {
+      "id": "cell_89",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        208,
+        209,
+        210,
+        211
+      ],
+      "text": "14 222 274 419"
+    },
+    {
+      "id": "cell_90",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        212,
+        213,
+        214,
+        215
+      ],
+      "text": "13 045 288 453"
+    }
+  ]
+}

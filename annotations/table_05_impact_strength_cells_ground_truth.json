@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_05_impact_strength",
+  "description": "Reviewed logical cell annotations for independent evaluation",
+  "annotation_method": "manual grid transcription from OCR preview and source image",
+  "source_ocr": "table_05_impact_strength.png",
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "h00",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        4,
+        5
+      ],
+      "text": "Марка стали"
+    },
+    {
+      "id": "h01",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8
+      ],
+      "text": "Ударная вязкость KCU, О Дж/см? -M/cM’), не"
+    },
+    {
+      "id": "c10",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        9
+      ],
+      "text": "25"
+    },
+    {
+      "id": "c11",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        10
+      ],
+      "text": "88(9)"
+    },
+    {
+      "id": "c20",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        11
+      ],
+      "text": "30"
+    },
+    {
+      "id": "c21",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        12
+      ],
+      "text": "78(8)"
+    },
+    {
+      "id": "c30",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        13
+      ],
+      "text": "CB)"
+    },
+    {
+      "id": "c31",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        14
+      ],
+      "text": "69(7)"
+    },
+    {
+      "id": "c40",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        15
+      ],
+      "text": "40"
+    },
+    {
+      "id": "c41",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        16
+      ],
+      "text": "59(6)"
+    },
+    {
+      "id": "c50",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        17
+      ],
+      "text": "45"
+    },
+    {
+      "id": "c51",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        18
+      ],
+      "text": "49(5)"
+    },
+    {
+      "id": "c60",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        19
+      ],
+      "text": "50"
+    },
+    {
+      "id": "c61",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        20
+      ],
+      "text": "38(4)"
+    }
+  ]
+}

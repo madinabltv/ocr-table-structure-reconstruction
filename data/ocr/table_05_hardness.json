@@ -1,0 +1,1615 @@
+{
+  "schema_version": "0.1",
+  "created_at": "2026-08-16T17:07:02.282877+00:00",
+  "source_image": "table_05_hardness.png",
+  "image_size": {
+    "width": 1808,
+    "height": 860
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 6
+  },
+  "fragment_count": 94,
+  "fragments": [
+    {
+      "id": 0,
+      "text": "Число",
+      "bbox": [
+        878,
+        49,
+        964,
+        71
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "твердости",
+      "bbox": [
+        975,
+        56,
+        1111,
+        77
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 2,
+      "text": "НВ,",
+      "bbox": [
+        1123,
+        49,
+        1174,
+        76
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 3,
+      "text": "не",
+      "bbox": [
+        1187,
+        56,
+        1218,
+        71
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 4,
+      "text": "более",
+      "bbox": [
+        1230,
+        49,
+        1305,
+        71
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 5,
+      "text": "для",
+      "bbox": [
+        1111,
+        128,
+        1158,
+        147
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 6,
+      "text": "калиброванного",
+      "bbox": [
+        1171,
+        122,
+        1394,
+        149
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 7,
+      "text": "проката",
+      "bbox": [
+        1405,
+        128,
+        1513,
+        149
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 3
+      }
+    },
+    {
+      "id": 8,
+      "text": "и",
+      "bbox": [
+        1525,
+        128,
+        1541,
+        143
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 4
+      }
+    },
+    {
+      "id": 9,
+      "text": "со",
+      "bbox": [
+        1552,
+        128,
+        1582,
+        143
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 5
+      }
+    },
+    {
+      "id": 10,
+      "text": "специальной",
+      "bbox": [
+        1593,
+        122,
+        1771,
+        147
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 6
+      }
+    },
+    {
+      "id": 11,
+      "text": "Марка",
+      "bbox": [
+        130,
+        163,
+        218,
+        191
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 12,
+      "text": "стали",
+      "bbox": [
+        230,
+        170,
+        304,
+        185
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 13,
+      "text": "проката",
+      "bbox": [
+        684,
+        150,
+        796,
+        188
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 3
+      }
+    },
+    {
+      "id": 14,
+      "text": "отделкой",
+      "bbox": [
+        1287,
+        155,
+        1413,
+        180
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 4
+      }
+    },
+    {
+      "id": 15,
+      "text": "поверхности",
+      "bbox": [
+        1425,
+        162,
+        1597,
+        183
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 5
+      }
+    },
+    {
+      "id": 16,
+      "text": "без",
+      "bbox": [
+        452,
+        244,
+        494,
+        266
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 17,
+      "text": "термической",
+      "bbox": [
+        504,
+        244,
+        682,
+        272
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 2
+      }
+    },
+    {
+      "id": 18,
+      "text": "после",
+      "bbox": [
+        795,
+        251,
+        871,
+        266
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 3
+      }
+    },
+    {
+      "id": 19,
+      "text": "отжига",
+      "bbox": [
+        883,
+        251,
+        978,
+        266
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 4
+      }
+    },
+    {
+      "id": 20,
+      "text": "или",
+      "bbox": [
+        990,
+        251,
+        1040,
+        266
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 5
+      }
+    },
+    {
+      "id": 21,
+      "text": "и",
+      "bbox": [
+        1495,
+        234,
+        1678,
+        249
+      ],
+      "confidence": 0.1,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 6
+      }
+    },
+    {
+      "id": 22,
+      "text": "we",
+      "bbox": [
+        1690,
+        234,
+        1741,
+        249
+      ],
+      "confidence": 0.32,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 7
+      }
+    },
+    {
+      "id": 23,
+      "text": "обработки",
+      "bbox": [
+        495,
+        269,
+        642,
+        310
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 1
+      }
+    },
+    {
+      "id": 24,
+      "text": "высокого",
+      "bbox": [
+        794,
+        284,
+        922,
+        299
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 2
+      }
+    },
+    {
+      "id": 25,
+      "text": "отпуска",
+      "bbox": [
+        934,
+        284,
+        1040,
+        304
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 3
+      }
+    },
+    {
+      "id": 26,
+      "text": "нагартованного",
+      "bbox": [
+        1159,
+        267,
+        1375,
+        288
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 4
+      }
+    },
+    {
+      "id": 27,
+      "text": "высокоотпущен",
+      "bbox": [
+        1501,
+        267,
+        1721,
+        287
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 5
+      }
+    },
+    {
+      "id": 28,
+      "text": "ного",
+      "bbox": [
+        1586,
+        300,
+        1648,
+        315
+      ],
+      "confidence": 0.87,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 1
+      }
+    },
+    {
+      "id": 29,
+      "text": "08",
+      "bbox": [
+        122,
+        357,
+        152,
+        382
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 1
+      }
+    },
+    {
+      "id": 30,
+      "text": "131",
+      "bbox": [
+        545,
+        357,
+        588,
+        382
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 2
+      }
+    },
+    {
+      "id": 31,
+      "text": "—",
+      "bbox": [
+        903,
+        372,
+        930,
+        374
+      ],
+      "confidence": 0.73,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 3
+      }
+    },
+    {
+      "id": 32,
+      "text": "179",
+      "bbox": [
+        1246,
+        357,
+        1292,
+        383
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 4
+      }
+    },
+    {
+      "id": 33,
+      "text": "131",
+      "bbox": [
+        1596,
+        357,
+        1639,
+        382
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 5
+      }
+    },
+    {
+      "id": 34,
+      "text": "10",
+      "bbox": [
+        125,
+        394,
+        154,
+        418
+      ],
+      "confidence": 0.89,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 1
+      }
+    },
+    {
+      "id": 35,
+      "text": "143",
+      "bbox": [
+        545,
+        394,
+        590,
+        418
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 2
+      }
+    },
+    {
+      "id": 36,
+      "text": "—",
+      "bbox": [
+        903,
+        408,
+        930,
+        410
+      ],
+      "confidence": 0.65,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 3
+      }
+    },
+    {
+      "id": 37,
+      "text": "187",
+      "bbox": [
+        1246,
+        394,
+        1292,
+        418
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 4
+      }
+    },
+    {
+      "id": 38,
+      "text": "143",
+      "bbox": [
+        1596,
+        394,
+        1641,
+        418
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 5
+      }
+    },
+    {
+      "id": 39,
+      "text": "15",
+      "bbox": [
+        125,
+        430,
+        154,
+        455
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 1
+      }
+    },
+    {
+      "id": 40,
+      "text": "149",
+      "bbox": [
+        545,
+        430,
+        591,
+        456
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 2
+      }
+    },
+    {
+      "id": 41,
+      "text": "—",
+      "bbox": [
+        903,
+        445,
+        930,
+        447
+      ],
+      "confidence": 0.81,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 3
+      }
+    },
+    {
+      "id": 42,
+      "text": "197",
+      "bbox": [
+        1246,
+        430,
+        1292,
+        456
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 4
+      }
+    },
+    {
+      "id": 43,
+      "text": "149",
+      "bbox": [
+        1596,
+        430,
+        1642,
+        456
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 5
+      }
+    },
+    {
+      "id": 44,
+      "text": "20",
+      "bbox": [
+        122,
+        466,
+        153,
+        491
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 1
+      }
+    },
+    {
+      "id": 45,
+      "text": "163",
+      "bbox": [
+        545,
+        464,
+        590,
+        491
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 2
+      }
+    },
+    {
+      "id": 46,
+      "text": "—",
+      "bbox": [
+        903,
+        481,
+        930,
+        483
+      ],
+      "confidence": 0.77,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 3
+      }
+    },
+    {
+      "id": 47,
+      "text": "207",
+      "bbox": [
+        1243,
+        466,
+        1291,
+        491
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 4
+      }
+    },
+    {
+      "id": 48,
+      "text": "163",
+      "bbox": [
+        1596,
+        464,
+        1641,
+        491
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 5
+      }
+    },
+    {
+      "id": 49,
+      "text": "25",
+      "bbox": [
+        122,
+        503,
+        153,
+        527
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 1
+      }
+    },
+    {
+      "id": 50,
+      "text": "170",
+      "bbox": [
+        545,
+        503,
+        591,
+        527
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 2
+      }
+    },
+    {
+      "id": 51,
+      "text": "—",
+      "bbox": [
+        903,
+        517,
+        930,
+        519
+      ],
+      "confidence": 0.77,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 3
+      }
+    },
+    {
+      "id": 52,
+      "text": "217",
+      "bbox": [
+        1242,
+        503,
+        1292,
+        527
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 4
+      }
+    },
+    {
+      "id": 53,
+      "text": "170",
+      "bbox": [
+        1596,
+        503,
+        1642,
+        527
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 5
+      }
+    },
+    {
+      "id": 54,
+      "text": "30",
+      "bbox": [
+        122,
+        539,
+        153,
+        564
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 12,
+        "word": 1
+      }
+    },
+    {
+      "id": 55,
+      "text": "179",
+      "bbox": [
+        545,
+        539,
+        591,
+        565
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 12,
+        "word": 2
+      }
+    },
+    {
+      "id": 56,
+      "text": "—",
+      "bbox": [
+        903,
+        554,
+        930,
+        556
+      ],
+      "confidence": 0.82,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 12,
+        "word": 3
+      }
+    },
+    {
+      "id": 57,
+      "text": "229",
+      "bbox": [
+        1242,
+        539,
+        1291,
+        566
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 12,
+        "word": 4
+      }
+    },
+    {
+      "id": 58,
+      "text": "179",
+      "bbox": [
+        1596,
+        539,
+        1642,
+        565
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 12,
+        "word": 5
+      }
+    },
+    {
+      "id": 59,
+      "text": "35",
+      "bbox": [
+        123,
+        575,
+        153,
+        600
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 1
+      }
+    },
+    {
+      "id": 60,
+      "text": "207",
+      "bbox": [
+        542,
+        575,
+        590,
+        600
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 2
+      }
+    },
+    {
+      "id": 61,
+      "text": "—",
+      "bbox": [
+        903,
+        590,
+        930,
+        592
+      ],
+      "confidence": 0.75,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 3
+      }
+    },
+    {
+      "id": 62,
+      "text": "229",
+      "bbox": [
+        1242,
+        575,
+        1291,
+        601
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 4
+      }
+    },
+    {
+      "id": 63,
+      "text": "187",
+      "bbox": [
+        1596,
+        576,
+        1642,
+        600
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 13,
+        "word": 5
+      }
+    },
+    {
+      "id": 64,
+      "text": "40",
+      "bbox": [
+        122,
+        612,
+        153,
+        636
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 14,
+        "word": 1
+      }
+    },
+    {
+      "id": 65,
+      "text": "217",
+      "bbox": [
+        542,
+        612,
+        591,
+        636
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 14,
+        "word": 2
+      }
+    },
+    {
+      "id": 66,
+      "text": "187",
+      "bbox": [
+        895,
+        612,
+        942,
+        636
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 14,
+        "word": 3
+      }
+    },
+    {
+      "id": 67,
+      "text": "241",
+      "bbox": [
+        1242,
+        612,
+        1289,
+        636
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 14,
+        "word": 4
+      }
+    },
+    {
+      "id": 68,
+      "text": "197",
+      "bbox": [
+        1596,
+        612,
+        1642,
+        638
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 14,
+        "word": 5
+      }
+    },
+    {
+      "id": 69,
+      "text": "45",
+      "bbox": [
+        122,
+        648,
+        153,
+        673
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 1
+      }
+    },
+    {
+      "id": 70,
+      "text": "229",
+      "bbox": [
+        542,
+        648,
+        590,
+        674
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 2
+      }
+    },
+    {
+      "id": 71,
+      "text": "197",
+      "bbox": [
+        895,
+        648,
+        942,
+        675
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 3
+      }
+    },
+    {
+      "id": 72,
+      "text": "241",
+      "bbox": [
+        1242,
+        648,
+        1289,
+        673
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 4
+      }
+    },
+    {
+      "id": 73,
+      "text": "207",
+      "bbox": [
+        1592,
+        648,
+        1641,
+        673
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 15,
+        "word": 5
+      }
+    },
+    {
+      "id": 74,
+      "text": "50",
+      "bbox": [
+        122,
+        684,
+        153,
+        709
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 1
+      }
+    },
+    {
+      "id": 75,
+      "text": "241",
+      "bbox": [
+        542,
+        684,
+        588,
+        709
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 2
+      }
+    },
+    {
+      "id": 76,
+      "text": "207",
+      "bbox": [
+        892,
+        684,
+        941,
+        709
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 3
+      }
+    },
+    {
+      "id": 77,
+      "text": "255",
+      "bbox": [
+        1242,
+        684,
+        1291,
+        709
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 4
+      }
+    },
+    {
+      "id": 78,
+      "text": "217",
+      "bbox": [
+        1593,
+        685,
+        1642,
+        710
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 16,
+        "word": 5
+      }
+    },
+    {
+      "id": 79,
+      "text": "55",
+      "bbox": [
+        122,
+        721,
+        153,
+        745
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 1
+      }
+    },
+    {
+      "id": 80,
+      "text": "255",
+      "bbox": [
+        542,
+        721,
+        590,
+        745
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 2
+      }
+    },
+    {
+      "id": 81,
+      "text": "217",
+      "bbox": [
+        892,
+        721,
+        942,
+        745
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 3
+      }
+    },
+    {
+      "id": 82,
+      "text": "269",
+      "bbox": [
+        1242,
+        719,
+        1291,
+        747
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 4
+      }
+    },
+    {
+      "id": 83,
+      "text": "229",
+      "bbox": [
+        1593,
+        721,
+        1641,
+        747
+      ],
+      "confidence": 0.97,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 17,
+        "word": 5
+      }
+    },
+    {
+      "id": 84,
+      "text": "58(55пп)",
+      "bbox": [
+        122,
+        757,
+        253,
+        789
+      ],
+      "confidence": 0.0,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 1
+      }
+    },
+    {
+      "id": 85,
+      "text": "255",
+      "bbox": [
+        542,
+        757,
+        590,
+        782
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 2
+      }
+    },
+    {
+      "id": 86,
+      "text": "217",
+      "bbox": [
+        892,
+        757,
+        942,
+        782
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 3
+      }
+    },
+    {
+      "id": 87,
+      "text": "—",
+      "bbox": [
+        1253,
+        772,
+        1281,
+        774
+      ],
+      "confidence": 0.68,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 4
+      }
+    },
+    {
+      "id": 88,
+      "text": "—",
+      "bbox": [
+        1604,
+        772,
+        1631,
+        774
+      ],
+      "confidence": 0.68,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 18,
+        "word": 5
+      }
+    },
+    {
+      "id": 89,
+      "text": "60",
+      "bbox": [
+        122,
+        792,
+        153,
+        818
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 1
+      }
+    },
+    {
+      "id": 90,
+      "text": "255",
+      "bbox": [
+        542,
+        793,
+        590,
+        818
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 2
+      }
+    },
+    {
+      "id": 91,
+      "text": "229",
+      "bbox": [
+        892,
+        793,
+        941,
+        819
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 3
+      }
+    },
+    {
+      "id": 92,
+      "text": "269",
+      "bbox": [
+        1242,
+        792,
+        1291,
+        819
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 4
+      }
+    },
+    {
+      "id": 93,
+      "text": "229",
+      "bbox": [
+        1593,
+        794,
+        1641,
+        820
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 19,
+        "word": 5
+      }
+    }
+  ]
+}

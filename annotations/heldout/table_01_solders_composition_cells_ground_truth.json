@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_01_solders_composition",
+  "description": "Reviewed logical cell annotations for independent evaluation",
+  "annotation_method": "manual grid transcription from OCR preview and source image",
+  "source_ocr": "table_01_solders_composition.png",
+  "ignored_fragment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    37,
+    42
+  ],
+  "cells": [
+    {
+      "id": "h00",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h01",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h05",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h11",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h12",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h13",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h14",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c2_0",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        6
+      ],
+      "text": "Вуда"
+    },
+    {
+      "id": "c2_1",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        7
+      ],
+      "text": "50"
+    },
+    {
+      "id": "c2_2",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        8
+      ],
+      "text": "25"
+    },
+    {
+      "id": "c2_3",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        9
+      ],
+      "text": "12,5"
+    },
+    {
+      "id": "c2_4",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        10
+      ],
+      "text": "12.5"
+    },
+    {
+      "id": "c2_5",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        11
+      ],
+      "text": "60,5"
+    },
+    {
+      "id": "c3_0",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        12
+      ],
+      "text": "Розе"
+    },
+    {
+      "id": "c3_1",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        13
+      ],
+      "text": "50"
+    },
+    {
+      "id": "c3_2",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        14
+      ],
+      "text": "25"
+    },
+    {
+      "id": "c3_3",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        15
+      ],
+      "text": "25"
+    },
+    {
+      "id": "c3_4",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c3_5",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        16
+      ],
+      "text": "94"
+    },
+    {
+      "id": "c4_0",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        17
+      ],
+      "text": "Д’Арсенваля"
+    },
+    {
+      "id": "c4_1",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        18
+      ],
+      "text": "45,3"
+    },
+    {
+      "id": "c4_2",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        19
+      ],
+      "text": "45.1"
+    },
+    {
+      "id": "c4_3",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        20
+      ],
+      "text": "9.6"
+    },
+    {
+      "id": "c4_4",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        21
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c4_5",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        22
+      ],
+      "text": "79"
+    },
+    {
+      "id": "c5_0",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        23
+      ],
+      "text": "Липовица"
+    },
+    {
+      "id": "c5_1",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        24
+      ],
+      "text": "50"
+    },
+    {
+      "id": "c5_2",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        25
+      ],
+      "text": "26,67"
+    },
+    {
+      "id": "c5_3",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        26
+      ],
+      "text": "13,33"
+    },
+    {
+      "id": "c5_4",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        27
+      ],
+      "text": "10"
+    },
+    {
+      "id": "c5_5",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        28
+      ],
+      "text": "-"
+    },
+    {
+      "id": "c6_0",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        29,
+        30
+      ],
+      "text": "ПОСВ 33"
+    },
+    {
+      "id": "c6_1",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        31
+      ],
+      "text": "33,3"
+    },
+    {
+      "id": "c6_2",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        32
+      ],
+      "text": "33,4"
+    },
+    {
+      "id": "c6_3",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c6_4",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "c6_5",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        33
+      ],
+      "text": "130"
+    },
+    {
+      "id": "c7_0",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        34,
+        35
+      ],
+      "text": "ПОСК 50-18"
+    },
+    {
+      "id": "c7_1",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        36
+      ],
+      "text": "—"
+    },
+    {
+      "id": "c7_2",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        38
+      ],
+      "text": "oe"
+    },
+    {
+      "id": "c7_3",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        39
+      ],
+      "text": "49,8"
+    },
+    {
+      "id": "c7_4",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        40
+      ],
+      "text": "УНИИ"
+    },
+    {
+      "id": "c7_5",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        41
+      ],
+      "text": "МАНИ,"
+    }
+  ]
+}

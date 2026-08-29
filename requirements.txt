@@ -1,0 +1,9 @@
+pytesseract>=0.3.13,<0.4
+Pillow>=10,<13
+numpy>=1.26,<3
+pandas>=2,<4
+matplotlib>=3.8,<4
+opencv-python-headless>=4.10,<5
+scikit-learn>=1.5,<2
+joblib>=1.4,<2
+sentence-transformers>=3,<6

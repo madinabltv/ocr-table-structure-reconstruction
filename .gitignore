@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Virtual environments and local configuration
+.venv/
+venv/
+.env
+.env.*
+
+# Editors and operating systems
+.DS_Store
+__MACOSX/
+.idea/
+.vscode/
+
+# Downloaded and generated data
+data/raw/
+data/processed/
+outputs/
+figures/
+
+# Trained models and caches
+*.joblib
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.onnx
+.cache/
+
+# Archives and temporary files
+*.zip
+*.tar
+*.tar.gz
+*.tmp
+*.log

@@ -1,0 +1,782 @@
+{
+  "schema_version": "0.1",
+  "created_at": "2026-08-22T14:05:44.277114+00:00",
+  "source_image": "table_2.png",
+  "image_size": {
+    "width": 1696,
+    "height": 574
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 6
+  },
+  "fragment_count": 45,
+  "fragments": [
+    {
+      "id": 0,
+      "text": "Наивысшая",
+      "bbox": [
+        853,
+        35,
+        1037,
+        59
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "позиция",
+      "bbox": [
+        866,
+        92,
+        996,
+        114
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 2,
+      "text": "в",
+      "bbox": [
+        1008,
+        93,
+        1024,
+        110
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 3,
+      "text": "Название",
+      "bbox": [
+        265,
+        116,
+        413,
+        140
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 4,
+      "text": "Год",
+      "bbox": [
+        719,
+        116,
+        775,
+        143
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 5,
+      "text": "Альбом",
+      "bbox": [
+        1316,
+        115,
+        1438,
+        140
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 3
+      }
+    },
+    {
+      "id": 6,
+      "text": "чартах",
+      "bbox": [
+        892,
+        144,
+        998,
+        169
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 7,
+      "text": "US",
+      "bbox": [
+        871,
+        202,
+        908,
+        225
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 1
+      }
+    },
+    {
+      "id": 8,
+      "text": "UK",
+      "bbox": [
+        996,
+        203,
+        1036,
+        225
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 2
+      }
+    },
+    {
+      "id": 9,
+      "text": "Watch",
+      "bbox": [
+        265,
+        265,
+        357,
+        289
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 1
+      }
+    },
+    {
+      "id": 10,
+      "text": "Me",
+      "bbox": [
+        370,
+        265,
+        412,
+        289
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 2
+      }
+    },
+    {
+      "id": 11,
+      "text": "2011",
+      "bbox": [
+        712,
+        291,
+        774,
+        315
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 1
+      }
+    },
+    {
+      "id": 12,
+      "text": "86",
+      "bbox": [
+        872,
+        291,
+        906,
+        315
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 2
+      }
+    },
+    {
+      "id": 13,
+      "text": "=",
+      "bbox": [
+        1003,
+        304,
+        1027,
+        306
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 3
+      }
+    },
+    {
+      "id": 14,
+      "text": "Shake",
+      "bbox": [
+        1188,
+        290,
+        1277,
+        315
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 4
+      }
+    },
+    {
+      "id": 15,
+      "text": "It",
+      "bbox": [
+        1288,
+        291,
+        1305,
+        314
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 5
+      }
+    },
+    {
+      "id": 16,
+      "text": "Up:",
+      "bbox": [
+        1315,
+        291,
+        1362,
+        321
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 6
+      }
+    },
+    {
+      "id": 17,
+      "text": "Break",
+      "bbox": [
+        1372,
+        291,
+        1456,
+        314
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 7
+      }
+    },
+    {
+      "id": 18,
+      "text": "It",
+      "bbox": [
+        1466,
+        291,
+        1483,
+        314
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 8
+      }
+    },
+    {
+      "id": 19,
+      "text": "Down",
+      "bbox": [
+        1491,
+        291,
+        1571,
+        315
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 9
+      }
+    },
+    {
+      "id": 20,
+      "text": "(совместно",
+      "bbox": [
+        154,
+        320,
+        306,
+        346
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 1
+      }
+    },
+    {
+      "id": 21,
+      "text": "с",
+      "bbox": [
+        315,
+        325,
+        329,
+        340
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 2
+      }
+    },
+    {
+      "id": 22,
+      "text": "Беллой",
+      "bbox": [
+        340,
+        319,
+        439,
+        340
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 3
+      }
+    },
+    {
+      "id": 23,
+      "text": "Торн)",
+      "bbox": [
+        448,
+        320,
+        523,
+        346
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 4
+      }
+    },
+    {
+      "id": 24,
+      "text": "Something",
+      "bbox": [
+        152,
+        383,
+        314,
+        414
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 1
+      }
+    },
+    {
+      "id": 25,
+      "text": "То",
+      "bbox": [
+        325,
+        384,
+        361,
+        408
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 2
+      }
+    },
+    {
+      "id": 26,
+      "text": "Dance",
+      "bbox": [
+        372,
+        384,
+        466,
+        408
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 3
+      }
+    },
+    {
+      "id": 27,
+      "text": "For",
+      "bbox": [
+        477,
+        384,
+        526,
+        408
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 4
+      }
+    },
+    {
+      "id": 28,
+      "text": "2012",
+      "bbox": [
+        711,
+        384,
+        780,
+        408
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 5
+      }
+    },
+    {
+      "id": 29,
+      "text": "124",
+      "bbox": [
+        865,
+        384,
+        915,
+        407
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 6
+      }
+    },
+    {
+      "id": 30,
+      "text": "186",
+      "bbox": [
+        991,
+        384,
+        1041,
+        408
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 7
+      }
+    },
+    {
+      "id": 31,
+      "text": "Shake",
+      "bbox": [
+        1195,
+        383,
+        1284,
+        408
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 8
+      }
+    },
+    {
+      "id": 32,
+      "text": "It",
+      "bbox": [
+        1295,
+        384,
+        1312,
+        407
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 9
+      }
+    },
+    {
+      "id": 33,
+      "text": "Up:",
+      "bbox": [
+        1323,
+        384,
+        1369,
+        414
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 10
+      }
+    },
+    {
+      "id": 34,
+      "text": "Live",
+      "bbox": [
+        1379,
+        384,
+        1437,
+        408
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 11
+      }
+    },
+    {
+      "id": 35,
+      "text": "2",
+      "bbox": [
+        1445,
+        384,
+        1465,
+        407
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 12
+      }
+    },
+    {
+      "id": 36,
+      "text": "Dance",
+      "bbox": [
+        1473,
+        384,
+        1565,
+        408
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 9,
+        "word": 13
+      }
+    },
+    {
+      "id": 37,
+      "text": "Replay",
+      "bbox": [
+        288,
+        450,
+        390,
+        480
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 1
+      }
+    },
+    {
+      "id": 38,
+      "text": "2013",
+      "bbox": [
+        711,
+        450,
+        780,
+        474
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 2
+      }
+    },
+    {
+      "id": 39,
+      "text": "154",
+      "bbox": [
+        865,
+        450,
+        915,
+        474
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 3
+      }
+    },
+    {
+      "id": 40,
+      "text": "=",
+      "bbox": [
+        1003,
+        463,
+        1027,
+        465
+      ],
+      "confidence": 0.65,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 4
+      }
+    },
+    {
+      "id": 41,
+      "text": "Zendaya",
+      "bbox": [
+        1316,
+        450,
+        1441,
+        480
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 10,
+        "word": 5
+      }
+    },
+    {
+      "id": 42,
+      "text": "My",
+      "bbox": [
+        275,
+        517,
+        317,
+        547
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 1
+      }
+    },
+    {
+      "id": 43,
+      "text": "Baby",
+      "bbox": [
+        328,
+        517,
+        404,
+        547
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 2
+      }
+    },
+    {
+      "id": 44,
+      "text": "Zendaya",
+      "bbox": [
+        1314,
+        517,
+        1442,
+        547
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 11,
+        "word": 3
+      }
+    }
+  ]
+}

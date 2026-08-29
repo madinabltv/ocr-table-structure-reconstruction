@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_07_heat_treatment",
+  "description": "Reviewed logical cell annotations for independent evaluation",
+  "annotation_method": "manual grid transcription from OCR preview and source image",
+  "source_ocr": "table_07_heat_treatment.png",
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "h00",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        1,
+        2
+      ],
+      "text": "Марка стали"
+    },
+    {
+      "id": "h01",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h03",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        0
+      ],
+      "text": "__"
+    },
+    {
+      "id": "h11",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h12",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "h13",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        3,
+        4,
+        5
+      ],
+      "text": "—— aoe ="
+    },
+    {
+      "id": "c2_0",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        6
+      ],
+      "text": "25"
+    },
+    {
+      "id": "c2_1",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        7
+      ],
+      "text": "860—900"
+    },
+    {
+      "id": "c3_0",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        9
+      ],
+      "text": "30"
+    },
+    {
+      "id": "c3_1",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        10
+      ],
+      "text": "850—890"
+    },
+    {
+      "id": "c4_0",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        11
+      ],
+      "text": "35"
+    },
+    {
+      "id": "c4_1",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        12
+      ],
+      "text": "840—880"
+    },
+    {
+      "id": "c5_0",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        17
+      ],
+      "text": "40"
+    },
+    {
+      "id": "c5_1",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        18
+      ],
+      "text": "830—870"
+    },
+    {
+      "id": "c6_0",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        22
+      ],
+      "text": "45"
+    },
+    {
+      "id": "c6_1",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        23
+      ],
+      "text": "820—860"
+    },
+    {
+      "id": "c7_0",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        24
+      ],
+      "text": "50"
+    },
+    {
+      "id": "c7_1",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        25
+      ],
+      "text": "810—850"
+    },
+    {
+      "id": "c8_0",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        29
+      ],
+      "text": "55"
+    },
+    {
+      "id": "c8_1",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        30
+      ],
+      "text": "805—850"
+    },
+    {
+      "id": "c9_0",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        31
+      ],
+      "text": "60"
+    },
+    {
+      "id": "c9_1",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        32
+      ],
+      "text": "800—840"
+    },
+    {
+      "id": "c2_2",
+      "row_start": 2,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        8
+      ],
+      "text": "Вода"
+    },
+    {
+      "id": "c4_2",
+      "row_start": 4,
+      "row_end": 6,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        13,
+        14,
+        15
+      ],
+      "text": "Вода или масло"
+    },
+    {
+      "id": "c7_2",
+      "row_start": 7,
+      "row_end": 9,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        26,
+        27,
+        28
+      ],
+      "text": "Масло или вода"
+    },
+    {
+      "id": "c2_3",
+      "row_start": 2,
+      "row_end": 9,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        16,
+        19,
+        20,
+        21
+      ],
+      "text": "550—600 Охлаждение на воздухе"
+    }
+  ]
+}

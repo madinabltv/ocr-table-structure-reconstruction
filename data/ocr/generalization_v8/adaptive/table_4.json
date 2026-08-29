@@ -1,0 +1,3859 @@
+{
+  "schema_version": "0.2",
+  "created_at": "2026-08-22T14:29:55.277617+00:00",
+  "source_image": "table_4.png",
+  "image_size": {
+    "width": 2074,
+    "height": 1190
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 3,
+    "selection": "adaptive_psm"
+  },
+  "adaptive_ocr": {
+    "selected_psm": 3,
+    "psm_candidates": [
+      3,
+      6
+    ],
+    "preferred_psm_on_tie": 6,
+    "tie_margin": 0.03,
+    "candidate_diagnostics": {
+      "3": {
+        "score": 1854.2269,
+        "fragment_count": 224,
+        "character_count": 1758,
+        "confidence_weighted_characters": 1673.49,
+        "high_confidence_characters": 1758,
+        "mean_character_confidence": 0.9519,
+        "low_confidence_fragments": 0,
+        "low_confidence_ratio": 0.0,
+        "spatial_coverage": 0.86
+      },
+      "6": {
+        "score": 894.998,
+        "fragment_count": 116,
+        "character_count": 934,
+        "confidence_weighted_characters": 889.66,
+        "high_confidence_characters": 934,
+        "mean_character_confidence": 0.9525,
+        "low_confidence_fragments": 0,
+        "low_confidence_ratio": 0.0,
+        "spatial_coverage": 0.52
+      }
+    }
+  },
+  "fragment_count": 224,
+  "fragments": [
+    {
+      "id": 0,
+      "text": "Код",
+      "bbox": [
+        100,
+        15,
+        154,
+        42
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "Проверяемые",
+      "bbox": [
+        276,
+        16,
+        482,
+        45
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 2,
+      "text": "требования",
+      "bbox": [
+        491,
+        15,
+        663,
+        45
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 3,
+      "text": "к",
+      "bbox": [
+        673,
+        22,
+        691,
+        38
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 4,
+      "text": "метапредметным",
+      "bbox": [
+        701,
+        22,
+        958,
+        45
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 5,
+      "text": "результатам",
+      "bbox": [
+        970,
+        22,
+        1154,
+        45
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 6,
+      "text": "освоения",
+      "bbox": [
+        1165,
+        22,
+        1300,
+        39
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 7,
+      "text": "основной",
+      "bbox": [
+        1310,
+        16,
+        1448,
+        39
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 8,
+      "text": "образовательной",
+      "bbox": [
+        1458,
+        15,
+        1710,
+        45
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 9
+      }
+    },
+    {
+      "id": 9,
+      "text": "программы",
+      "bbox": [
+        1722,
+        22,
+        1894,
+        45
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 10
+      }
+    },
+    {
+      "id": 10,
+      "text": "среднего",
+      "bbox": [
+        1904,
+        22,
+        2033,
+        45
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 1,
+        "word": 11
+      }
+    },
+    {
+      "id": 11,
+      "text": "проверяемого",
+      "bbox": [
+        25,
+        60,
+        231,
+        83
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 12,
+      "text": "общего",
+      "bbox": [
+        1003,
+        53,
+        1109,
+        80
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 13,
+      "text": "образования",
+      "bbox": [
+        1119,
+        53,
+        1305,
+        83
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 2,
+        "word": 3
+      }
+    },
+    {
+      "id": 14,
+      "text": "требования",
+      "bbox": [
+        41,
+        91,
+        213,
+        123
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 15,
+      "text": "1.2.7",
+      "bbox": [
+        98,
+        130,
+        160,
+        154
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 16,
+      "text": "Способность",
+      "bbox": [
+        263,
+        130,
+        444,
+        154
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 2
+      }
+    },
+    {
+      "id": 17,
+      "text": "и",
+      "bbox": [
+        464,
+        138,
+        480,
+        153
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 3
+      }
+    },
+    {
+      "id": 18,
+      "text": "готовность",
+      "bbox": [
+        501,
+        137,
+        654,
+        154
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 4
+      }
+    },
+    {
+      "id": 19,
+      "text": "к",
+      "bbox": [
+        675,
+        138,
+        690,
+        153
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 5
+      }
+    },
+    {
+      "id": 20,
+      "text": "самостоятельному",
+      "bbox": [
+        709,
+        137,
+        969,
+        160
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 6
+      }
+    },
+    {
+      "id": 21,
+      "text": "поиску",
+      "bbox": [
+        989,
+        137,
+        1086,
+        160
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 7
+      }
+    },
+    {
+      "id": 22,
+      "text": "методов",
+      "bbox": [
+        1107,
+        137,
+        1221,
+        157
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 8
+      }
+    },
+    {
+      "id": 23,
+      "text": "решения",
+      "bbox": [
+        1241,
+        137,
+        1362,
+        160
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 9
+      }
+    },
+    {
+      "id": 24,
+      "text": "практических",
+      "bbox": [
+        1382,
+        137,
+        1575,
+        160
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 10
+      }
+    },
+    {
+      "id": 25,
+      "text": "задач,",
+      "bbox": [
+        1594,
+        137,
+        1676,
+        159
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 11
+      }
+    },
+    {
+      "id": 26,
+      "text": "применению",
+      "bbox": [
+        1697,
+        137,
+        1875,
+        160
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 12
+      }
+    },
+    {
+      "id": 27,
+      "text": "различных",
+      "bbox": [
+        1896,
+        137,
+        2047,
+        160
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 4,
+        "word": 13
+      }
+    },
+    {
+      "id": 28,
+      "text": "методов",
+      "bbox": [
+        263,
+        175,
+        377,
+        195
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 5,
+        "word": 1
+      }
+    },
+    {
+      "id": 29,
+      "text": "познания;",
+      "bbox": [
+        387,
+        175,
+        524,
+        197
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 5,
+        "word": 2
+      }
+    },
+    {
+      "id": 30,
+      "text": "ставить",
+      "bbox": [
+        263,
+        213,
+        367,
+        230
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 1
+      }
+    },
+    {
+      "id": 31,
+      "text": "и",
+      "bbox": [
+        378,
+        214,
+        394,
+        229
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 2
+      }
+    },
+    {
+      "id": 32,
+      "text": "формулировать",
+      "bbox": [
+        404,
+        206,
+        621,
+        236
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 3
+      }
+    },
+    {
+      "id": 33,
+      "text": "собственные",
+      "bbox": [
+        632,
+        206,
+        810,
+        230
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 4
+      }
+    },
+    {
+      "id": 34,
+      "text": "задачи",
+      "bbox": [
+        820,
+        213,
+        912,
+        233
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 5
+      }
+    },
+    {
+      "id": 35,
+      "text": "в",
+      "bbox": [
+        922,
+        214,
+        936,
+        229
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 6
+      }
+    },
+    {
+      "id": 36,
+      "text": "образовательной",
+      "bbox": [
+        946,
+        206,
+        1182,
+        236
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 7
+      }
+    },
+    {
+      "id": 37,
+      "text": "деятельности",
+      "bbox": [
+        1191,
+        213,
+        1380,
+        233
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 8
+      }
+    },
+    {
+      "id": 38,
+      "text": "и",
+      "bbox": [
+        1390,
+        214,
+        1406,
+        229
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 9
+      }
+    },
+    {
+      "id": 39,
+      "text": "жизненных",
+      "bbox": [
+        1415,
+        213,
+        1576,
+        230
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 10
+      }
+    },
+    {
+      "id": 40,
+      "text": "ситуациях;",
+      "bbox": [
+        1584,
+        213,
+        1737,
+        236
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 6,
+        "word": 11
+      }
+    },
+    {
+      "id": 41,
+      "text": "ставить",
+      "bbox": [
+        263,
+        251,
+        368,
+        268
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 7,
+        "word": 1
+      }
+    },
+    {
+      "id": 42,
+      "text": "проблемы",
+      "bbox": [
+        378,
+        244,
+        518,
+        274
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 7,
+        "word": 2
+      }
+    },
+    {
+      "id": 43,
+      "text": "и",
+      "bbox": [
+        519,
+        240,
+        536,
+        280
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 7,
+        "word": 3
+      }
+    },
+    {
+      "id": 44,
+      "text": "задачи,",
+      "bbox": [
+        555,
+        251,
+        655,
+        273
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 7,
+        "word": 4
+      }
+    },
+    {
+      "id": 45,
+      "text": "допускающие",
+      "bbox": [
+        664,
+        251,
+        859,
+        274
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 7,
+        "word": 5
+      }
+    },
+    {
+      "id": 46,
+      "text": "альтернативные",
+      "bbox": [
+        869,
+        251,
+        1095,
+        274
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 7,
+        "word": 6
+      }
+    },
+    {
+      "id": 47,
+      "text": "решения;",
+      "bbox": [
+        1105,
+        251,
+        1234,
+        274
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 7,
+        "word": 7
+      }
+    },
+    {
+      "id": 48,
+      "text": "выдвигать",
+      "bbox": [
+        263,
+        290,
+        407,
+        310
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 8,
+        "word": 1
+      }
+    },
+    {
+      "id": 49,
+      "text": "новые",
+      "bbox": [
+        417,
+        290,
+        502,
+        307
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 8,
+        "word": 2
+      }
+    },
+    {
+      "id": 50,
+      "text": "идеи,",
+      "bbox": [
+        512,
+        290,
+        585,
+        312
+      ],
+      "confidence": 0.85,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 8,
+        "word": 3
+      }
+    },
+    {
+      "id": 51,
+      "text": "предлагать",
+      "bbox": [
+        596,
+        290,
+        749,
+        313
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 8,
+        "word": 4
+      }
+    },
+    {
+      "id": 52,
+      "text": "оригинальные",
+      "bbox": [
+        759,
+        290,
+        959,
+        313
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 8,
+        "word": 5
+      }
+    },
+    {
+      "id": 53,
+      "text": "подходы",
+      "bbox": [
+        969,
+        290,
+        1090,
+        310
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 8,
+        "word": 6
+      }
+    },
+    {
+      "id": 54,
+      "text": "и",
+      "bbox": [
+        1100,
+        291,
+        1116,
+        306
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 8,
+        "word": 7
+      }
+    },
+    {
+      "id": 55,
+      "text": "решения;",
+      "bbox": [
+        1126,
+        290,
+        1255,
+        313
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 8,
+        "word": 8
+      }
+    },
+    {
+      "id": 56,
+      "text": "разрабатывать",
+      "bbox": [
+        263,
+        321,
+        465,
+        353
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 1
+      }
+    },
+    {
+      "id": 57,
+      "text": "план",
+      "bbox": [
+        475,
+        328,
+        540,
+        345
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 2
+      }
+    },
+    {
+      "id": 58,
+      "text": "решения",
+      "bbox": [
+        550,
+        328,
+        671,
+        353
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 3
+      }
+    },
+    {
+      "id": 59,
+      "text": "проблемы",
+      "bbox": [
+        681,
+        321,
+        821,
+        353
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 4
+      }
+    },
+    {
+      "id": 60,
+      "text": "с",
+      "bbox": [
+        831,
+        328,
+        844,
+        345
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 5
+      }
+    },
+    {
+      "id": 61,
+      "text": "учётом",
+      "bbox": [
+        853,
+        324,
+        952,
+        353
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 6
+      }
+    },
+    {
+      "id": 62,
+      "text": "анализа",
+      "bbox": [
+        963,
+        328,
+        1071,
+        345
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 7
+      }
+    },
+    {
+      "id": 63,
+      "text": "имеющихся",
+      "bbox": [
+        1080,
+        328,
+        1247,
+        348
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 8
+      }
+    },
+    {
+      "id": 64,
+      "text": "материальных",
+      "bbox": [
+        1256,
+        328,
+        1458,
+        353
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 9
+      }
+    },
+    {
+      "id": 65,
+      "text": "и",
+      "bbox": [
+        1466,
+        329,
+        1482,
+        344
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 10
+      }
+    },
+    {
+      "id": 66,
+      "text": "нематериальных",
+      "bbox": [
+        1492,
+        328,
+        1726,
+        353
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 11
+      }
+    },
+    {
+      "id": 67,
+      "text": "ресурсов",
+      "bbox": [
+        1735,
+        328,
+        1860,
+        353
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 9,
+        "word": 12
+      }
+    },
+    {
+      "id": 68,
+      "text": "1.3",
+      "bbox": [
+        108,
+        360,
+        148,
+        384
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 10,
+        "word": 1
+      }
+    },
+    {
+      "id": 69,
+      "text": "Работа",
+      "bbox": [
+        261,
+        361,
+        374,
+        385
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 10,
+        "word": 2
+      }
+    },
+    {
+      "id": 70,
+      "text": "с",
+      "bbox": [
+        383,
+        368,
+        397,
+        385
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 10,
+        "word": 3
+      }
+    },
+    {
+      "id": 71,
+      "text": "информацией",
+      "bbox": [
+        405,
+        361,
+        607,
+        391
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 10,
+        "word": 4
+      }
+    },
+    {
+      "id": 72,
+      "text": "1.3.1",
+      "bbox": [
+        98,
+        405,
+        156,
+        429
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 1
+      }
+    },
+    {
+      "id": 73,
+      "text": "Владеть",
+      "bbox": [
+        263,
+        406,
+        375,
+        432
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 2
+      }
+    },
+    {
+      "id": 74,
+      "text": "навыками",
+      "bbox": [
+        396,
+        412,
+        534,
+        429
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 3
+      }
+    },
+    {
+      "id": 75,
+      "text": "получения",
+      "bbox": [
+        554,
+        412,
+        703,
+        435
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 4
+      }
+    },
+    {
+      "id": 76,
+      "text": "информации",
+      "bbox": [
+        722,
+        405,
+        900,
+        435
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 5
+      }
+    },
+    {
+      "id": 77,
+      "text": "из",
+      "bbox": [
+        920,
+        412,
+        949,
+        429
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 6
+      }
+    },
+    {
+      "id": 78,
+      "text": "источников",
+      "bbox": [
+        969,
+        412,
+        1132,
+        429
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 7
+      }
+    },
+    {
+      "id": 79,
+      "text": "разных",
+      "bbox": [
+        1152,
+        412,
+        1252,
+        435
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 8
+      }
+    },
+    {
+      "id": 80,
+      "text": "типов,",
+      "bbox": [
+        1270,
+        412,
+        1359,
+        434
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 9
+      }
+    },
+    {
+      "id": 81,
+      "text": "самостоятельно",
+      "bbox": [
+        1380,
+        412,
+        1602,
+        429
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 10
+      }
+    },
+    {
+      "id": 82,
+      "text": "осуществлять",
+      "bbox": [
+        1622,
+        412,
+        1815,
+        435
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 11
+      }
+    },
+    {
+      "id": 83,
+      "text": "поиск,",
+      "bbox": [
+        1836,
+        412,
+        1925,
+        434
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 12
+      }
+    },
+    {
+      "id": 84,
+      "text": "анализ,",
+      "bbox": [
+        1945,
+        412,
+        2046,
+        434
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 11,
+        "word": 13
+      }
+    },
+    {
+      "id": 85,
+      "text": "систематизацию",
+      "bbox": [
+        263,
+        450,
+        493,
+        470
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 12,
+        "word": 1
+      }
+    },
+    {
+      "id": 86,
+      "text": "и",
+      "bbox": [
+        503,
+        451,
+        519,
+        466
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 12,
+        "word": 2
+      }
+    },
+    {
+      "id": 87,
+      "text": "интерпретацию",
+      "bbox": [
+        529,
+        450,
+        747,
+        473
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 12,
+        "word": 3
+      }
+    },
+    {
+      "id": 88,
+      "text": "информации",
+      "bbox": [
+        757,
+        443,
+        934,
+        473
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 12,
+        "word": 4
+      }
+    },
+    {
+      "id": 89,
+      "text": "различных",
+      "bbox": [
+        945,
+        450,
+        1096,
+        473
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 12,
+        "word": 5
+      }
+    },
+    {
+      "id": 90,
+      "text": "видов",
+      "bbox": [
+        1105,
+        450,
+        1186,
+        470
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 12,
+        "word": 6
+      }
+    },
+    {
+      "id": 91,
+      "text": "и",
+      "bbox": [
+        1195,
+        451,
+        1211,
+        466
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 12,
+        "word": 7
+      }
+    },
+    {
+      "id": 92,
+      "text": "форм",
+      "bbox": [
+        1222,
+        443,
+        1295,
+        473
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 12,
+        "word": 8
+      }
+    },
+    {
+      "id": 93,
+      "text": "представления",
+      "bbox": [
+        1305,
+        450,
+        1512,
+        473
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 12,
+        "word": 9
+      }
+    },
+    {
+      "id": 94,
+      "text": "1.3.2",
+      "bbox": [
+        98,
+        483,
+        159,
+        507
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 1
+      }
+    },
+    {
+      "id": 95,
+      "text": "Создавать",
+      "bbox": [
+        263,
+        483,
+        404,
+        510
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 2
+      }
+    },
+    {
+      "id": 96,
+      "text": "тексты",
+      "bbox": [
+        419,
+        490,
+        515,
+        507
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 3
+      }
+    },
+    {
+      "id": 97,
+      "text": "в",
+      "bbox": [
+        532,
+        491,
+        546,
+        506
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 4
+      }
+    },
+    {
+      "id": 98,
+      "text": "различных",
+      "bbox": [
+        562,
+        490,
+        713,
+        513
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 5
+      }
+    },
+    {
+      "id": 99,
+      "text": "форматах",
+      "bbox": [
+        728,
+        483,
+        864,
+        513
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 6
+      }
+    },
+    {
+      "id": 100,
+      "text": "с",
+      "bbox": [
+        879,
+        490,
+        892,
+        507
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 7
+      }
+    },
+    {
+      "id": 101,
+      "text": "учётом",
+      "bbox": [
+        906,
+        486,
+        1006,
+        513
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 8
+      }
+    },
+    {
+      "id": 102,
+      "text": "назначения",
+      "bbox": [
+        1022,
+        490,
+        1181,
+        507
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 9
+      }
+    },
+    {
+      "id": 103,
+      "text": "информации",
+      "bbox": [
+        1196,
+        483,
+        1373,
+        513
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 10
+      }
+    },
+    {
+      "id": 104,
+      "text": "и",
+      "bbox": [
+        1390,
+        491,
+        1406,
+        506
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 11
+      }
+    },
+    {
+      "id": 105,
+      "text": "целевой",
+      "bbox": [
+        1422,
+        484,
+        1533,
+        510
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 12
+      }
+    },
+    {
+      "id": 106,
+      "text": "аудитории,",
+      "bbox": [
+        1550,
+        490,
+        1705,
+        513
+      ],
+      "confidence": 0.87,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 13
+      }
+    },
+    {
+      "id": 107,
+      "text": "выбирая",
+      "bbox": [
+        1721,
+        483,
+        1839,
+        513
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 14
+      }
+    },
+    {
+      "id": 108,
+      "text": "оптимальную",
+      "bbox": [
+        1855,
+        490,
+        2046,
+        513
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 13,
+        "word": 15
+      }
+    },
+    {
+      "id": 109,
+      "text": "форму",
+      "bbox": [
+        263,
+        521,
+        353,
+        553
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 14,
+        "word": 1
+      }
+    },
+    {
+      "id": 110,
+      "text": "представления",
+      "bbox": [
+        363,
+        528,
+        569,
+        553
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 14,
+        "word": 2
+      }
+    },
+    {
+      "id": 111,
+      "text": "и",
+      "bbox": [
+        579,
+        529,
+        595,
+        544
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 14,
+        "word": 3
+      }
+    },
+    {
+      "id": 112,
+      "text": "визуализации",
+      "bbox": [
+        605,
+        528,
+        796,
+        553
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 14,
+        "word": 4
+      }
+    },
+    {
+      "id": 113,
+      "text": "1.3.3",
+      "bbox": [
+        98,
+        561,
+        158,
+        585
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 1
+      }
+    },
+    {
+      "id": 114,
+      "text": "Оценивать",
+      "bbox": [
+        263,
+        561,
+        412,
+        588
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 2
+      }
+    },
+    {
+      "id": 115,
+      "text": "достоверность,",
+      "bbox": [
+        422,
+        568,
+        634,
+        593
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 3
+      }
+    },
+    {
+      "id": 116,
+      "text": "легитимность",
+      "bbox": [
+        643,
+        568,
+        836,
+        585
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 4
+      }
+    },
+    {
+      "id": 117,
+      "text": "информации,",
+      "bbox": [
+        847,
+        561,
+        1032,
+        593
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 5
+      }
+    },
+    {
+      "id": 118,
+      "text": "её",
+      "bbox": [
+        1042,
+        564,
+        1070,
+        585
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 6
+      }
+    },
+    {
+      "id": 119,
+      "text": "соответствие",
+      "bbox": [
+        1080,
+        568,
+        1263,
+        585
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 7
+      }
+    },
+    {
+      "id": 120,
+      "text": "правовым",
+      "bbox": [
+        1273,
+        568,
+        1411,
+        593
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 8
+      }
+    },
+    {
+      "id": 121,
+      "text": "и",
+      "bbox": [
+        1421,
+        569,
+        1437,
+        584
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 9
+      }
+    },
+    {
+      "id": 122,
+      "text": "морально-этическим",
+      "bbox": [
+        1447,
+        568,
+        1738,
+        593
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 10
+      }
+    },
+    {
+      "id": 123,
+      "text": "нормам",
+      "bbox": [
+        1749,
+        568,
+        1854,
+        593
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 15,
+        "word": 11
+      }
+    },
+    {
+      "id": 124,
+      "text": "1.3.4",
+      "bbox": [
+        98,
+        600,
+        159,
+        624
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 1
+      }
+    },
+    {
+      "id": 125,
+      "text": "Использовать",
+      "bbox": [
+        263,
+        601,
+        455,
+        624
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 2
+      }
+    },
+    {
+      "id": 126,
+      "text": "средства",
+      "bbox": [
+        474,
+        607,
+        596,
+        630
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 3
+      }
+    },
+    {
+      "id": 127,
+      "text": "информационных",
+      "bbox": [
+        614,
+        600,
+        865,
+        630
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 4
+      }
+    },
+    {
+      "id": 128,
+      "text": "и",
+      "bbox": [
+        883,
+        608,
+        899,
+        623
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 5
+      }
+    },
+    {
+      "id": 129,
+      "text": "коммуникационных",
+      "bbox": [
+        918,
+        607,
+        1202,
+        630
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 6
+      }
+    },
+    {
+      "id": 130,
+      "text": "технологий",
+      "bbox": [
+        1218,
+        601,
+        1380,
+        624
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 7
+      }
+    },
+    {
+      "id": 131,
+      "text": "в",
+      "bbox": [
+        1399,
+        608,
+        1413,
+        623
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 8
+      }
+    },
+    {
+      "id": 132,
+      "text": "решении",
+      "bbox": [
+        1432,
+        607,
+        1555,
+        630
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 9
+      }
+    },
+    {
+      "id": 133,
+      "text": "когнитивных,",
+      "bbox": [
+        1574,
+        607,
+        1766,
+        629
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 10
+      }
+    },
+    {
+      "id": 134,
+      "text": "коммуникативных",
+      "bbox": [
+        1785,
+        607,
+        2047,
+        630
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 16,
+        "word": 11
+      }
+    },
+    {
+      "id": 135,
+      "text": "и",
+      "bbox": [
+        263,
+        646,
+        279,
+        661
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 1
+      }
+    },
+    {
+      "id": 136,
+      "text": "организационных",
+      "bbox": [
+        297,
+        645,
+        548,
+        668
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 2
+      }
+    },
+    {
+      "id": 137,
+      "text": "задач",
+      "bbox": [
+        566,
+        645,
+        640,
+        665
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 3
+      }
+    },
+    {
+      "id": 138,
+      "text": "с",
+      "bbox": [
+        659,
+        645,
+        672,
+        662
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 4
+      }
+    },
+    {
+      "id": 139,
+      "text": "соблюдением",
+      "bbox": [
+        691,
+        638,
+        881,
+        665
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 5
+      }
+    },
+    {
+      "id": 140,
+      "text": "требований",
+      "bbox": [
+        899,
+        638,
+        1061,
+        668
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 6
+      }
+    },
+    {
+      "id": 141,
+      "text": "эргономики,",
+      "bbox": [
+        1079,
+        645,
+        1254,
+        668
+      ],
+      "confidence": 0.87,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 7
+      }
+    },
+    {
+      "id": 142,
+      "text": "техники",
+      "bbox": [
+        1272,
+        645,
+        1387,
+        662
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 8
+      }
+    },
+    {
+      "id": 143,
+      "text": "безопасности,",
+      "bbox": [
+        1405,
+        638,
+        1601,
+        667
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 9
+      }
+    },
+    {
+      "id": 144,
+      "text": "гигиены,",
+      "bbox": [
+        1620,
+        645,
+        1744,
+        667
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 10
+      }
+    },
+    {
+      "id": 145,
+      "text": "ресурсосбережения,",
+      "bbox": [
+        1763,
+        638,
+        2046,
+        668
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 17,
+        "word": 11
+      }
+    },
+    {
+      "id": 146,
+      "text": "правовых",
+      "bbox": [
+        263,
+        683,
+        398,
+        706
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 18,
+        "word": 1
+      }
+    },
+    {
+      "id": 147,
+      "text": "и",
+      "bbox": [
+        407,
+        684,
+        423,
+        699
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 18,
+        "word": 2
+      }
+    },
+    {
+      "id": 148,
+      "text": "этических",
+      "bbox": [
+        432,
+        683,
+        575,
+        700
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 18,
+        "word": 3
+      }
+    },
+    {
+      "id": 149,
+      "text": "норм,",
+      "bbox": [
+        584,
+        683,
+        662,
+        706
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 18,
+        "word": 4
+      }
+    },
+    {
+      "id": 150,
+      "text": "норм",
+      "bbox": [
+        672,
+        683,
+        742,
+        706
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 18,
+        "word": 5
+      }
+    },
+    {
+      "id": 151,
+      "text": "информационной",
+      "bbox": [
+        753,
+        676,
+        998,
+        706
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 18,
+        "word": 6
+      }
+    },
+    {
+      "id": 152,
+      "text": "безопасности",
+      "bbox": [
+        1008,
+        676,
+        1196,
+        700
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 18,
+        "word": 7
+      }
+    },
+    {
+      "id": 153,
+      "text": "1.3.5",
+      "bbox": [
+        98,
+        716,
+        159,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 1
+      }
+    },
+    {
+      "id": 154,
+      "text": "Владеть",
+      "bbox": [
+        263,
+        717,
+        375,
+        743
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 2
+      }
+    },
+    {
+      "id": 155,
+      "text": "навыками",
+      "bbox": [
+        386,
+        723,
+        524,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 3
+      }
+    },
+    {
+      "id": 156,
+      "text": "распознавания",
+      "bbox": [
+        534,
+        723,
+        740,
+        748
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 4
+      }
+    },
+    {
+      "id": 157,
+      "text": "и",
+      "bbox": [
+        749,
+        724,
+        765,
+        739
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 5
+      }
+    },
+    {
+      "id": 158,
+      "text": "защиты",
+      "bbox": [
+        775,
+        723,
+        881,
+        743
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 6
+      }
+    },
+    {
+      "id": 159,
+      "text": "информации,",
+      "bbox": [
+        891,
+        716,
+        1076,
+        748
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 7
+      }
+    },
+    {
+      "id": 160,
+      "text": "информационной",
+      "bbox": [
+        1087,
+        716,
+        1333,
+        748
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 8
+      }
+    },
+    {
+      "id": 161,
+      "text": "безопасности",
+      "bbox": [
+        1343,
+        716,
+        1531,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 9
+      }
+    },
+    {
+      "id": 162,
+      "text": "личности",
+      "bbox": [
+        1540,
+        723,
+        1671,
+        740
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 19,
+        "word": 10
+      }
+    },
+    {
+      "id": 163,
+      "text": "2",
+      "bbox": [
+        119,
+        756,
+        134,
+        779
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 20,
+        "word": 1
+      }
+    },
+    {
+      "id": 164,
+      "text": "Коммуникативные",
+      "bbox": [
+        263,
+        756,
+        550,
+        788
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 20,
+        "word": 2
+      }
+    },
+    {
+      "id": 165,
+      "text": "УУД",
+      "bbox": [
+        560,
+        757,
+        631,
+        785
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 20,
+        "word": 3
+      }
+    },
+    {
+      "id": 166,
+      "text": "2.1",
+      "bbox": [
+        107,
+        795,
+        147,
+        819
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 21,
+        "word": 1
+      }
+    },
+    {
+      "id": 167,
+      "text": "Общение",
+      "bbox": [
+        263,
+        795,
+        396,
+        824
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 21,
+        "word": 2
+      }
+    },
+    {
+      "id": 168,
+      "text": "2.1.1",
+      "bbox": [
+        94,
+        834,
+        156,
+        858
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 22,
+        "word": 1
+      }
+    },
+    {
+      "id": 169,
+      "text": "Осуществлять",
+      "bbox": [
+        263,
+        834,
+        462,
+        864
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 22,
+        "word": 2
+      }
+    },
+    {
+      "id": 170,
+      "text": "коммуникации",
+      "bbox": [
+        473,
+        841,
+        682,
+        864
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 22,
+        "word": 3
+      }
+    },
+    {
+      "id": 171,
+      "text": "во",
+      "bbox": [
+        692,
+        841,
+        722,
+        858
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 22,
+        "word": 4
+      }
+    },
+    {
+      "id": 172,
+      "text": "всех",
+      "bbox": [
+        732,
+        841,
+        793,
+        858
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 22,
+        "word": 5
+      }
+    },
+    {
+      "id": 173,
+      "text": "сферах",
+      "bbox": [
+        802,
+        834,
+        900,
+        864
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 22,
+        "word": 6
+      }
+    },
+    {
+      "id": 174,
+      "text": "жизни;",
+      "bbox": [
+        908,
+        841,
+        1005,
+        863
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 22,
+        "word": 7
+      }
+    },
+    {
+      "id": 175,
+      "text": "владеть",
+      "bbox": [
+        263,
+        879,
+        369,
+        899
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 23,
+        "word": 1
+      }
+    },
+    {
+      "id": 176,
+      "text": "различными",
+      "bbox": [
+        379,
+        879,
+        551,
+        902
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 23,
+        "word": 2
+      }
+    },
+    {
+      "id": 177,
+      "text": "способами",
+      "bbox": [
+        561,
+        872,
+        710,
+        896
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 23,
+        "word": 3
+      }
+    },
+    {
+      "id": 178,
+      "text": "общения",
+      "bbox": [
+        720,
+        872,
+        844,
+        899
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 23,
+        "word": 4
+      }
+    },
+    {
+      "id": 179,
+      "text": "и",
+      "bbox": [
+        853,
+        880,
+        869,
+        895
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 23,
+        "word": 5
+      }
+    },
+    {
+      "id": 180,
+      "text": "взаимодействия",
+      "bbox": [
+        879,
+        873,
+        1104,
+        899
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 23,
+        "word": 6
+      }
+    },
+    {
+      "id": 181,
+      "text": "2.1.2",
+      "bbox": [
+        94,
+        912,
+        159,
+        936
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 1
+      }
+    },
+    {
+      "id": 182,
+      "text": "Развёрнуто",
+      "bbox": [
+        263,
+        913,
+        420,
+        944
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 2
+      }
+    },
+    {
+      "id": 183,
+      "text": "и",
+      "bbox": [
+        430,
+        920,
+        446,
+        935
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 3
+      }
+    },
+    {
+      "id": 184,
+      "text": "логично",
+      "bbox": [
+        455,
+        919,
+        570,
+        936
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 4
+      }
+    },
+    {
+      "id": 185,
+      "text": "излагать",
+      "bbox": [
+        579,
+        919,
+        697,
+        936
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 5
+      }
+    },
+    {
+      "id": 186,
+      "text": "свою",
+      "bbox": [
+        708,
+        919,
+        778,
+        936
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 6
+      }
+    },
+    {
+      "id": 187,
+      "text": "точку",
+      "bbox": [
+        787,
+        919,
+        866,
+        944
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 7
+      }
+    },
+    {
+      "id": 188,
+      "text": "зрения",
+      "bbox": [
+        876,
+        919,
+        970,
+        944
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 8
+      }
+    },
+    {
+      "id": 189,
+      "text": "с",
+      "bbox": [
+        980,
+        919,
+        993,
+        936
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 9
+      }
+    },
+    {
+      "id": 190,
+      "text": "использованием",
+      "bbox": [
+        1003,
+        919,
+        1230,
+        936
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 10
+      }
+    },
+    {
+      "id": 191,
+      "text": "языковых",
+      "bbox": [
+        1239,
+        919,
+        1378,
+        936
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 11
+      }
+    },
+    {
+      "id": 192,
+      "text": "средств",
+      "bbox": [
+        1386,
+        919,
+        1493,
+        944
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 24,
+        "word": 12
+      }
+    },
+    {
+      "id": 193,
+      "text": "2.1.3",
+      "bbox": [
+        94,
+        951,
+        158,
+        975
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 25,
+        "word": 1
+      }
+    },
+    {
+      "id": 194,
+      "text": "Аргументированно",
+      "bbox": [
+        262,
+        951,
+        533,
+        981
+      ],
+      "confidence": 0.84,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 25,
+        "word": 2
+      }
+    },
+    {
+      "id": 195,
+      "text": "вести",
+      "bbox": [
+        543,
+        958,
+        618,
+        975
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 25,
+        "word": 3
+      }
+    },
+    {
+      "id": 196,
+      "text": "диалог",
+      "bbox": [
+        627,
+        958,
+        724,
+        978
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 25,
+        "word": 4
+      }
+    },
+    {
+      "id": 197,
+      "text": "3",
+      "bbox": [
+        119,
+        991,
+        134,
+        1015
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 26,
+        "word": 1
+      }
+    },
+    {
+      "id": 198,
+      "text": "Регулятивные",
+      "bbox": [
+        263,
+        992,
+        477,
+        1023
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 26,
+        "word": 2
+      }
+    },
+    {
+      "id": 199,
+      "text": "УУД",
+      "bbox": [
+        487,
+        992,
+        558,
+        1020
+      ],
+      "confidence": 0.88,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 26,
+        "word": 3
+      }
+    },
+    {
+      "id": 200,
+      "text": "3.1",
+      "bbox": [
+        107,
+        1031,
+        147,
+        1055
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 27,
+        "word": 1
+      }
+    },
+    {
+      "id": 201,
+      "text": "Самоорганизация",
+      "bbox": [
+        263,
+        1031,
+        521,
+        1063
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 16,
+        "paragraph": 1,
+        "line": 27,
+        "word": 2
+      }
+    },
+    {
+      "id": 202,
+      "text": "3.1.1",
+      "bbox": [
+        95,
+        1070,
+        156,
+        1094
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 19,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 203,
+      "text": "Самостоятельно",
+      "bbox": [
+        263,
+        1070,
+        491,
+        1094
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 204,
+      "text": "осуществлять",
+      "bbox": [
+        507,
+        1077,
+        700,
+        1100
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 205,
+      "text": "познавательную",
+      "bbox": [
+        716,
+        1077,
+        945,
+        1100
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 206,
+      "text": "деятельность,",
+      "bbox": [
+        960,
+        1077,
+        1153,
+        1099
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 207,
+      "text": "выявлять",
+      "bbox": [
+        1170,
+        1078,
+        1298,
+        1094
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 208,
+      "text": "проблемы,",
+      "bbox": [
+        1315,
+        1070,
+        1463,
+        1100
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 209,
+      "text": "ставить",
+      "bbox": [
+        1480,
+        1077,
+        1584,
+        1094
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 7
+      }
+    },
+    {
+      "id": 210,
+      "text": "и",
+      "bbox": [
+        1601,
+        1078,
+        1617,
+        1093
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 8
+      }
+    },
+    {
+      "id": 211,
+      "text": "формулировать",
+      "bbox": [
+        1633,
+        1070,
+        1851,
+        1100
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 9
+      }
+    },
+    {
+      "id": 212,
+      "text": "собственные",
+      "bbox": [
+        1867,
+        1070,
+        2046,
+        1094
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 1,
+        "word": 10
+      }
+    },
+    {
+      "id": 213,
+      "text": "задачи",
+      "bbox": [
+        263,
+        1115,
+        355,
+        1135
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 214,
+      "text": "в",
+      "bbox": [
+        365,
+        1116,
+        379,
+        1131
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 215,
+      "text": "образовательной",
+      "bbox": [
+        389,
+        1108,
+        625,
+        1138
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 2,
+        "word": 3
+      }
+    },
+    {
+      "id": 216,
+      "text": "деятельности",
+      "bbox": [
+        634,
+        1115,
+        822,
+        1135
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 2,
+        "word": 4
+      }
+    },
+    {
+      "id": 217,
+      "text": "и",
+      "bbox": [
+        832,
+        1116,
+        848,
+        1131
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 2,
+        "word": 5
+      }
+    },
+    {
+      "id": 218,
+      "text": "жизненных",
+      "bbox": [
+        857,
+        1115,
+        1018,
+        1132
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 2,
+        "word": 6
+      }
+    },
+    {
+      "id": 219,
+      "text": "ситуациях;",
+      "bbox": [
+        1027,
+        1115,
+        1179,
+        1138
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 2,
+        "word": 7
+      }
+    },
+    {
+      "id": 220,
+      "text": "давать",
+      "bbox": [
+        262,
+        1153,
+        352,
+        1173
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 221,
+      "text": "оценку",
+      "bbox": [
+        362,
+        1153,
+        460,
+        1178
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 222,
+      "text": "новым",
+      "bbox": [
+        470,
+        1153,
+        562,
+        1170
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 3,
+        "word": 3
+      }
+    },
+    {
+      "id": 223,
+      "text": "ситуациям",
+      "bbox": [
+        572,
+        1153,
+        720,
+        1178
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 21,
+        "paragraph": 1,
+        "line": 3,
+        "word": 4
+      }
+    }
+  ]
+}

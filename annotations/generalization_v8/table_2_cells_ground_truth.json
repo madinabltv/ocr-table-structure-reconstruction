@@ -1,0 +1,319 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_2",
+  "description": "Music chart table with a two-level merged header",
+  "annotation_method": "manual_grid_boundaries_with_fragment_center_assignment",
+  "source_ocr": "data/ocr/generalization_v8/adaptive/table_2.json",
+  "grid": {
+    "rows": 6,
+    "columns": 5
+  },
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "cell_0",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        3
+      ],
+      "text": "Название"
+    },
+    {
+      "id": "cell_1",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        4
+      ],
+      "text": "Год"
+    },
+    {
+      "id": "cell_2",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 2,
+      "column_end": 3,
+      "fragment_ids": [
+        0,
+        1,
+        2,
+        6
+      ],
+      "text": "Наивысшая позиция в чартах"
+    },
+    {
+      "id": "cell_3",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        5
+      ],
+      "text": "Альбом"
+    },
+    {
+      "id": "cell_4",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        7
+      ],
+      "text": "US"
+    },
+    {
+      "id": "cell_5",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        8
+      ],
+      "text": "UK"
+    },
+    {
+      "id": "cell_6",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        9,
+        10,
+        20,
+        21,
+        22,
+        23
+      ],
+      "text": "Watch Me (совместно с Беллой Торн)"
+    },
+    {
+      "id": "cell_7",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        11
+      ],
+      "text": "2011"
+    },
+    {
+      "id": "cell_8",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        12
+      ],
+      "text": "86"
+    },
+    {
+      "id": "cell_9",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        13
+      ],
+      "text": "="
+    },
+    {
+      "id": "cell_10",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "text": "Shake It Up: Break It Down"
+    },
+    {
+      "id": "cell_11",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "text": "Something То Dance For"
+    },
+    {
+      "id": "cell_12",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        28
+      ],
+      "text": "2012"
+    },
+    {
+      "id": "cell_13",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        29
+      ],
+      "text": "124"
+    },
+    {
+      "id": "cell_14",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        30
+      ],
+      "text": "186"
+    },
+    {
+      "id": "cell_15",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "text": "Shake It Up: Live 2 Dance"
+    },
+    {
+      "id": "cell_16",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        37
+      ],
+      "text": "Replay"
+    },
+    {
+      "id": "cell_17",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        38
+      ],
+      "text": "2013"
+    },
+    {
+      "id": "cell_18",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        39
+      ],
+      "text": "154"
+    },
+    {
+      "id": "cell_19",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        40
+      ],
+      "text": "="
+    },
+    {
+      "id": "cell_20",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        41
+      ],
+      "text": "Zendaya"
+    },
+    {
+      "id": "cell_21",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        42,
+        43
+      ],
+      "text": "My Baby"
+    },
+    {
+      "id": "cell_22",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_23",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_24",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_25",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        44
+      ],
+      "text": "Zendaya"
+    }
+  ]
+}

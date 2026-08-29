@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_06_element_tolerances",
+  "description": "Reviewed logical cell annotations for independent evaluation",
+  "annotation_method": "manual grid transcription from OCR preview and source image",
+  "source_ocr": "table_06_element_tolerances.png",
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "h00",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        0,
+        1
+      ],
+      "text": "Наименование элемента"
+    },
+    {
+      "id": "h01",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        2,
+        3,
+        4
+      ],
+      "text": "Допускаемые отклонения, %"
+    },
+    {
+      "id": "c10",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        5
+      ],
+      "text": "Углерод"
+    },
+    {
+      "id": "c11",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        6
+      ],
+      "text": "+0,01"
+    },
+    {
+      "id": "c20",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "text": "Кремний для спокойной стали"
+    },
+    {
+      "id": "c21",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        11
+      ],
+      "text": "+0,02"
+    },
+    {
+      "id": "c30",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        12
+      ],
+      "text": "Марганец"
+    },
+    {
+      "id": "c31",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        13
+      ],
+      "text": "+0,03"
+    },
+    {
+      "id": "c40",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        14
+      ],
+      "text": "Фосфор"
+    },
+    {
+      "id": "c41",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        15
+      ],
+      "text": "+0,005"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "schema_version": "0.1",
+  "created_at": "2026-08-16T16:02:13.122077+00:00",
+  "source_image": "table_05_impact_strength.png",
+  "image_size": {
+    "width": 1702,
+    "height": 762
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 6
+  },
+  "fragment_count": 21,
+  "fragments": [
+    {
+      "id": 0,
+      "text": "Ударная",
+      "bbox": [
+        619,
+        58,
+        855,
+        110
+      ],
+      "confidence": 0.87,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "вязкость",
+      "bbox": [
+        879,
+        73,
+        1121,
+        103
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 2,
+      "text": "KCU,",
+      "bbox": [
+        1146,
+        58,
+        1303,
+        114
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 3,
+      "text": "Дж/см?",
+      "bbox": [
+        1373,
+        46,
+        1540,
+        103
+      ],
+      "confidence": 0.75,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 4,
+      "text": "Марка",
+      "bbox": [
+        55,
+        96,
+        237,
+        153
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 5,
+      "text": "стали",
+      "bbox": [
+        261,
+        110,
+        415,
+        141
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 6,
+      "text": "-M/cM’),",
+      "bbox": [
+        880,
+        114,
+        1112,
+        183
+      ],
+      "confidence": 0.66,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 3
+      }
+    },
+    {
+      "id": 7,
+      "text": "не",
+      "bbox": [
+        1158,
+        140,
+        1221,
+        171
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 4
+      }
+    },
+    {
+      "id": 8,
+      "text": "О",
+      "bbox": [
+        1246,
+        57,
+        1443,
+        171
+      ],
+      "confidence": 0.02,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 5
+      }
+    },
+    {
+      "id": 9,
+      "text": "25",
+      "bbox": [
+        200,
+        263,
+        266,
+        314
+      ],
+      "confidence": 0.88,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 10,
+      "text": "88(9)",
+      "bbox": [
+        1004,
+        263,
+        1155,
+        328
+      ],
+      "confidence": 0.88,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 11,
+      "text": "30",
+      "bbox": [
+        201,
+        338,
+        266,
+        388
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 12,
+      "text": "78(8)",
+      "bbox": [
+        1004,
+        338,
+        1155,
+        403
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 2
+      }
+    },
+    {
+      "id": 13,
+      "text": "CB)",
+      "bbox": [
+        202,
+        407,
+        266,
+        478
+      ],
+      "confidence": 0.31,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 1
+      }
+    },
+    {
+      "id": 14,
+      "text": "69(7)",
+      "bbox": [
+        1004,
+        408,
+        1155,
+        476
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 2
+      }
+    },
+    {
+      "id": 15,
+      "text": "40",
+      "bbox": [
+        200,
+        486,
+        264,
+        536
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 1
+      }
+    },
+    {
+      "id": 16,
+      "text": "59(6)",
+      "bbox": [
+        1004,
+        483,
+        1155,
+        551
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 2
+      }
+    },
+    {
+      "id": 17,
+      "text": "45",
+      "bbox": [
+        200,
+        561,
+        266,
+        611
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 1
+      }
+    },
+    {
+      "id": 18,
+      "text": "49(5)",
+      "bbox": [
+        1002,
+        561,
+        1155,
+        625
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 2
+      }
+    },
+    {
+      "id": 19,
+      "text": "50",
+      "bbox": [
+        201,
+        634,
+        266,
+        684
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 1
+      }
+    },
+    {
+      "id": 20,
+      "text": "38(4)",
+      "bbox": [
+        1004,
+        634,
+        1155,
+        699
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 8,
+        "word": 2
+      }
+    }
+  ]
+}

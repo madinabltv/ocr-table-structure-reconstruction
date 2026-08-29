@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_02_solders_properties",
+  "description": "Logical cell annotations for relation classification",
+  "ignored_fragment_ids": [33, 34, 35],
+  "cells": [
+    {"id": "h00", "row_start": 0, "row_end": 1, "column_start": 0, "column_end": 0, "fragment_ids": [3], "text": "Припой"},
+    {"id": "h01", "row_start": 0, "row_end": 1, "column_start": 1, "column_end": 1, "fragment_ids": [4, 7, 8], "text": "Временное сопротивление разрыву, МПа"},
+    {"id": "h02", "row_start": 0, "row_end": 0, "column_start": 2, "column_end": 3, "fragment_ids": [], "text": "Температура, °C"},
+    {"id": "h04", "row_start": 0, "row_end": 1, "column_start": 4, "column_end": 4, "fragment_ids": [0, 5, 9], "text": "Плотность, г/см³"},
+    {"id": "h05", "row_start": 0, "row_end": 1, "column_start": 5, "column_end": 5, "fragment_ids": [1, 2, 6, 10, 11], "text": "Удельное электросопротивление, мОм·м"},
+    {"id": "h12", "row_start": 1, "row_end": 1, "column_start": 2, "column_end": 2, "fragment_ids": [], "text": "солидуса"},
+    {"id": "h13", "row_start": 1, "row_end": 1, "column_start": 3, "column_end": 3, "fragment_ids": [], "text": "ликвидуса"},
+
+    {"id": "c20", "row_start": 2, "row_end": 2, "column_start": 0, "column_end": 0, "fragment_ids": [12, 13], "text": "ПОС 61"},
+    {"id": "c21", "row_start": 2, "row_end": 2, "column_start": 1, "column_end": 1, "fragment_ids": [14, 15], "text": "42,1"},
+    {"id": "c22", "row_start": 2, "row_end": 2, "column_start": 2, "column_end": 2, "fragment_ids": [16], "text": "183"},
+    {"id": "c23", "row_start": 2, "row_end": 2, "column_start": 3, "column_end": 3, "fragment_ids": [17], "text": "190"},
+    {"id": "c24", "row_start": 2, "row_end": 2, "column_start": 4, "column_end": 4, "fragment_ids": [18], "text": "8,5"},
+    {"id": "c25", "row_start": 2, "row_end": 2, "column_start": 5, "column_end": 5, "fragment_ids": [19], "text": "0,139"},
+
+    {"id": "c30", "row_start": 3, "row_end": 3, "column_start": 0, "column_end": 0, "fragment_ids": [20, 21], "text": "ПОСК 50—18"},
+    {"id": "c31", "row_start": 3, "row_end": 3, "column_start": 1, "column_end": 1, "fragment_ids": [22], "text": "39,2"},
+    {"id": "c32", "row_start": 3, "row_end": 3, "column_start": 2, "column_end": 2, "fragment_ids": [23], "text": "142"},
+    {"id": "c33", "row_start": 3, "row_end": 3, "column_start": 3, "column_end": 3, "fragment_ids": [24], "text": "145"},
+    {"id": "c34", "row_start": 3, "row_end": 3, "column_start": 4, "column_end": 4, "fragment_ids": [25], "text": "8,8"},
+    {"id": "c35", "row_start": 3, "row_end": 3, "column_start": 5, "column_end": 5, "fragment_ids": [26], "text": "0,139"},
+
+    {"id": "c40", "row_start": 4, "row_end": 4, "column_start": 0, "column_end": 0, "fragment_ids": [27, 28], "text": "ПОС 40"},
+    {"id": "c41", "row_start": 4, "row_end": 4, "column_start": 1, "column_end": 1, "fragment_ids": [29], "text": "37,2"},
+    {"id": "c42", "row_start": 4, "row_end": 4, "column_start": 2, "column_end": 2, "fragment_ids": [30], "text": "183"},
+    {"id": "c43", "row_start": 4, "row_end": 4, "column_start": 3, "column_end": 3, "fragment_ids": [31], "text": "238"},
+    {"id": "c44", "row_start": 4, "row_end": 4, "column_start": 4, "column_end": 4, "fragment_ids": [32], "text": "9,3"},
+    {"id": "c45", "row_start": 4, "row_end": 4, "column_start": 5, "column_end": 5, "fragment_ids": [], "text": "0,159", "missing_in_ocr": true}
+  ]
+}

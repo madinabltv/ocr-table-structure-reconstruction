@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "name": "russian_ocr_table_structure_benchmark",
+  "description": "Independent Russian-language tables not used to tune the classifiers",
+  "documents": [
+    {
+      "id": "table_03_payment_schedule",
+      "ocr": "data/ocr/table_03_payment_schedule.json",
+      "ground_truth": "annotations/table_03_payment_schedule_cells_ground_truth.json",
+      "expected_rows": 13,
+      "expected_columns": 4,
+      "logical_header_rows": 1,
+      "difficulty": "simple_grid"
+    },
+    {
+      "id": "table_05_impact_strength",
+      "ocr": "data/ocr/table_05_impact_strength.json",
+      "ground_truth": "annotations/table_05_impact_strength_cells_ground_truth.json",
+      "expected_rows": 7,
+      "expected_columns": 2,
+      "logical_header_rows": 1,
+      "difficulty": "multiline_header"
+    },
+    {
+      "id": "table_06_element_tolerances",
+      "ocr": "data/ocr/table_06_element_tolerances.json",
+      "ground_truth": "annotations/table_06_element_tolerances_cells_ground_truth.json",
+      "expected_rows": 5,
+      "expected_columns": 2,
+      "logical_header_rows": 1,
+      "difficulty": "multiline_cells"
+    },
+    {
+      "id": "table_08_composition_long",
+      "ocr": "data/ocr/table_08_composition_long.json",
+      "ground_truth": "annotations/table_08_composition_long_cells_ground_truth.json",
+      "expected_rows": 24,
+      "expected_columns": 5,
+      "logical_header_rows": 2,
+      "difficulty": "hierarchical_header"
+    },
+    {
+      "id": "table_09_tax_elements",
+      "ocr": "data/ocr/table_09_tax_elements.json",
+      "ground_truth": "annotations/table_09_tax_elements_cells_ground_truth.json",
+      "expected_rows": 6,
+      "expected_columns": 6,
+      "logical_header_rows": 1,
+      "difficulty": "dense_multiline_cells"
+    }
+  ]
+}

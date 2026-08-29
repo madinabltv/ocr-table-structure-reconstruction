@@ -1,0 +1,1123 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_1",
+  "description": "Wikipedia filmography table with five columns",
+  "annotation_method": "manual_grid_boundaries_with_fragment_center_assignment",
+  "source_ocr": "data/ocr/generalization_v8/adaptive/table_1.json",
+  "grid": {
+    "rows": 18,
+    "columns": 5
+  },
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "cell_0",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        0,
+        1
+      ],
+      "text": "Год «"
+    },
+    {
+      "id": "cell_1",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        2
+      ],
+      "text": "+"
+    },
+    {
+      "id": "cell_2",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        3,
+        4,
+        5
+      ],
+      "text": "Русское название +"
+    },
+    {
+      "id": "cell_3",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        6,
+        7,
+        8
+      ],
+      "text": "Оригинальное название +"
+    },
+    {
+      "id": "cell_4",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        9,
+        10
+      ],
+      "text": "Ponb $"
+    },
+    {
+      "id": "cell_5",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        11,
+        12
+      ],
+      "text": "2010— 2013"
+    },
+    {
+      "id": "cell_6",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        13,
+        14
+      ],
+      "text": "с |"
+    },
+    {
+      "id": "cell_7",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        15,
+        16
+      ],
+      "text": "Танцевальная лихорадка!"
+    },
+    {
+      "id": "cell_8",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        17,
+        18,
+        19
+      ],
+      "text": "Shake It Up"
+    },
+    {
+      "id": "cell_9",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        20,
+        21,
+        22
+      ],
+      "text": "Ракель «Рокки» Блю"
+    },
+    {
+      "id": "cell_10",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        23
+      ],
+      "text": "2011"
+    },
+    {
+      "id": "cell_11",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        24,
+        25
+      ],
+      "text": "с |"
+    },
+    {
+      "id": "cell_12",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        26,
+        27
+      ],
+      "text": "Держись, Чарли!"
+    },
+    {
+      "id": "cell_13",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        28,
+        29,
+        30
+      ],
+      "text": "Good Luck Charlie"
+    },
+    {
+      "id": "cell_14",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        31,
+        32,
+        33
+      ],
+      "text": "Ракель «Рокки» Блю"
+    },
+    {
+      "id": "cell_15",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        34
+      ],
+      "text": "2011"
+    },
+    {
+      "id": "cell_16",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        35
+      ],
+      "text": "с"
+    },
+    {
+      "id": "cell_17",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        36,
+        37,
+        38
+      ],
+      "text": "| Звёздные шалости"
+    },
+    {
+      "id": "cell_18",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        39
+      ],
+      "text": "PrankStars"
+    },
+    {
+      "id": "cell_19",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "text": "в роли самой себя / «Walk the Prank»"
+    },
+    {
+      "id": "cell_20",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        48
+      ],
+      "text": "2011"
+    },
+    {
+      "id": "cell_21",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        49
+      ],
+      "text": "тф"
+    },
+    {
+      "id": "cell_22",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "text": "| Турнир Долины Фей"
+    },
+    {
+      "id": "cell_23",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        54,
+        55,
+        56
+      ],
+      "text": "Pixie Hollow Games"
+    },
+    {
+      "id": "cell_24",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        57
+      ],
+      "text": "Ферн"
+    },
+    {
+      "id": "cell_25",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        58
+      ],
+      "text": "2012"
+    },
+    {
+      "id": "cell_26",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        59,
+        60
+      ],
+      "text": "с |"
+    },
+    {
+      "id": "cell_27",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        61,
+        62
+      ],
+      "text": "Высший класс"
+    },
+    {
+      "id": "cell_28",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        63,
+        64
+      ],
+      "text": "A.N.T. Farm"
+    },
+    {
+      "id": "cell_29",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "text": "Зеккоя Джонс / «Creative consultANT»"
+    },
+    {
+      "id": "cell_30",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        70
+      ],
+      "text": "2012"
+    },
+    {
+      "id": "cell_31",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        71
+      ],
+      "text": "Td"
+    },
+    {
+      "id": "cell_32",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        72,
+        73
+      ],
+      "text": "Заклятые друзья"
+    },
+    {
+      "id": "cell_33",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        74
+      ],
+      "text": "Frenemies"
+    },
+    {
+      "id": "cell_34",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        75,
+        76
+      ],
+      "text": "Хайли Брэндон"
+    },
+    {
+      "id": "cell_35",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        77
+      ],
+      "text": "2013"
+    },
+    {
+      "id": "cell_36",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        78
+      ],
+      "text": "вф"
+    },
+    {
+      "id": "cell_37",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        79,
+        80,
+        81,
+        82
+      ],
+      "text": "| Пятёрка супергероев!АН\"Л-] |"
+    },
+    {
+      "id": "cell_38",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        83,
+        84
+      ],
+      "text": "Super Buddies"
+    },
+    {
+      "id": "cell_39",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        85
+      ],
+      "text": "Леденец"
+    },
+    {
+      "id": "cell_40",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        86
+      ],
+      "text": "2013"
+    },
+    {
+      "id": "cell_41",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        87,
+        88
+      ],
+      "text": "с |"
+    },
+    {
+      "id": "cell_42",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        89,
+        90,
+        91
+      ],
+      "text": "Танцы со звёздами"
+    },
+    {
+      "id": "cell_43",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        92,
+        93,
+        94,
+        95
+      ],
+      "text": "Dancing with the Stars"
+    },
+    {
+      "id": "cell_44",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "text": "конкурсант. (в паре с Чмерковським)"
+    },
+    {
+      "id": "cell_45",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        101
+      ],
+      "text": "2013"
+    },
+    {
+      "id": "cell_46",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        102
+      ],
+      "text": "с"
+    },
+    {
+      "id": "cell_47",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_48",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        103,
+        104,
+        105,
+        106
+      ],
+      "text": "The Story of Zendaya"
+    },
+    {
+      "id": "cell_49",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        107,
+        108,
+        109,
+        110
+      ],
+      "text": "в роли самой себя"
+    },
+    {
+      "id": "cell_50",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        113
+      ],
+      "text": "2014"
+    },
+    {
+      "id": "cell_51",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        114
+      ],
+      "text": "тф"
+    },
+    {
+      "id": "cell_52",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        111,
+        112,
+        118
+      ],
+      "text": "Zapped. Волшебное приложение"
+    },
+    {
+      "id": "cell_53",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        115
+      ],
+      "text": "Zapped"
+    },
+    {
+      "id": "cell_54",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        116,
+        117
+      ],
+      "text": "Зои Стивенс"
+    },
+    {
+      "id": "cell_55",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        119
+      ],
+      "text": "2014"
+    },
+    {
+      "id": "cell_56",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        120
+      ],
+      "text": "с"
+    },
+    {
+      "id": "cell_57",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_58",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        121,
+        122,
+        123
+      ],
+      "text": "Under the Gunn"
+    },
+    {
+      "id": "cell_59",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131
+      ],
+      "text": "в роли самой себя / «Hit the Stage»"
+    },
+    {
+      "id": "cell_60",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        132
+      ],
+      "text": "2014"
+    },
+    {
+      "id": "cell_61",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        133
+      ],
+      "text": "с"
+    },
+    {
+      "id": "cell_62",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_63",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        134,
+        135,
+        136,
+        137
+      ],
+      "text": "The Making of SWAY"
+    },
+    {
+      "id": "cell_64",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        138,
+        139,
+        140
+      ],
+      "text": "B pony себя"
+    },
+    {
+      "id": "cell_65",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        141
+      ],
+      "text": "2014"
+    },
+    {
+      "id": "cell_66",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        142
+      ],
+      "text": "с"
+    },
+    {
+      "id": "cell_67",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [],
+      "text": "",
+      "missing_in_ocr": true
+    },
+    {
+      "id": "cell_68",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        143,
+        144,
+        145,
+        146
+      ],
+      "text": "SWAY: А Dance Trilogy"
+    },
+    {
+      "id": "cell_69",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        147,
+        148,
+        149
+      ],
+      "text": "В роли себя"
+    },
+    {
+      "id": "cell_70",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        150
+      ],
+      "text": "2015"
+    },
+    {
+      "id": "cell_71",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        151
+      ],
+      "text": "с"
+    },
+    {
+      "id": "cell_72",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        152,
+        153
+      ],
+      "text": "| Черноватый"
+    },
+    {
+      "id": "cell_73",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        154
+      ],
+      "text": "Black-ish"
+    },
+    {
+      "id": "cell_74",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        155,
+        156,
+        157,
+        158
+      ],
+      "text": "Решейда / «Daddy’s Day»"
+    },
+    {
+      "id": "cell_75",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        159,
+        176
+      ],
+      "text": "2015— 2018"
+    },
+    {
+      "id": "cell_76",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        168,
+        169,
+        177
+      ],
+      "text": "с | _"
+    },
+    {
+      "id": "cell_77",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        160,
+        170,
+        171,
+        172,
+        173
+      ],
+      "text": "Кей 7 Си. Под прикрытием"
+    },
+    {
+      "id": "cell_78",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        174,
+        175
+      ],
+      "text": "К.С. Undercover"
+    },
+    {
+      "id": "cell_79",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        178
+      ],
+      "text": "Кей Си Купер / 76 эпизодов; также продюсер"
+    },
+    {
+      "id": "cell_80",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        186
+      ],
+      "text": "2016"
+    },
+    {
+      "id": "cell_81",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        187
+      ],
+      "text": "с"
+    },
+    {
+      "id": "cell_82",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        188,
+        189
+      ],
+      "text": "Топ-модель по-американски"
+    },
+    {
+      "id": "cell_83",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        190,
+        191,
+        192,
+        193
+      ],
+      "text": "America’s Next Top Model"
+    },
+    {
+      "id": "cell_84",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        194,
+        195,
+        196
+      ],
+      "text": "в роли самой себя / «Lights, Camera, ANGI A, SEIN."
+    },
+    {
+      "id": "cell_85",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        202
+      ],
+      "text": "2017"
+    },
+    {
+      "id": "cell_86",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        203
+      ],
+      "text": "ф"
+    },
+    {
+      "id": "cell_87",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        197,
+        198,
+        204,
+        208
+      ],
+      "text": "Человек-паук: Возвращение домой _"
+    },
+    {
+      "id": "cell_88",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        199,
+        200,
+        205,
+        206
+      ],
+      "text": "Spider-Man: } Homecoming ,"
+    },
+    {
+      "id": "cell_89",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        201,
+        207
+      ],
+      "text": "Эм-Джей 7"
+    }
+  ]
+}

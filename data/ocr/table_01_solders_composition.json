@@ -1,0 +1,748 @@
+{
+  "schema_version": "0.1",
+  "created_at": "2026-08-16T17:07:01.085128+00:00",
+  "source_image": "table_01_solders_composition.png",
+  "image_size": {
+    "width": 2116,
+    "height": 774
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "rus+eng",
+    "psm": 6
+  },
+  "fragment_count": 43,
+  "fragments": [
+    {
+      "id": 0,
+      "text": ":",
+      "bbox": [
+        61,
+        0,
+        71,
+        1
+      ],
+      "confidence": 0.32,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 1
+      }
+    },
+    {
+      "id": 1,
+      "text": "Таблица",
+      "bbox": [
+        411,
+        0,
+        666,
+        58
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 2
+      }
+    },
+    {
+      "id": 2,
+      "text": "7.",
+      "bbox": [
+        752,
+        0,
+        787,
+        55
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 3
+      }
+    },
+    {
+      "id": 3,
+      "text": "Состав",
+      "bbox": [
+        819,
+        0,
+        985,
+        57
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 4
+      }
+    },
+    {
+      "id": 4,
+      "text": "особолегкоплавких",
+      "bbox": [
+        1010,
+        0,
+        1480,
+        55
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 5
+      }
+    },
+    {
+      "id": 5,
+      "text": "припоев",
+      "bbox": [
+        1509,
+        27,
+        1701,
+        64
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 1,
+        "word": 6
+      }
+    },
+    {
+      "id": 6,
+      "text": "Вуда",
+      "bbox": [
+        32,
+        350,
+        147,
+        401
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 1
+      }
+    },
+    {
+      "id": 7,
+      "text": "50",
+      "bbox": [
+        705,
+        348,
+        758,
+        386
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 2
+      }
+    },
+    {
+      "id": 8,
+      "text": "25",
+      "bbox": [
+        977,
+        347,
+        1026,
+        386
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 3
+      }
+    },
+    {
+      "id": 9,
+      "text": "12,5",
+      "bbox": [
+        1273,
+        347,
+        1363,
+        388
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 4
+      }
+    },
+    {
+      "id": 10,
+      "text": "12.5",
+      "bbox": [
+        1577,
+        346,
+        1665,
+        387
+      ],
+      "confidence": 0.86,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 5
+      }
+    },
+    {
+      "id": 11,
+      "text": "60,5",
+      "bbox": [
+        1892,
+        346,
+        1987,
+        387
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 2,
+        "word": 6
+      }
+    },
+    {
+      "id": 12,
+      "text": "Розе",
+      "bbox": [
+        33,
+        418,
+        140,
+        458
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 1
+      }
+    },
+    {
+      "id": 13,
+      "text": "50",
+      "bbox": [
+        701,
+        412,
+        758,
+        472
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 2
+      }
+    },
+    {
+      "id": 14,
+      "text": "25",
+      "bbox": [
+        978,
+        415,
+        1028,
+        455
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 3
+      }
+    },
+    {
+      "id": 15,
+      "text": "25",
+      "bbox": [
+        1267,
+        416,
+        1318,
+        455
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 4
+      }
+    },
+    {
+      "id": 16,
+      "text": "94",
+      "bbox": [
+        1892,
+        417,
+        1941,
+        453
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 3,
+        "word": 5
+      }
+    },
+    {
+      "id": 17,
+      "text": "Д’Арсенваля",
+      "bbox": [
+        31,
+        486,
+        343,
+        538
+      ],
+      "confidence": 0.63,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 1
+      }
+    },
+    {
+      "id": 18,
+      "text": "45,3",
+      "bbox": [
+        705,
+        487,
+        800,
+        530
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 2
+      }
+    },
+    {
+      "id": 19,
+      "text": "45.1",
+      "bbox": [
+        979,
+        484,
+        1063,
+        526
+      ],
+      "confidence": 0.85,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 3
+      }
+    },
+    {
+      "id": 20,
+      "text": "9.6",
+      "bbox": [
+        1294,
+        487,
+        1364,
+        526
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 4
+      }
+    },
+    {
+      "id": 21,
+      "text": "—",
+      "bbox": [
+        1604,
+        509,
+        1636,
+        510
+      ],
+      "confidence": 0.88,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 5
+      }
+    },
+    {
+      "id": 22,
+      "text": "79",
+      "bbox": [
+        1896,
+        484,
+        1946,
+        522
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 4,
+        "word": 6
+      }
+    },
+    {
+      "id": 23,
+      "text": "Липовица",
+      "bbox": [
+        30,
+        557,
+        271,
+        597
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 1
+      }
+    },
+    {
+      "id": 24,
+      "text": "50",
+      "bbox": [
+        702,
+        551,
+        758,
+        611
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 2
+      }
+    },
+    {
+      "id": 25,
+      "text": "26,67",
+      "bbox": [
+        979,
+        553,
+        1100,
+        596
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 3
+      }
+    },
+    {
+      "id": 26,
+      "text": "13,33",
+      "bbox": [
+        1276,
+        556,
+        1390,
+        597
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 4
+      }
+    },
+    {
+      "id": 27,
+      "text": "10",
+      "bbox": [
+        1580,
+        554,
+        1624,
+        592
+      ],
+      "confidence": 0.95,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 5
+      }
+    },
+    {
+      "id": 28,
+      "text": "-",
+      "bbox": [
+        1930,
+        578,
+        1947,
+        579
+      ],
+      "confidence": 0.91,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 5,
+        "word": 6
+      }
+    },
+    {
+      "id": 29,
+      "text": "ПОСВ",
+      "bbox": [
+        34,
+        624,
+        187,
+        666
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 1
+      }
+    },
+    {
+      "id": 30,
+      "text": "33",
+      "bbox": [
+        215,
+        625,
+        267,
+        665
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 2
+      }
+    },
+    {
+      "id": 31,
+      "text": "33,3",
+      "bbox": [
+        689,
+        620,
+        787,
+        681
+      ],
+      "confidence": 0.93,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 3
+      }
+    },
+    {
+      "id": 32,
+      "text": "33,4",
+      "bbox": [
+        980,
+        624,
+        1071,
+        665
+      ],
+      "confidence": 0.94,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 4
+      }
+    },
+    {
+      "id": 33,
+      "text": "130",
+      "bbox": [
+        1878,
+        625,
+        1951,
+        663
+      ],
+      "confidence": 0.96,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 6,
+        "word": 5
+      }
+    },
+    {
+      "id": 34,
+      "text": "ПОСК",
+      "bbox": [
+        35,
+        694,
+        191,
+        737
+      ],
+      "confidence": 0.92,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 1
+      }
+    },
+    {
+      "id": 35,
+      "text": "50-18",
+      "bbox": [
+        218,
+        695,
+        342,
+        735
+      ],
+      "confidence": 0.89,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 2
+      }
+    },
+    {
+      "id": 36,
+      "text": "—",
+      "bbox": [
+        732,
+        718,
+        774,
+        722
+      ],
+      "confidence": 0.67,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 3
+      }
+    },
+    {
+      "id": 37,
+      "text": "Г",
+      "bbox": [
+        903,
+        684,
+        909,
+        695
+      ],
+      "confidence": 0.54,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 4
+      }
+    },
+    {
+      "id": 38,
+      "text": "oe",
+      "bbox": [
+        980,
+        693,
+        1031,
+        732
+      ],
+      "confidence": 0.35,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 5
+      }
+    },
+    {
+      "id": 39,
+      "text": "49,8",
+      "bbox": [
+        1269,
+        695,
+        1364,
+        736
+      ],
+      "confidence": 0.9,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 6
+      }
+    },
+    {
+      "id": 40,
+      "text": "УНИИ",
+      "bbox": [
+        1582,
+        691,
+        1738,
+        749
+      ],
+      "confidence": 0.24,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 7
+      }
+    },
+    {
+      "id": 41,
+      "text": "МАНИ,",
+      "bbox": [
+        1773,
+        694,
+        1975,
+        751
+      ],
+      "confidence": 0.1,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 8
+      }
+    },
+    {
+      "id": 42,
+      "text": "МР",
+      "bbox": [
+        1995,
+        728,
+        2079,
+        749
+      ],
+      "confidence": 0.1,
+      "tesseract": {
+        "block": 1,
+        "paragraph": 1,
+        "line": 7,
+        "word": 9
+      }
+    }
+  ]
+}

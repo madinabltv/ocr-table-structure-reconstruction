@@ -1,0 +1,1439 @@
+{
+  "schema_version": "1.0",
+  "document_id": "table_9",
+  "description": "Nine-column bond table with a grouped discount header",
+  "annotation_method": "manual_grid_boundaries_with_fragment_center_assignment",
+  "source_ocr": "data/ocr/generalization_v8/adaptive/table_9.json",
+  "grid": {
+    "rows": 15,
+    "columns": 9
+  },
+  "ignored_fragment_ids": [],
+  "cells": [
+    {
+      "id": "cell_0",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        3
+      ],
+      "text": "ISIN"
+    },
+    {
+      "id": "cell_1",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        4,
+        5,
+        6
+      ],
+      "text": "Регистрационный номер выпуска"
+    },
+    {
+      "id": "cell_2",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        7
+      ],
+      "text": "Эмитент"
+    },
+    {
+      "id": "cell_3",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        8,
+        9
+      ],
+      "text": "Дата погашения"
+    },
+    {
+      "id": "cell_4",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "text": "Цена (в процентах от номинала) одной ценной бумаги**"
+    },
+    {
+      "id": "cell_5",
+      "row_start": 0,
+      "row_end": 0,
+      "column_start": 5,
+      "column_end": 7,
+      "fragment_ids": [
+        0,
+        1,
+        2
+      ],
+      "text": "Дисконт, в процентах"
+    },
+    {
+      "id": "cell_6",
+      "row_start": 0,
+      "row_end": 1,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        18,
+        19
+      ],
+      "text": "Механизм ~~"
+    },
+    {
+      "id": "cell_7",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        20
+      ],
+      "text": "нач."
+    },
+    {
+      "id": "cell_8",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        21
+      ],
+      "text": "мин."
+    },
+    {
+      "id": "cell_9",
+      "row_start": 1,
+      "row_end": 1,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        22
+      ],
+      "text": "макс."
+    },
+    {
+      "id": "cell_10",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        23,
+        24
+      ],
+      "text": "RUOOOAOJQAM6 ="
+    },
+    {
+      "id": "cell_11",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        25
+      ],
+      "text": "4-15-00739-A"
+    },
+    {
+      "id": "cell_12",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        26,
+        27
+      ],
+      "text": "ПАО ДОМ.РФ"
+    },
+    {
+      "id": "cell_13",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        28
+      ],
+      "text": "15.09.2028"
+    },
+    {
+      "id": "cell_14",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        29
+      ],
+      "text": "107,53"
+    },
+    {
+      "id": "cell_15",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        30
+      ],
+      "text": "4"
+    },
+    {
+      "id": "cell_16",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        31
+      ],
+      "text": "2"
+    },
+    {
+      "id": "cell_17",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        32
+      ],
+      "text": "6"
+    },
+    {
+      "id": "cell_18",
+      "row_start": 2,
+      "row_end": 2,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        33
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_19",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        34
+      ],
+      "text": "RUOOOAOJRJB8"
+    },
+    {
+      "id": "cell_20",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        35
+      ],
+      "text": "4-01-00350-D"
+    },
+    {
+      "id": "cell_21",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        36,
+        37
+      ],
+      "text": "АО \"ЗСД\""
+    },
+    {
+      "id": "cell_22",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        38
+      ],
+      "text": "13.05.2031"
+    },
+    {
+      "id": "cell_23",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        39
+      ],
+      "text": "0"
+    },
+    {
+      "id": "cell_24",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        40
+      ],
+      "text": "7"
+    },
+    {
+      "id": "cell_25",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        41
+      ],
+      "text": "5"
+    },
+    {
+      "id": "cell_26",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        42
+      ],
+      "text": "9"
+    },
+    {
+      "id": "cell_27",
+      "row_start": 3,
+      "row_end": 3,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        43
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_28",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        44
+      ],
+      "text": "RUOOOAOJRJL7"
+    },
+    {
+      "id": "cell_29",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        45
+      ],
+      "text": "4-02-00350-D"
+    },
+    {
+      "id": "cell_30",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        46,
+        47
+      ],
+      "text": "АО \"ЗСД\""
+    },
+    {
+      "id": "cell_31",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        48
+      ],
+      "text": "13.05.2031"
+    },
+    {
+      "id": "cell_32",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        49
+      ],
+      "text": "0"
+    },
+    {
+      "id": "cell_33",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        50
+      ],
+      "text": "7"
+    },
+    {
+      "id": "cell_34",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        51
+      ],
+      "text": "5"
+    },
+    {
+      "id": "cell_35",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        52
+      ],
+      "text": "9"
+    },
+    {
+      "id": "cell_36",
+      "row_start": 4,
+      "row_end": 4,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        53
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_37",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        54
+      ],
+      "text": "RUOOOAOJRU20"
+    },
+    {
+      "id": "cell_38",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        55
+      ],
+      "text": "4-01-36388-R"
+    },
+    {
+      "id": "cell_39",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        56,
+        57
+      ],
+      "text": "000 \"C3KK\""
+    },
+    {
+      "id": "cell_40",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        58
+      ],
+      "text": "26.09.2031"
+    },
+    {
+      "id": "cell_41",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        59
+      ],
+      "text": "94,355"
+    },
+    {
+      "id": "cell_42",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        60
+      ],
+      "text": "20"
+    },
+    {
+      "id": "cell_43",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        61
+      ],
+      "text": "18"
+    },
+    {
+      "id": "cell_44",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        62
+      ],
+      "text": "22"
+    },
+    {
+      "id": "cell_45",
+      "row_start": 5,
+      "row_end": 5,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        63
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_46",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        64
+      ],
+      "text": "RUOOOAOJRU46"
+    },
+    {
+      "id": "cell_47",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        65
+      ],
+      "text": "4-02-36388-R"
+    },
+    {
+      "id": "cell_48",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        66,
+        67
+      ],
+      "text": "000 \"C3KK\""
+    },
+    {
+      "id": "cell_49",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        68
+      ],
+      "text": "26.09.2031"
+    },
+    {
+      "id": "cell_50",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        69
+      ],
+      "text": "96,335"
+    },
+    {
+      "id": "cell_51",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        70
+      ],
+      "text": "20"
+    },
+    {
+      "id": "cell_52",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        71
+      ],
+      "text": "18"
+    },
+    {
+      "id": "cell_53",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        72
+      ],
+      "text": "22"
+    },
+    {
+      "id": "cell_54",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        73
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_55",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        74
+      ],
+      "text": "RUOOOAO0JS4J1"
+    },
+    {
+      "id": "cell_56",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        75
+      ],
+      "text": "4-03-00350-D"
+    },
+    {
+      "id": "cell_57",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        76,
+        77
+      ],
+      "text": "АО \"ЗСД\""
+    },
+    {
+      "id": "cell_58",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        78
+      ],
+      "text": "06.02.2032"
+    },
+    {
+      "id": "cell_59",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        79
+      ],
+      "text": "117,705"
+    },
+    {
+      "id": "cell_60",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        80
+      ],
+      "text": "7"
+    },
+    {
+      "id": "cell_61",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        81
+      ],
+      "text": "5"
+    },
+    {
+      "id": "cell_62",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        82
+      ],
+      "text": "9"
+    },
+    {
+      "id": "cell_63",
+      "row_start": 7,
+      "row_end": 7,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        83
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_64",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        84
+      ],
+      "text": "RUOOOAOJS4K9"
+    },
+    {
+      "id": "cell_65",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        85
+      ],
+      "text": "4-04-00350-D"
+    },
+    {
+      "id": "cell_66",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        86,
+        87
+      ],
+      "text": "АО \"ЗСД\""
+    },
+    {
+      "id": "cell_67",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        88
+      ],
+      "text": "06.02.2032"
+    },
+    {
+      "id": "cell_68",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        89
+      ],
+      "text": "103,5183"
+    },
+    {
+      "id": "cell_69",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        90
+      ],
+      "text": "7"
+    },
+    {
+      "id": "cell_70",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        91
+      ],
+      "text": "5"
+    },
+    {
+      "id": "cell_71",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        92
+      ],
+      "text": "9"
+    },
+    {
+      "id": "cell_72",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        93
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_73",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        94
+      ],
+      "text": "RUOOOAOJS4L7"
+    },
+    {
+      "id": "cell_74",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        95
+      ],
+      "text": "4-05-00350-D"
+    },
+    {
+      "id": "cell_75",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        96,
+        97
+      ],
+      "text": "АО \"ЗСД\""
+    },
+    {
+      "id": "cell_76",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        98
+      ],
+      "text": "06.02.2032"
+    },
+    {
+      "id": "cell_77",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        99
+      ],
+      "text": "0"
+    },
+    {
+      "id": "cell_78",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        100
+      ],
+      "text": "7"
+    },
+    {
+      "id": "cell_79",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        101
+      ],
+      "text": "5"
+    },
+    {
+      "id": "cell_80",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        102
+      ],
+      "text": "9"
+    },
+    {
+      "id": "cell_81",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        103
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_82",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        104
+      ],
+      "text": "RUOOOAOJSGVO"
+    },
+    {
+      "id": "cell_83",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        105
+      ],
+      "text": "4-32-65045-D"
+    },
+    {
+      "id": "cell_84",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        106,
+        107
+      ],
+      "text": "ОАО \"РЖД\""
+    },
+    {
+      "id": "cell_85",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        108
+      ],
+      "text": "25.06.2032"
+    },
+    {
+      "id": "cell_86",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        109
+      ],
+      "text": "98,71"
+    },
+    {
+      "id": "cell_87",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        110
+      ],
+      "text": "4"
+    },
+    {
+      "id": "cell_88",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        111
+      ],
+      "text": "2"
+    },
+    {
+      "id": "cell_89",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        112
+      ],
+      "text": "6"
+    },
+    {
+      "id": "cell_90",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        113
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_91",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        114
+      ],
+      "text": "RUOOOAOJSQ58"
+    },
+    {
+      "id": "cell_92",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        115
+      ],
+      "text": "4-22-65018-D"
+    },
+    {
+      "id": "cell_93",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        116,
+        117
+      ],
+      "text": "ПАО \"Россети\""
+    },
+    {
+      "id": "cell_94",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        118
+      ],
+      "text": "21.07.2027"
+    },
+    {
+      "id": "cell_95",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        119
+      ],
+      "text": "99,46"
+    },
+    {
+      "id": "cell_96",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        120
+      ],
+      "text": "4"
+    },
+    {
+      "id": "cell_97",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        121
+      ],
+      "text": "2"
+    },
+    {
+      "id": "cell_98",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        122
+      ],
+      "text": "6"
+    },
+    {
+      "id": "cell_99",
+      "row_start": 11,
+      "row_end": 11,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        123
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_100",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        124
+      ],
+      "text": "RUOOOAOJTFB2"
+    },
+    {
+      "id": "cell_101",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        125
+      ],
+      "text": "4-06-12755-A"
+    },
+    {
+      "id": "cell_102",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        126,
+        127,
+        128
+      ],
+      "text": "АО \"Главная дорога\""
+    },
+    {
+      "id": "cell_103",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        129
+      ],
+      "text": "22.11.2028"
+    },
+    {
+      "id": "cell_104",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        130
+      ],
+      "text": "0"
+    },
+    {
+      "id": "cell_105",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        131
+      ],
+      "text": "10"
+    },
+    {
+      "id": "cell_106",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        132
+      ],
+      "text": "8"
+    },
+    {
+      "id": "cell_107",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        133
+      ],
+      "text": "12"
+    },
+    {
+      "id": "cell_108",
+      "row_start": 12,
+      "row_end": 12,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        134
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_109",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        135
+      ],
+      "text": "RUOOOAOJTU85"
+    },
+    {
+      "id": "cell_110",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        136
+      ],
+      "text": "4-28-65045-D"
+    },
+    {
+      "id": "cell_111",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        137,
+        138
+      ],
+      "text": "ОАО \"РЖД\""
+    },
+    {
+      "id": "cell_112",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        139
+      ],
+      "text": "21.03.2028"
+    },
+    {
+      "id": "cell_113",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        140
+      ],
+      "text": "104,17"
+    },
+    {
+      "id": "cell_114",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        141
+      ],
+      "text": "4"
+    },
+    {
+      "id": "cell_115",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        142
+      ],
+      "text": "2"
+    },
+    {
+      "id": "cell_116",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        143
+      ],
+      "text": "6"
+    },
+    {
+      "id": "cell_117",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        144
+      ],
+      "text": "OM"
+    },
+    {
+      "id": "cell_118",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 0,
+      "column_end": 0,
+      "fragment_ids": [
+        145
+      ],
+      "text": "RUOOOAOJTW83"
+    },
+    {
+      "id": "cell_119",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 1,
+      "column_end": 1,
+      "fragment_ids": [
+        146
+      ],
+      "text": "4-25-00739-A"
+    },
+    {
+      "id": "cell_120",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 2,
+      "column_end": 2,
+      "fragment_ids": [
+        147,
+        148
+      ],
+      "text": "ПАО ДОМ.РФ"
+    },
+    {
+      "id": "cell_121",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 3,
+      "column_end": 3,
+      "fragment_ids": [
+        149
+      ],
+      "text": "01.10.2026"
+    },
+    {
+      "id": "cell_122",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 4,
+      "column_end": 4,
+      "fragment_ids": [
+        150
+      ],
+      "text": "0"
+    },
+    {
+      "id": "cell_123",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 5,
+      "column_end": 5,
+      "fragment_ids": [
+        151
+      ],
+      "text": "4"
+    },
+    {
+      "id": "cell_124",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 6,
+      "column_end": 6,
+      "fragment_ids": [
+        152
+      ],
+      "text": "2"
+    },
+    {
+      "id": "cell_125",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 7,
+      "column_end": 7,
+      "fragment_ids": [
+        153
+      ],
+      "text": "6"
+    },
+    {
+      "id": "cell_126",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 8,
+      "column_end": 8,
+      "fragment_ids": [
+        154
+      ],
+      "text": "OM"
+    }
+  ]
+}

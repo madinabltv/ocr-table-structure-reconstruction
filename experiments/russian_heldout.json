@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "name": "russian_ocr_table_structure_heldout_v1",
+  "description": "Frozen held-out tables first evaluated after automatic mode selection was implemented",
+  "documents": [
+    {
+      "id": "table_01_solders_composition",
+      "image": "data/images/table_01_solders_composition.png",
+      "ocr": "data/ocr/table_01_solders_composition.json",
+      "ground_truth": "annotations/heldout/table_01_solders_composition_cells_ground_truth.json",
+      "difficulty": "hierarchical_header_missing_ocr"
+    },
+    {
+      "id": "table_05_hardness",
+      "image": "data/images/table_05_hardness.png",
+      "ocr": "data/ocr/table_05_hardness.json",
+      "ground_truth": "annotations/heldout/table_05_hardness_cells_ground_truth.json",
+      "difficulty": "three_level_header"
+    },
+    {
+      "id": "table_06_mechanical_properties",
+      "image": "data/images/table_06_mechanical_properties.png",
+      "ocr": "data/ocr/table_06_mechanical_properties.json",
+      "ground_truth": "annotations/heldout/table_06_mechanical_properties_cells_ground_truth.json",
+      "difficulty": "wide_hierarchical_header_and_multiline_values"
+    },
+    {
+      "id": "table_07_heat_treatment",
+      "image": "data/images/table_07_heat_treatment.png",
+      "ocr": "data/ocr/table_07_heat_treatment.json",
+      "ground_truth": "annotations/heldout/table_07_heat_treatment_cells_ground_truth.json",
+      "difficulty": "rowspans_and_partial_grid"
+    }
+  ]
+}
